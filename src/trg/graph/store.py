@@ -25,10 +25,23 @@ class GraphStore:
     # writes ------------------------------------------------------------------------------------------------------
     def add_entity(self, kind: str, name: str, **props) -> str:
         uid = props.pop("uuid", None) or f"ent-{uuidlib.uuid4().hex[:12]}"
-        row = {"uuid": uid, "name": name, "kind": kind, "country": None, "regno": None, "city": None, "dob": None,
-               "aliases": "[]", "supplier_ref": None, "summary": None} | props
-        self.run("CREATE (:Entity {uuid: $uuid, name: $name, kind: $kind, country: $country, regno: $regno, city: $city, "
-                 "dob: $dob, aliases: $aliases, supplier_ref: $supplier_ref, summary: $summary})", row)
+        row = {
+            "uuid": uid,
+            "name": name,
+            "kind": kind,
+            "country": None,
+            "regno": None,
+            "city": None,
+            "dob": None,
+            "aliases": "[]",
+            "supplier_ref": None,
+            "summary": None,
+        } | props
+        self.run(
+            "CREATE (:Entity {uuid: $uuid, name: $name, kind: $kind, country: $country, regno: $regno, city: $city, "
+            "dob: $dob, aliases: $aliases, supplier_ref: $supplier_ref, summary: $summary})",
+            row,
+        )
         self.kinds[uid] = kind
         self.writes += 1
         return uid
@@ -40,10 +53,17 @@ class GraphStore:
 
     def add_episode(self, source: str, ref: str, valid_at: int, created_at: int, content: str, mentions=()) -> str:
         uid = f"ep-{uuidlib.uuid4().hex[:12]}"
-        self.run("CREATE (:Episodic {uuid: $uuid, source: $source, ref: $ref, valid_at: $valid_at, "
-                 "created_at: $created_at, content: $content})",
-                 {"uuid": uid, "source": source, "ref": ref, "valid_at": valid_at, "created_at": created_at,
-                  "content": content[:2000]})
+        self.run(
+            "CREATE (:Episodic {uuid: $uuid, source: $source, ref: $ref, valid_at: $valid_at, created_at: $created_at, content: $content})",
+            {
+                "uuid": uid,
+                "source": source,
+                "ref": ref,
+                "valid_at": valid_at,
+                "created_at": created_at,
+                "content": content[:2000],
+            },
+        )
         for m in set(mentions):
             self.run("MATCH (e:Episodic {uuid: $e}), (n:Entity {uuid: $n}) CREATE (e)-[:MENTIONS]->(n)", {"e": uid, "n": m})
         self.writes += 1
@@ -53,12 +73,24 @@ class GraphStore:
         check_fact(f, self.kinds)
         uid = f"fact-{uuidlib.uuid4().hex[:12]}"
         props = {k: None for k in FACT_PROPS} | {
-            "uuid": uid, "name": f.name, "fact": f.fact, "pct": f.pct, "topic": f.topic, "valid_at": f.valid_at,
-            "invalid_at": f.invalid_at, "created_at": created_at, "expired_at": None, "source": f.source,
-            "episodes": json.dumps(list(f.episodes)), "confidence": f.confidence}
+            "uuid": uid,
+            "name": f.name,
+            "fact": f.fact,
+            "pct": f.pct,
+            "topic": f.topic,
+            "valid_at": f.valid_at,
+            "invalid_at": f.invalid_at,
+            "created_at": created_at,
+            "expired_at": None,
+            "source": f.source,
+            "episodes": json.dumps(list(f.episodes)),
+            "confidence": f.confidence,
+        }
         sets = ", ".join(f"{k}: ${k}" for k in props)
-        self.run(f"MATCH (a:Entity {{uuid: $a}}), (b:Entity {{uuid: $b}}) CREATE (a)-[:RELATES_TO {{{sets}}}]->(b)",
-                 props | {"a": f.source_uuid, "b": f.target_uuid})
+        self.run(
+            f"MATCH (a:Entity {{uuid: $a}}), (b:Entity {{uuid: $b}}) CREATE (a)-[:RELATES_TO {{{sets}}}]->(b)",
+            props | {"a": f.source_uuid, "b": f.target_uuid},
+        )
         self.writes += 1
         return uid
 

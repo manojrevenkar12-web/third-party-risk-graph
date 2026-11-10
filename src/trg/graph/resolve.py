@@ -14,14 +14,42 @@ import re
 import unicodedata
 from dataclasses import dataclass, field
 
-from rapidfuzz import fuzz
-
 LEGAL = {"gmbh", "ltd", "limited", "llc", "ag", "bv", "b", "v", "as", "a", "s", "co", "inc", "plc", "sa", "fze", "fzco"}
 PATRONYMIC = re.compile(r"(ovich|evich|yevich|ovna|evna|yevna|ich)$")
-TRANSLIT = [("tsch", "ch"), ("sch", "sh"), ("shch", "sh"), ("zh", "sh"), ("kh", "h"), ("ts", "s"), ("tz", "s"), ("z", "s"), ("ch", "h"), ("ks", "x"),
-            ("ph", "f"), ("ou", "u"), ("ee", "i"), ("oo", "u"), ("iy", "i"), ("yi", "i"), ("ij", "i"), ("y", "i"),
-            ("j", "i"), ("w", "v"), ("ck", "k"), ("dh", "d"), ("th", "t"), ("q", "k"), ("ss", "s"), ("ll", "l"),
-            ("mm", "m"), ("nn", "n"), ("tt", "t"), ("e", "a"), ("o", "a"), ("u", "a")]
+TRANSLIT = [
+    ("tsch", "ch"),
+    ("sch", "sh"),
+    ("shch", "sh"),
+    ("zh", "sh"),
+    ("kh", "h"),
+    ("ts", "s"),
+    ("tz", "s"),
+    ("z", "s"),
+    ("ch", "h"),
+    ("ks", "x"),
+    ("ph", "f"),
+    ("ou", "u"),
+    ("ee", "i"),
+    ("oo", "u"),
+    ("iy", "i"),
+    ("yi", "i"),
+    ("ij", "i"),
+    ("y", "i"),
+    ("j", "i"),
+    ("w", "v"),
+    ("ck", "k"),
+    ("dh", "d"),
+    ("th", "t"),
+    ("q", "k"),
+    ("ss", "s"),
+    ("ll", "l"),
+    ("mm", "m"),
+    ("nn", "n"),
+    ("tt", "t"),
+    ("e", "a"),
+    ("o", "a"),
+    ("u", "a"),
+]
 ARTICLE = re.compile(r"^(al|el)(?=[bcdfghklmnpqrstvwxz])")
 IOTATED = re.compile(r"^[yj](?=[aeiou])")
 
@@ -36,6 +64,30 @@ def fold(s: str) -> str:
 def company_key(name: str) -> str:
     toks = [t for t in re.findall(r"[a-z0-9]+", fold(name)) if t not in LEGAL]
     return " ".join(toks)
+
+
+FORMS = [
+    ("co ltd", "co-ltd"),
+    ("gmbh", "gmbh"),
+    ("limited", "ltd"),
+    ("ltd", "ltd"),
+    ("llc", "llc"),
+    ("ag", "ag"),
+    ("b v", "bv"),
+    ("bv", "bv"),
+    ("a s", "as"),
+    ("plc", "plc"),
+    ("fze", "fze"),
+]
+
+
+def legal_form(name: str) -> str | None:
+    """The legal form a name ends with, normalised ('Ltd' and 'Limited' are one form; 'LLC' is another)."""
+    s = " ".join(re.findall(r"[a-z0-9]+", fold(name)))
+    for raw, norm in FORMS:
+        if s.endswith(" " + raw):
+            return norm
+    return None
 
 
 def _phon(tok: str) -> str:
@@ -75,9 +127,9 @@ def person_key(name: str, phonetic: bool = True) -> str:
 @dataclass
 class PersonRef:
     name: str
-    dob: str | None = None        # YYYY-MM-DD
-    month: str | None = None      # YYYY-MM
-    year: str | None = None       # YYYY
+    dob: str | None = None  # YYYY-MM-DD
+    month: str | None = None  # YYYY-MM
+    year: str | None = None  # YYYY
     nationality: str | None = None
 
 
@@ -150,10 +202,6 @@ class PersonIndex:
                 c = self.people[i]
                 if any(split_person(n)[0] and split_person(n)[0][0].startswith(initial) for n in c.names):
                     ids.add(i)
-        if not ids and toks:
-            for i in self.by_family.get(_phon(toks[-1]), set()) | self.by_family.get(_phon(toks[0]), set()):
-                if max(fuzz.token_sort_ratio(k, kk) for kk in self.people[i].keys) >= 88:
-                    ids.add(i)
         return [self.people[i] for i in ids]
 
     @staticmethod
@@ -184,10 +232,19 @@ class PersonIndex:
             return None, "new" if not cands else "new: identifiers conflict"
         best = max(self.evidence(c, ref) for c in ok)
         top = [c for c in ok if self.evidence(c, ref) == best]
-        if len(top) == 1 and (best > 0 or len(ok) == 1):
-            if best == 0 and ref.nationality and top[0].nationality and ref.nationality != top[0].nationality:
-                return None, "new: nationality differs"
-            return top[0].uuid, ("dob" if best == 3 else "month" if best == 2 else "year" if best == 1 else "only candidate")
+        if len(top) == 1 and best > 0:
+            return top[0].uuid, ("dob" if best == 3 else "month" if best == 2 else "year")
+        if len(ok) == 1 and best == 0:
+            c = ok[0]
+            # neither side has a birth date: same name and nationality is all we have, so merge only two such mentions
+            if (
+                not (c.dob or c.month or c.year)
+                and not (ref.dob or ref.month or ref.year)
+                and ref.nationality
+                and ref.nationality == c.nationality
+            ):
+                return c.uuid, "name and nationality"
+            return None, "new: nothing to tell namesakes apart"
         return None, "new: ambiguous"
 
     def merge_info(self, uid: str, ref: PersonRef) -> None:
@@ -198,13 +255,13 @@ class CompanyIndex:
     def __init__(self, fuzzy: bool = True, attributes: bool = True):
         self.fuzzy, self.attributes = fuzzy, attributes
         self.by_reg: dict[tuple[str, str], str] = {}
-        self.by_key: dict[str, list[tuple[str, str | None, str | None]]] = {}
+        self.by_key: dict[str, list[tuple[str, str | None, str | None, str | None]]] = {}
 
     def add(self, uid: str, name: str, country: str | None, regno: str | None, city: str | None = None) -> None:
         if regno and country:
             self.by_reg[(country, regno)] = uid
         k = company_key(name) if self.fuzzy else name
-        self.by_key.setdefault(k, []).append((uid, country, city))
+        self.by_key.setdefault(k, []).append((uid, country, city, legal_form(name)))
 
     def resolve(self, name: str, country: str | None = None, regno: str | None = None, city: str | None = None) -> str | None:
         if regno and country and (country, regno) in self.by_reg:
@@ -213,9 +270,11 @@ class CompanyIndex:
         hits = self.by_key.get(k, [])
         if not self.attributes:
             return hits[0][0] if hits else None
-        if regno and country and any(c == country for _, c, _ in hits):
+        form = legal_form(name)
+        hits = [h for h in hits if not (form and h[3] and form != h[3])]  # an LLC is not a Ltd
+        if regno and country and any(h[1] == country for h in hits):
             return None  # same name, same country, a different registry number: a different company
         same = [h for h in hits if country is None or h[1] == country]
         if city:
-            same = [h for h in same if h[2] in (None, city)] or same
+            same = [h for h in same if h[2] == city] or [h for h in same if h[2] is None and h[1] == country]
         return same[0][0] if len(same) == 1 else None

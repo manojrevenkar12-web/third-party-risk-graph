@@ -26,18 +26,48 @@ FACTS = {
 TOPICS = ("bribery", "fraud", "sanctions_evasion", "money_laundering", "labour_violations", "environmental", "tax_evasion")
 SOURCES = ("registry", "sanctions", "pep", "news", "web", "client")
 
-ENTITY_PROPS = {"uuid": "STRING", "name": "STRING", "kind": "STRING", "country": "STRING", "regno": "STRING",
-                "city": "STRING", "dob": "STRING", "aliases": "STRING", "supplier_ref": "STRING", "summary": "STRING"}
-EPISODE_PROPS = {"uuid": "STRING", "source": "STRING", "ref": "STRING", "valid_at": "INT64", "created_at": "INT64",
-                 "content": "STRING"}
-FACT_PROPS = {"uuid": "STRING", "name": "STRING", "fact": "STRING", "pct": "DOUBLE", "topic": "STRING",
-              "valid_at": "INT64", "invalid_at": "INT64", "created_at": "INT64", "expired_at": "INT64",
-              "source": "STRING", "episodes": "STRING", "confidence": "DOUBLE"}
+ENTITY_PROPS = {
+    "uuid": "STRING",
+    "name": "STRING",
+    "kind": "STRING",
+    "country": "STRING",
+    "regno": "STRING",
+    "city": "STRING",
+    "dob": "STRING",
+    "aliases": "STRING",
+    "supplier_ref": "STRING",
+    "summary": "STRING",
+}
+EPISODE_PROPS = {
+    "uuid": "STRING",
+    "source": "STRING",
+    "ref": "STRING",
+    "valid_at": "INT64",
+    "created_at": "INT64",
+    "content": "STRING",
+}
+FACT_PROPS = {
+    "uuid": "STRING",
+    "name": "STRING",
+    "fact": "STRING",
+    "pct": "DOUBLE",
+    "topic": "STRING",
+    "valid_at": "INT64",
+    "invalid_at": "INT64",
+    "created_at": "INT64",
+    "expired_at": "INT64",
+    "source": "STRING",
+    "episodes": "STRING",
+    "confidence": "DOUBLE",
+}
 COMMUNITY_PROPS = {"uuid": "STRING", "name": "STRING", "summary": "STRING"}
 
 LABELS = {"Entity": ENTITY_PROPS, "Episodic": EPISODE_PROPS, "Community": COMMUNITY_PROPS}
-RELS = {"RELATES_TO": ("Entity", "Entity", FACT_PROPS), "MENTIONS": ("Episodic", "Entity", {}),
-        "HAS_MEMBER": ("Community", "Entity", {})}
+RELS = {
+    "RELATES_TO": ("Entity", "Entity", FACT_PROPS),
+    "MENTIONS": ("Episodic", "Entity", {}),
+    "HAS_MEMBER": ("Community", "Entity", {}),
+}
 
 
 class SchemaError(ValueError):
@@ -90,19 +120,22 @@ def kuzu_ddl() -> list[str]:
 
 
 def neo4j_ddl() -> list[str]:
-    out = [f"CREATE CONSTRAINT {label.lower()}_uuid IF NOT EXISTS FOR (n:{label}) REQUIRE n.uuid IS UNIQUE"
-           for label in LABELS]
-    out += ["CREATE INDEX entity_name IF NOT EXISTS FOR (n:Entity) ON (n.name)",
-            "CREATE INDEX entity_supplier IF NOT EXISTS FOR (n:Entity) ON (n.supplier_ref)",
-            "CREATE INDEX fact_name IF NOT EXISTS FOR ()-[r:RELATES_TO]-() ON (r.name)",
-            "CREATE INDEX fact_valid IF NOT EXISTS FOR ()-[r:RELATES_TO]-() ON (r.valid_at, r.invalid_at)"]
+    out = [f"CREATE CONSTRAINT {label.lower()}_uuid IF NOT EXISTS FOR (n:{label}) REQUIRE n.uuid IS UNIQUE" for label in LABELS]
+    out += [
+        "CREATE INDEX entity_name IF NOT EXISTS FOR (n:Entity) ON (n.name)",
+        "CREATE INDEX entity_supplier IF NOT EXISTS FOR (n:Entity) ON (n.supplier_ref)",
+        "CREATE INDEX fact_name IF NOT EXISTS FOR ()-[r:RELATES_TO]-() ON (r.name)",
+        "CREATE INDEX fact_valid IF NOT EXISTS FOR ()-[r:RELATES_TO]-() ON (r.valid_at, r.invalid_at)",
+    ]
     return out
 
 
 def describe() -> str:
     """The schema as a model sees it when it writes Cypher."""
     facts = "; ".join(f"{k}: ({'|'.join(a)})->({'|'.join(b)})" for k, (a, b, _) in FACTS.items())
-    return (f"Nodes: (:Entity {{{', '.join(ENTITY_PROPS)}}}) with kind in {ENTITY_KINDS}; (:Episodic); (:Community). "
-            f"Facts are (:Entity)-[:RELATES_TO {{name, {', '.join(k for k in FACT_PROPS if k != 'name')}}}]->(:Entity) "
-            f"with name in: {facts}. Days are integers since 1970-01-01. A fact holds on day D when "
-            "valid_at <= D AND (invalid_at IS NULL OR invalid_at > D) AND expired_at IS NULL.")
+    return (
+        f"Nodes: (:Entity {{{', '.join(ENTITY_PROPS)}}}) with kind in {ENTITY_KINDS}; (:Episodic); (:Community). "
+        f"Facts are (:Entity)-[:RELATES_TO {{name, {', '.join(k for k in FACT_PROPS if k != 'name')}}}]->(:Entity) "
+        f"with name in: {facts}. Days are integers since 1970-01-01. A fact holds on day D when "
+        "valid_at <= D AND (invalid_at IS NULL OR invalid_at > D) AND expired_at IS NULL."
+    )

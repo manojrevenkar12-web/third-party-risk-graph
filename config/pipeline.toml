@@ -1,0 +1,59 @@
+# Pipeline settings, designs, simulated model rates, prices and the release gate.
+
+[settings]
+crawl_depth = 4
+max_searches_per_holding = 3
+min_page_agreement = 1
+topic_threshold = 0.55         # below this the small topic model hands the article to the model (cascade)
+news_ownership_confidence = 0.8
+web_ownership_confidence = 0.7
+max_web_age_days = 365         # ownership read from a page or article older than this is not trusted for "as of" answers
+
+[prices.small]
+in_per_mtok = 0.8
+out_per_mtok = 4.0
+[prices.large]
+in_per_mtok = 3.0
+out_per_mtok = 15.0
+
+[latency]  # seconds per call, typical for hosted models; used only for the simulated model
+small = 0.9
+large = 2.4
+
+[models.anthropic]
+small = "claude-haiku-4-5"
+large = "claude-sonnet-4-5"
+[models.gemini]
+small = "gemini-2.5-flash"
+large = "gemini-2.5-pro"
+
+# The simulated model's mistake rates. They are assumptions, not measurements of a real model.
+[sim]
+seed = 11
+[sim.small]
+wrong_topic = 0.12
+missed_fact = 0.04
+wrong_pct = 0.04
+cypher_no_time = 0.25         # forgets the as-of filter
+cypher_wrong_name = 0.12      # a relationship or property that is not in the schema
+cypher_direction = 0.08       # owner and owned swapped
+cypher_one_hop = 0.35         # beneficial owners read from direct owners only
+page_misread = 0.06
+intent_misread = 0.06
+[sim.large]
+wrong_topic = 0.06
+missed_fact = 0.02
+wrong_pct = 0.02
+cypher_no_time = 0.12
+cypher_wrong_name = 0.05
+cypher_direction = 0.04
+cypher_one_hop = 0.18
+page_misread = 0.03
+intent_misread = 0.03
+
+[gate]  # on the development split; limits are not loosened to make a design pass
+min_right = 0.85               # share of questions answered right (abstaining is not right)
+max_wrong = 0.02               # share answered wrongly
+min_er_precision = 0.99        # pairwise precision of entity resolution
+max_false_sanctions_links = 0  # listings attached to the wrong person or company
+min_article_precision = 0.95   # adverse-media facts attached to the right entity with the right topic

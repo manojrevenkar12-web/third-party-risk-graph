@@ -3,61 +3,61 @@
 "id": "DOC00001",
 "published": "2023-07-21",
 "lang": "de",
-"text": "Gegen Klaus Hoffmann (63) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Handelsblatt"
+"text": "Gegen Katrin Kohler (40) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00002",
-"published": "2023-09-16",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Klaus Hoffmann (63) wegen Rechnungsbetrug.",
+"published": "2023-08-11",
+"lang": "en",
+"text": "Former employees accuse Katrin Köhler, 40, of accounting fraud.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00003",
 "published": "2023-01-11",
-"lang": "en",
-"text": "Elena Kuznetsov, 50, is under scrutiny for unsafe working conditions, according to court filings.",
-"source": "Handelsblatt"
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Abdallah Khoury (66) wegen unbezahlter Löhne.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00004",
-"published": "2025-10-20",
+"published": "2023-02-06",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Richard Fletcher (72) wegen Geldwäsche über Scheinfirmen.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Abdullah Khoury (66) wegen unbezahlter Löhne.",
 "source": "FT"
 },
 {
 "id": "DOC00005",
-"published": "2025-12-17",
+"published": "2023-05-07",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Richard Fletcher (72) wegen Geldwäsche über Scheinfirmen.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Abdullah Khoury (66) wegen unbezahlter Löhne.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00006",
-"published": "2025-12-31",
+"published": "2025-10-20",
 "lang": "en",
-"text": "Former employees accuse Richard Fletcher, 72, of moving funds through shell companies.",
+"text": "Former employees accuse Ahmad Nasser, 48, of moving funds through shell companies.",
 "source": "Reuters"
 },
 {
 "id": "DOC00007",
-"published": "2024-01-31",
+"published": "2025-12-15",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Granite Shipping B.V. of Rotterdam over evading export controls.",
-"source": "FT"
+"text": "Regulators fined Ahmed Nasser, 48, after finding evidence of laundering money through trade invoices.",
+"source": "Reuters"
 },
 {
 "id": "DOC00008",
-"published": "2024-03-17",
+"published": "2025-12-23",
 "lang": "en",
-"text": "Granite Shipping B.V. of Rotterdam is under scrutiny for shipping goods to a sanctioned buyer through intermediaries, according to court filings.",
+"text": "Ahmed Nasser, 48, is under scrutiny for laundering money through trade invoices, according to court filings.",
 "source": "FT"
 },
 {
 "id": "DOC00009",
-"published": "2024-03-01",
+"published": "2024-01-31",
 "lang": "de",
 "text": "Gegen Granite Shipping B.V. (Rotterdam) wird wegen Verstößen gegen Exportkontrollen ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "local press"
@@ -150,7 +150,7 @@
 "id": "DOC00022",
 "published": "2023-12-16",
 "lang": "de",
-"text": "Gegen Emily Turner (69) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Mariam Haddad (46) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Lloyd's List"
 },
 {
@@ -178,21 +178,21 @@
 "id": "DOC00026",
 "published": "2024-08-14",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Julia Schmidt (72) wegen illegaler Entsorgung von Chemieabfällen.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Richard Smith (44) wegen illegaler Entsorgung von Chemieabfällen.",
 "source": "local press"
 },
 {
 "id": "DOC00027",
 "published": "2024-08-21",
 "lang": "en",
-"text": "Former employees accuse Julia Schmidt, 72, of illegal dumping of chemical waste.",
+"text": "Former employees accuse Richard Smith, 44, of illegal dumping of chemical waste.",
 "source": "Reuters"
 },
 {
 "id": "DOC00028",
 "published": "2024-09-25",
 "lang": "en",
-"text": "Julia Schmidt, 72, is under scrutiny for contaminating groundwater, according to court filings.",
+"text": "Richard Smith, 44, is under scrutiny for contaminating groundwater, according to court filings.",
 "source": "OCCRP"
 },
 {
@@ -220,22 +220,22 @@
 "id": "DOC00032",
 "published": "2024-08-02",
 "lang": "en",
-"text": "Former employees accuse Sarah Taylor, 71, of accounting fraud.",
+"text": "Former employees accuse Katrin Köhler, 58, of accounting fraud.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00033",
 "published": "2024-09-24",
 "lang": "en",
-"text": "Sarah Taylor, 71, is under scrutiny for invoice fraud against customers, according to court filings.",
+"text": "Regulators fined Katrin Kohler, 58, after finding evidence of invoice fraud against customers.",
 "source": "local press"
 },
 {
 "id": "DOC00034",
-"published": "2024-11-28",
+"published": "2024-09-13",
 "lang": "de",
-"text": "Gegen Sarah Taylor (71) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Reuters"
+"text": "Die Behörden verhängten ein Bußgeld gegen Katrin Köhler (58) wegen Rechnungsbetrug.",
+"source": "FT"
 },
 {
 "id": "DOC00035",
@@ -276,267 +276,267 @@
 "id": "DOC00040",
 "published": "2025-06-18",
 "lang": "en",
-"text": "Former employees accuse Katrin Kohler, 59, of laundering money through trade invoices.",
+"text": "Former employees accuse Oleg Wolkow, 48, of laundering money through trade invoices.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00041",
 "published": "2025-07-05",
 "lang": "en",
-"text": "Katrin Köhler, 59, is under scrutiny for moving funds through shell companies, according to court filings.",
+"text": "Oleg Volkov, 48, is under scrutiny for moving funds through shell companies, according to court filings.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00042",
 "published": "2025-07-18",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Katrin Koehler, 59, over moving funds through shell companies.",
+"text": "Prosecutors opened an investigation into Oleg Olegovich Volkov, 48, over moving funds through shell companies.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00043",
 "published": "2024-03-29",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Edward Cooper, 71, over underreporting income.",
+"text": "Prosecutors opened an investigation into Aleksandr Aleksandrovich Grigoryev, 45, over underreporting income.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00044",
 "published": "2024-03-31",
 "lang": "de",
-"text": "Gegen Jurgen Becker (72) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Klaus Weiß (43) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00045",
 "published": "2023-01-20",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Corvus Chemie GmbH of Bremen over contaminating groundwater.",
-"source": "FT"
+"text": "Prosecutors opened an investigation into Corvus Chemie GmbH of Bremen over air pollution breaches.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00046",
-"published": "2023-01-24",
+"published": "2023-02-16",
 "lang": "en",
-"text": "Former employees accuse Corvus Chemie GmbH of Bremen of contaminating groundwater.",
-"source": "Handelsblatt"
+"text": "Corvus Chemie GmbH of Bremen is under scrutiny for contaminating groundwater, according to court filings.",
+"source": "local press"
 },
 {
 "id": "DOC00047",
 "published": "2024-07-11",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Jorg Wagner (47) wegen Steuerhinterziehung über Offshore-Konten.",
+"text": "Gegen Li Yan (47) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00048",
-"published": "2024-07-15",
-"lang": "en",
-"text": "Joerg Wagner, 47, is under scrutiny for VAT carousel fraud, according to court filings.",
-"source": "local press"
+"published": "2024-09-05",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Li Yan (47) wegen Steuerhinterziehung über Offshore-Konten.",
+"source": "Reuters"
 },
 {
 "id": "DOC00049",
-"published": "2024-10-11",
-"lang": "en",
-"text": "Regulators fined Jorg Wagner, 48, after finding evidence of underreporting income.",
-"source": "Reuters"
+"published": "2024-11-06",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Li Yan (48) wegen Steuerhinterziehung über Offshore-Konten.",
+"source": "FT"
 },
 {
 "id": "DOC00050",
 "published": "2025-07-07",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Larch Engineering (Geneva) wegen Bestechung von Amtsträgern.",
-"source": "FT"
-},
-{
-"id": "DOC00051",
-"published": "2025-07-30",
 "lang": "en",
-"text": "Vega Chemie of Hamburg is under scrutiny for VAT carousel fraud, according to court filings.",
+"text": "Larch Engineering of Geneva is under scrutiny for bribery of procurement officers, according to court filings.",
 "source": "local press"
 },
 {
-"id": "DOC00052",
-"published": "2025-08-08",
+"id": "DOC00051",
+"published": "2025-07-16",
 "lang": "de",
-"text": "Gegen Vega Chemie (Hamburg) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Larch Engineering (Geneva) wird wegen Bestechung von Amtsträgern ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Der Spiegel"
+},
+{
+"id": "DOC00052",
+"published": "2025-07-30",
+"lang": "en",
+"text": "Former employees accuse Vega Chemie of Hamburg of underreporting income.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00053",
 "published": "2024-10-13",
 "lang": "en",
-"text": "Former employees accuse Driftwood Engineering of Lugano of falsifying test certificates.",
-"source": "OCCRP"
+"text": "Driftwood Engineering of Lugano is under scrutiny for accounting fraud, according to court filings.",
+"source": "Lloyd's List"
 },
 {
 "id": "DOC00054",
 "published": "2025-10-08",
-"lang": "en",
-"text": "Marlin Chemie of Frankfurt am Main is under scrutiny for accounting fraud, according to court filings.",
-"source": "Lloyd's List"
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Marlin Chemie (Frankfurt am Main) wegen Bilanzbetrug.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00055",
-"published": "2023-06-01",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Tarek Nasser (59) wegen unbezahlter Löhne.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00056",
-"published": "2023-06-09",
+"published": "2025-10-16",
 "lang": "en",
-"text": "Regulators fined Tarek Nasser, 59, after finding evidence of forced overtime.",
+"text": "Regulators fined Marlin Chemie of Frankfurt am Main after finding evidence of falsifying test certificates.",
 "source": "FT"
 },
 {
-"id": "DOC00057",
-"published": "2023-07-27",
+"id": "DOC00056",
+"published": "2025-12-03",
 "lang": "en",
-"text": "Regulators fined Tarek Nasser, 59, after finding evidence of unsafe working conditions.",
+"text": "Regulators fined Marlin Chemie of Frankfurt am Main after finding evidence of invoice fraud against customers.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00058",
-"published": "2023-10-04",
+"id": "DOC00057",
+"published": "2023-06-01",
 "lang": "en",
-"text": "Former employees accuse Hasan Al-Mansouri, 41, of evading export controls.",
+"text": "Former employees accuse Liu Mei, 60, of unsafe working conditions.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00058",
+"published": "2023-06-22",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Mei Liu (60) wegen gefährlicher Arbeitsbedingungen.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00059",
-"published": "2023-10-25",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Hassan Al-Mansouri (41) wegen Verstößen gegen Exportkontrollen.",
-"source": "Der Spiegel"
+"published": "2023-09-27",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Liu Mei, 60, over unsafe working conditions.",
+"source": "Lloyd's List"
 },
 {
 "id": "DOC00060",
-"published": "2024-01-30",
+"published": "2023-10-04",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Hasan Al-Mansouri, 42, over evading export controls.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00061",
-"published": "2024-08-17",
-"lang": "en",
-"text": "Jelena Wolkow, 45, is under scrutiny for re-exporting restricted components, according to court filings.",
+"text": "Natalja Schtscherbakow, 42, is under scrutiny for re-exporting restricted components, according to court filings.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00062",
-"published": "2024-09-18",
+"id": "DOC00061",
+"published": "2023-11-05",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Jelena Wolkow (45) wegen Umgehung von Sanktionen über Zwischenhändler.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Natalya Shcherbakov (42) wegen Umgehung von Sanktionen über Zwischenhändler.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00063",
-"published": "2024-10-10",
+"id": "DOC00062",
+"published": "2023-11-27",
 "lang": "en",
-"text": "Former employees accuse Jelena Wolkow, 45, of evading export controls.",
+"text": "Former employees accuse Natalja Schtscherbakow, 42, of evading export controls.",
 "source": "local press"
 },
 {
-"id": "DOC00064",
-"published": "2023-02-25",
+"id": "DOC00063",
+"published": "2024-08-17",
 "lang": "en",
-"text": "Regulators fined Aleksandr Aleksandrovich Orlov, 52, after finding evidence of air pollution breaches.",
+"text": "Regulators fined Aleksandr Aleksandrovich Shcherbakov, 52, after finding evidence of evading export controls.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00065",
-"published": "2023-03-31",
+"id": "DOC00064",
+"published": "2024-09-20",
 "lang": "en",
-"text": "Aleksandr Aleksandrovich Orlov, 52, is under scrutiny for contaminating groundwater, according to court filings.",
+"text": "Aleksandr Aleksandrovich Shcherbakov, 52, is under scrutiny for re-exporting restricted components, according to court filings.",
+"source": "local press"
+},
+{
+"id": "DOC00065",
+"published": "2024-08-29",
+"lang": "en",
+"text": "Former employees accuse Aleksandr Aleksandrovich Shcherbakov, 52, of re-exporting restricted components.",
 "source": "local press"
 },
 {
 "id": "DOC00066",
-"published": "2023-03-09",
+"published": "2023-02-25",
 "lang": "en",
-"text": "Former employees accuse Aleksandr Aleksandrovich Orlov, 52, of contaminating groundwater.",
-"source": "local press"
-},
-{
-"id": "DOC00067",
-"published": "2023-07-30",
-"lang": "en",
-"text": "Former employees accuse Abdallah Saleh, 34, of hiding profits in offshore accounts.",
+"text": "Former employees accuse Ahmad Khoury, 58, of illegal dumping of chemical waste.",
 "source": "Der Spiegel"
 },
 {
-"id": "DOC00068",
-"published": "2023-09-01",
+"id": "DOC00067",
+"published": "2023-03-30",
 "lang": "de",
-"text": "Gegen Abdallah Saleh (34) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Ahmad Khoury (58) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "local press"
+},
+{
+"id": "DOC00068",
+"published": "2023-07-30",
+"lang": "en",
+"text": "Former employees accuse Vladimir Shcherbakov, 38, of VAT carousel fraud.",
 "source": "local press"
 },
 {
 "id": "DOC00069",
-"published": "2023-09-08",
-"lang": "en",
-"text": "Former employees accuse Elbe Handel GmbH of Leipzig of bribery of procurement officers.",
-"source": "local press"
+"published": "2023-09-23",
+"lang": "de",
+"text": "Gegen Vladimir Vladimirovich Shcherbakov (38) wird wegen Umsatzsteuerbetrugs ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00070",
-"published": "2023-11-02",
-"lang": "de",
-"text": "Gegen Elbe Handel (Leipzig) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "OCCRP"
+"published": "2023-09-08",
+"lang": "en",
+"text": "Elbe Handel GmbH of Leipzig is under scrutiny for bribery of procurement officers, according to court filings.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00071",
-"published": "2025-07-14",
+"published": "2023-09-14",
 "lang": "en",
-"text": "Redstone Elektronik of Frankfurt am Main is under scrutiny for shipping goods to a sanctioned buyer through intermediaries, according to court filings.",
-"source": "FT"
-},
-{
-"id": "DOC00072",
-"published": "2025-07-28",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Redstone Elektronik (Frankfurt am Main) wegen Verstößen gegen Exportkontrollen.",
+"text": "Regulators fined Elbe Handel GmbH of Leipzig after finding evidence of bribery of procurement officers.",
 "source": "Lloyd's List"
 },
 {
+"id": "DOC00072",
+"published": "2025-07-14",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Redstone Elektronik (Frankfurt am Main) wegen Umgehung von Sanktionen über Zwischenhändler.",
+"source": "OCCRP"
+},
+{
 "id": "DOC00073",
-"published": "2026-06-12",
+"published": "2025-07-21",
 "lang": "en",
-"text": "Former employees accuse Emberly Handel GmbH of Stuttgart of accounting fraud.",
-"source": "Handelsblatt"
+"text": "Prosecutors opened an investigation into Redstone Elektronik of Frankfurt am Main over re-exporting restricted components.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00074",
-"published": "2026-06-30",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Emberly Handel (Stuttgart) wegen Bilanzbetrug.",
-"source": "OCCRP"
+"published": "2025-10-14",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Redstone Elektronik of Frankfurt am Main over shipping goods to a sanctioned buyer through intermediaries.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00075",
-"published": "2025-10-10",
-"lang": "en",
-"text": "Regulators fined Rheintal Logistik GmbH of Frankfurt am Main after finding evidence of re-exporting restricted components.",
-"source": "Handelsblatt"
+"published": "2026-06-12",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Emberly Handel GmbH (Stuttgart) wegen Rechnungsbetrug.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00076",
-"published": "2025-10-24",
+"published": "2026-06-30",
 "lang": "en",
-"text": "Regulators fined Rheintal Logistik GmbH of Frankfurt am Main after finding evidence of evading export controls.",
-"source": "FT"
+"text": "Former employees accuse Emberly Handel GmbH of Stuttgart of invoice fraud against customers.",
+"source": "local press"
 },
 {
 "id": "DOC00077",
-"published": "2025-12-09",
-"lang": "de",
-"text": "Gegen Rheintal Logistik GmbH (Frankfurt am Main) wird wegen Verstößen gegen Exportkontrollen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "OCCRP"
+"published": "2025-10-10",
+"lang": "en",
+"text": "Former employees accuse Rheintal Logistik of Frankfurt am Main of evading export controls.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00078",
@@ -563,1778 +563,1715 @@
 "id": "DOC00081",
 "published": "2026-04-20",
 "lang": "de",
-"text": "Gegen Hannah Smith (52) wird wegen Verstößen gegen Umweltauflagen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "FT"
+"text": "Gegen Mikhail Mikhaylovich Sokolov (67) wird wegen Verstößen gegen Umweltauflagen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00082",
-"published": "2026-05-18",
+"published": "2026-04-23",
 "lang": "en",
-"text": "Regulators fined Hannah Smith, 52, after finding evidence of illegal dumping of chemical waste.",
-"source": "Lloyd's List"
+"text": "Regulators fined Mikhail Mikhaylovich Sokolov, 67, after finding evidence of contaminating groundwater.",
+"source": "Reuters"
 },
 {
 "id": "DOC00083",
 "published": "2023-10-04",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Cobalt Trading Co., Ltd. of Ningbo over paying bribes to officials.",
-"source": "FT"
+"text": "Cobalt Trading of Ningbo is under scrutiny for bribery of procurement officers, according to court filings.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00084",
-"published": "2023-10-08",
+"published": "2023-10-09",
 "lang": "en",
-"text": "Former employees accuse Cobalt Trading of Ningbo of corrupt payments to win contracts.",
-"source": "Lloyd's List"
+"text": "Cobalt Trading of Ningbo is under scrutiny for corrupt payments to win contracts, according to court filings.",
+"source": "Reuters"
 },
 {
 "id": "DOC00085",
-"published": "2023-11-29",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Cobalt Trading (Ningbo) wegen Bestechung von Amtsträgern.",
+"published": "2023-12-01",
+"lang": "en",
+"text": "Former employees accuse Cobalt Trading Co., Ltd. of Ningbo of bribery of procurement officers.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00086",
 "published": "2024-02-11",
 "lang": "en",
-"text": "Regulators fined Abdullah Khoury, 67, after finding evidence of bribery of procurement officers.",
+"text": "Regulators fined Şükrü Demir, 45, after finding evidence of bribery of procurement officers.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00087",
-"published": "2024-03-28",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Abdullah Khoury (67) wegen Bestechung von Amtsträgern.",
+"published": "2024-07-20",
+"lang": "en",
+"text": "Ironbridge Chemie GmbH of Bremen is under scrutiny for unpaid wages at its warehouses, according to court filings.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00088",
-"published": "2024-07-20",
+"published": "2023-11-03",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Ironbridge Chemie of Bremen over unsafe working conditions.",
+"text": "Prosecutors opened an investigation into Zephyr Trading of Geneva over unsafe working conditions.",
 "source": "local press"
 },
 {
 "id": "DOC00089",
-"published": "2023-11-03",
+"published": "2025-06-21",
 "lang": "en",
-"text": "Zephyr Trading of Geneva is under scrutiny for unpaid wages at its warehouses, according to court filings.",
+"text": "Marlin Logistics of London is under scrutiny for accounting fraud, according to court filings.",
 "source": "Reuters"
 },
 {
 "id": "DOC00090",
-"published": "2023-12-26",
+"published": "2025-08-13",
 "lang": "en",
-"text": "Former employees accuse Zephyr Trading AG of Geneva of unsafe working conditions.",
+"text": "Former employees accuse Marlin Logistics Ltd of London of invoice fraud against customers.",
 "source": "FT"
 },
 {
 "id": "DOC00091",
-"published": "2024-02-03",
+"published": "2025-09-21",
 "lang": "de",
-"text": "Gegen Zephyr Trading (Geneva) wird wegen unbezahlter Löhne ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Marlin Logistics (London) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Handelsblatt"
 },
 {
 "id": "DOC00092",
-"published": "2025-06-21",
+"published": "2025-04-20",
 "lang": "de",
-"text": "Gegen Marlin Logistics (London) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "local press"
+"text": "Die Behörden verhängten ein Bußgeld gegen Aleksandr Aleksandrovich Zhukov (64) wegen Rechnungsbetrug.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00093",
-"published": "2025-08-09",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Marlin Logistics of London over accounting fraud.",
+"published": "2025-05-24",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Aleksandr Aleksandrovich Zhukov (65) wegen Bilanzbetrug.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00094",
-"published": "2025-10-19",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Marlin Logistics Ltd (London) wegen Bilanzbetrug.",
-"source": "Handelsblatt"
+"published": "2025-05-04",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Aleksandr Zhukov, 65, over falsifying test certificates.",
+"source": "Lloyd's List"
 },
 {
 "id": "DOC00095",
-"published": "2025-04-20",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Stefan Wagner, 59, over invoice fraud against customers.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00096",
-"published": "2025-05-22",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Stefan Wagner, 59, over invoice fraud against customers.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00097",
-"published": "2025-05-12",
-"lang": "en",
-"text": "Former employees accuse Stefan Wagner, 59, of accounting fraud.",
+"published": "2026-06-15",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Julia Groß (52) wegen Verstößen gegen Umweltauflagen.",
 "source": "Der Spiegel"
 },
 {
-"id": "DOC00098",
-"published": "2026-06-15",
-"lang": "de",
-"text": "Gegen Zhang Wei (55) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "FT"
-},
-{
-"id": "DOC00099",
-"published": "2026-06-30",
-"lang": "en",
-"text": "Wei Zhang, 55, is under scrutiny for contaminating groundwater, according to court filings.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00100",
-"published": "2026-06-30",
-"lang": "en",
-"text": "Regulators fined Wei Zhang, 55, after finding evidence of air pollution breaches.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00101",
+"id": "DOC00096",
 "published": "2024-03-13",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Alexander Semjonow, 58, over suspicious cash transfers flagged by its bank.",
-"source": "FT"
+"text": "Prosecutors opened an investigation into Zhou Wei, 66, over suspicious cash transfers flagged by its bank.",
+"source": "local press"
 },
 {
-"id": "DOC00102",
-"published": "2024-04-20",
-"lang": "en",
-"text": "Alexander Semjonow, 58, is under scrutiny for suspicious cash transfers flagged by its bank, according to court filings.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00103",
-"published": "2024-06-11",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Alexander Semjonow (58) wegen Geldwäsche über Scheinfirmen.",
-"source": "Reuters"
-},
-{
-"id": "DOC00104",
+"id": "DOC00097",
 "published": "2025-06-13",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Qiang Zhang (63) wegen Rechnungsbetrug.",
-"source": "FT"
-},
-{
-"id": "DOC00105",
-"published": "2025-06-18",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Zhang Qiang, 63, over invoice fraud against customers.",
+"text": "Prosecutors opened an investigation into Yuriy Zhukov, 45, over invoice fraud against customers.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00106",
-"published": "2025-08-05",
+"id": "DOC00098",
+"published": "2025-08-11",
 "lang": "en",
-"text": "Regulators fined Andrey Andreyevich Lebedev, 52, after finding evidence of VAT carousel fraud.",
+"text": "Former employees accuse Yuriy Yuryevich Zhukov, 45, of accounting fraud.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00099",
+"published": "2025-08-05",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Jelena Wolkow (46) wegen Umsatzsteuerbetrugs.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00100",
+"published": "2025-08-14",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Jelena Wolkow (46) wegen Steuerhinterziehung über Offshore-Konten.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00101",
+"published": "2025-08-27",
+"lang": "en",
+"text": "Former employees accuse Elena Volkov, 46, of hiding profits in offshore accounts.",
+"source": "local press"
+},
+{
+"id": "DOC00102",
+"published": "2025-03-18",
+"lang": "en",
+"text": "Former employees accuse Oakridge Investments of Sharjah of air pollution breaches.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00103",
+"published": "2023-10-10",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Birgit Schafer, 60, over underreporting income.",
+"source": "FT"
+},
+{
+"id": "DOC00104",
+"published": "2023-11-17",
+"lang": "en",
+"text": "Birgit Schaefer, 60, is under scrutiny for underreporting income, according to court filings.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00105",
+"published": "2023-11-04",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Hannah Taylor, 69, over air pollution breaches.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00106",
+"published": "2025-01-20",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Emberly Shipping (Rotterdam) wegen Geldwäsche über Scheinfirmen.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00107",
-"published": "2025-09-13",
+"published": "2025-02-06",
 "lang": "en",
-"text": "Andrej Lebedew, 52, is under scrutiny for underreporting income, according to court filings.",
+"text": "Regulators fined Emberly Shipping of Rotterdam after finding evidence of moving funds through shell companies.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00108",
-"published": "2025-10-14",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Andrey Andreyevich Lebedev (52) wegen Umsatzsteuerbetrugs.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00109",
-"published": "2025-03-18",
+"published": "2025-03-25",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Oakridge Investments of Sharjah over air pollution breaches.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00110",
-"published": "2025-04-25",
-"lang": "en",
-"text": "Former employees accuse Oakridge Investments LLC of Sharjah of illegal dumping of chemical waste.",
-"source": "FT"
-},
-{
-"id": "DOC00111",
-"published": "2023-10-10",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Ayşe Demir (40) wegen Umsatzsteuerbetrugs.",
-"source": "local press"
-},
-{
-"id": "DOC00112",
-"published": "2023-12-06",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Ayse Demir (40) wegen Steuerhinterziehung über Offshore-Konten.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00113",
-"published": "2023-11-04",
-"lang": "en",
-"text": "Richard Smith, 43, is under scrutiny for illegal dumping of chemical waste, according to court filings.",
-"source": "FT"
-},
-{
-"id": "DOC00114",
-"published": "2023-12-08",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Richard Smith (43) wegen Verstößen gegen Umweltauflagen.",
+"text": "Emberly Shipping of Rotterdam is under scrutiny for suspicious cash transfers flagged by its bank, according to court filings.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00115",
-"published": "2025-01-20",
+"id": "DOC00109",
+"published": "2025-09-23",
 "lang": "en",
-"text": "Emberly Shipping of Rotterdam is under scrutiny for laundering money through trade invoices, according to court filings.",
+"text": "Former employees accuse Yang Yan, 70, of hiding profits in offshore accounts.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00110",
+"published": "2023-03-31",
+"lang": "en",
+"text": "Joerg Krueger, 66, is under scrutiny for unpaid wages at its warehouses, according to court filings.",
+"source": "local press"
+},
+{
+"id": "DOC00111",
+"published": "2023-04-04",
+"lang": "en",
+"text": "Former employees accuse Jörg Krüger, 66, of forced overtime.",
+"source": "FT"
+},
+{
+"id": "DOC00112",
+"published": "2025-04-16",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Atlas Logistik GmbH (Stuttgart) wegen Schmiergeldzahlungen an Einkäufer.",
+"source": "local press"
+},
+{
+"id": "DOC00113",
+"published": "2025-06-12",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Atlas Logistik (Stuttgart) wegen Bestechung von Amtsträgern.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00114",
+"published": "2024-11-19",
+"lang": "en",
+"text": "Driftwood Logistics of Amsterdam is under scrutiny for hiding profits in offshore accounts, according to court filings.",
+"source": "FT"
+},
+{
+"id": "DOC00115",
+"published": "2024-12-23",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Driftwood Logistics B.V. (Amsterdam) wegen Umsatzsteuerbetrugs.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00116",
-"published": "2025-09-23",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Julia Groß (54) wegen Umsatzsteuerbetrugs.",
-"source": "Reuters"
+"published": "2026-03-11",
+"lang": "en",
+"text": "Former employees accuse Andrej Wolkow, 49, of corrupt payments to win contracts.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00117",
-"published": "2023-03-31",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Tatjana Kowaljow (47) wegen gefährlicher Arbeitsbedingungen.",
-"source": "Der Spiegel"
+"published": "2026-02-05",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Valiant Manufacturing of Shenzhen over unpaid wages at its warehouses.",
+"source": "FT"
 },
 {
 "id": "DOC00118",
-"published": "2023-05-30",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Tatyana Kovalev, 47, over unsafe working conditions.",
-"source": "Lloyd's List"
+"published": "2026-01-21",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Qiang Zhao (72) wegen Umgehung von Sanktionen über Zwischenhändler.",
+"source": "FT"
 },
 {
 "id": "DOC00119",
-"published": "2023-06-05",
+"published": "2026-01-20",
 "lang": "en",
-"text": "Tatyana Kovalev, 47, is under scrutiny for unpaid wages at its warehouses, according to court filings.",
-"source": "Lloyd's List"
+"text": "Regulators fined Wrenfield Maschinenbau of Frankfurt am Main after finding evidence of laundering money through trade invoices.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00120",
-"published": "2025-04-16",
+"published": "2026-01-02",
 "lang": "de",
-"text": "Gegen Atlas Logistik (Stuttgart) wird wegen Bestechung von Amtsträgern ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Der Spiegel"
+"text": "Die Staatsanwaltschaft ermittelt gegen Sabine Schmidt (37) wegen unbezahlter Löhne.",
+"source": "Reuters"
 },
 {
 "id": "DOC00121",
-"published": "2024-11-19",
+"published": "2026-01-15",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Driftwood Logistics (Amsterdam) wegen Umsatzsteuerbetrugs.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Sabine Schmidt (37) wegen unbezahlter Löhne.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00122",
-"published": "2026-03-11",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Tatjana Beljajew (50) wegen Bestechung von Amtsträgern.",
-"source": "Lloyd's List"
+"published": "2026-03-07",
+"lang": "en",
+"text": "Regulators fined Sabine Schmidt, 37, after finding evidence of unpaid wages at its warehouses.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00123",
-"published": "2026-04-07",
+"published": "2023-05-26",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Tatjana Beljajew (50) wegen Bestechung von Amtsträgern.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Anna Hoffmann (49) wegen Bilanzbetrug.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00124",
-"published": "2026-02-05",
+"published": "2024-05-05",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Valiant Manufacturing Co., Ltd. (Shenzhen) wegen gefährlicher Arbeitsbedingungen.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Rheintal Logistik GmbH (Frankfurt am Main) wegen gefährlicher Arbeitsbedingungen.",
 "source": "Handelsblatt"
 },
 {
 "id": "DOC00125",
-"published": "2026-01-21",
+"published": "2024-01-30",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Jorg Muller (74) wegen Umgehung von Sanktionen über Zwischenhändler.",
-"source": "FT"
+"text": "Gegen Elbe Chemie GmbH (Leipzig) wird wegen Umsatzsteuerbetrugs ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "Reuters"
 },
 {
 "id": "DOC00126",
-"published": "2026-02-15",
+"published": "2024-02-06",
 "lang": "de",
-"text": "Gegen Jörg Müller (74) wird wegen Verstößen gegen Exportkontrollen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Elbe Chemie (Leipzig) wird wegen Umsatzsteuerbetrugs ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "FT"
 },
 {
 "id": "DOC00127",
-"published": "2026-01-20",
-"lang": "en",
-"text": "Former employees accuse Wrenfield Maschinenbau GmbH of Frankfurt am Main of suspicious cash transfers flagged by its bank.",
-"source": "Lloyd's List"
+"published": "2025-10-28",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Hassan Al-Mansouri (41) wegen Verstößen gegen Exportkontrollen.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00128",
-"published": "2026-03-18",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Wrenfield Maschinenbau GmbH (Frankfurt am Main) wegen Geldwäsche über Scheinfirmen.",
-"source": "FT"
+"published": "2025-11-09",
+"lang": "en",
+"text": "Regulators fined Hassan Al-Mansouri, 41, after finding evidence of re-exporting restricted components.",
+"source": "local press"
 },
 {
 "id": "DOC00129",
-"published": "2026-01-02",
+"published": "2025-11-11",
 "lang": "en",
-"text": "Gulsen Arslan, 67, is under scrutiny for unsafe working conditions, according to court filings.",
+"text": "Hassan Almansouri, 41, is under scrutiny for shipping goods to a sanctioned buyer through intermediaries, according to court filings.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00130",
-"published": "2023-05-26",
-"lang": "en",
-"text": "Regulators fined Juergen Hoffmann, 47, after finding evidence of falsifying test certificates.",
-"source": "Reuters"
+"published": "2023-08-22",
+"lang": "de",
+"text": "Gegen Oakridge Manufacturing Co., Ltd. (Ningbo) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00131",
-"published": "2023-06-27",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Juergen Hoffmann, 48, over invoice fraud against customers.",
+"published": "2023-09-22",
+"lang": "de",
+"text": "Gegen Oakridge Manufacturing (Ningbo) wird wegen Umsatzsteuerbetrugs ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Reuters"
 },
 {
 "id": "DOC00132",
-"published": "2024-05-05",
+"published": "2023-08-10",
 "lang": "en",
-"text": "Rheintal Logistik GmbH of Frankfurt am Main is under scrutiny for unpaid wages at its warehouses, according to court filings.",
-"source": "OCCRP"
+"text": "Mariam Saleh, 71, is under scrutiny for shipping goods to a sanctioned buyer through intermediaries, according to court filings.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00133",
-"published": "2024-06-23",
+"published": "2023-06-18",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Rheintal Logistik GmbH (Frankfurt am Main) wegen unbezahlter Löhne.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Cobalt Logistik GmbH (Frankfurt am Main) wegen Bilanzbetrug.",
 "source": "Handelsblatt"
 },
 {
 "id": "DOC00134",
-"published": "2024-05-21",
+"published": "2023-06-26",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Rheintal Logistik (Frankfurt am Main) wegen unbezahlter Löhne.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Cobalt Logistik (Frankfurt am Main) wegen Bilanzbetrug.",
 "source": "local press"
 },
 {
 "id": "DOC00135",
-"published": "2024-01-30",
+"published": "2026-06-18",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Elbe Chemie (Leipzig) wegen Steuerhinterziehung über Offshore-Konten.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Polaris Capital (Road Town) wegen Steuerhinterziehung über Offshore-Konten.",
 "source": "Reuters"
 },
 {
 "id": "DOC00136",
-"published": "2024-02-06",
+"published": "2026-06-25",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Elbe Chemie GmbH of Leipzig over hiding profits in offshore accounts.",
+"text": "Prosecutors opened an investigation into Polaris Capital Ltd of Road Town over hiding profits in offshore accounts.",
 "source": "local press"
 },
 {
 "id": "DOC00137",
-"published": "2025-10-28",
+"published": "2024-02-25",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Xu Wei (61) wegen Umgehung von Sanktionen über Zwischenhändler.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Baris Demir (49) wegen Steuerhinterziehung über Offshore-Konten.",
 "source": "Reuters"
 },
 {
 "id": "DOC00138",
-"published": "2023-08-22",
+"published": "2026-03-01",
 "lang": "de",
-"text": "Gegen Oakridge Manufacturing (Ningbo) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Richard Walker (71) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00139",
-"published": "2023-09-14",
+"published": "2026-03-24",
 "lang": "en",
-"text": "Regulators fined Oakridge Manufacturing of Ningbo after finding evidence of underreporting income.",
+"text": "Regulators fined Richard Walker, 71, after finding evidence of underreporting income.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00140",
-"published": "2023-08-10",
+"published": "2023-09-27",
 "lang": "en",
-"text": "Regulators fined Natalja Semjonow, 35, after finding evidence of re-exporting restricted components.",
+"text": "Regulators fined Westbrook General Trading of Sharjah after finding evidence of contaminating groundwater.",
 "source": "FT"
 },
 {
 "id": "DOC00141",
-"published": "2023-06-18",
+"published": "2024-11-26",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Cobalt Logistik GmbH of Frankfurt am Main over accounting fraud.",
+"text": "Prosecutors opened an investigation into Ayşe Demir, 41, over accounting fraud.",
 "source": "Handelsblatt"
 },
 {
 "id": "DOC00142",
-"published": "2023-07-16",
+"published": "2024-12-24",
 "lang": "en",
-"text": "Cobalt Logistik of Frankfurt am Main is under scrutiny for falsifying test certificates, according to court filings.",
+"text": "Ayse Demir, 41, is under scrutiny for falsifying test certificates, according to court filings.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00143",
-"published": "2023-08-11",
+"published": "2025-01-19",
 "lang": "de",
-"text": "Gegen Cobalt Logistik (Frankfurt am Main) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Ayse Demir (42) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "local press"
 },
 {
 "id": "DOC00144",
-"published": "2026-06-18",
+"published": "2023-03-06",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Polaris Capital Ltd of Road Town over underreporting income.",
+"text": "Prosecutors opened an investigation into Charlotte Price, 41, over re-exporting restricted components.",
 "source": "FT"
 },
 {
 "id": "DOC00145",
-"published": "2024-02-25",
+"published": "2023-03-04",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Sabine Hoffmann, 72, over underreporting income.",
+"text": "Prosecutors opened an investigation into Elbe Chemie of Leipzig over contaminating groundwater.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00146",
-"published": "2024-03-05",
+"published": "2023-03-13",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Sabine Hoffmann (72) wegen Umsatzsteuerbetrugs.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Elbe Chemie GmbH (Leipzig) wegen Verstößen gegen Umweltauflagen.",
 "source": "Reuters"
 },
 {
 "id": "DOC00147",
-"published": "2026-03-01",
+"published": "2025-11-21",
 "lang": "en",
-"text": "Former employees accuse Gulsen Demir, 62, of underreporting income.",
+"text": "Former employees accuse Zephyr Trading of Geneva of re-exporting restricted components.",
 "source": "FT"
 },
 {
 "id": "DOC00148",
-"published": "2026-03-13",
+"published": "2025-12-03",
 "lang": "en",
-"text": "Regulators fined Gülşen Demir, 62, after finding evidence of hiding profits in offshore accounts.",
+"text": "Regulators fined Zephyr Trading AG of Geneva after finding evidence of shipping goods to a sanctioned buyer through intermediaries.",
 "source": "local press"
 },
 {
 "id": "DOC00149",
-"published": "2026-06-13",
+"published": "2026-03-05",
 "lang": "en",
-"text": "Gülşen Demir, 62, is under scrutiny for underreporting income, according to court filings.",
+"text": "Zephyr Trading AG of Geneva is under scrutiny for re-exporting restricted components, according to court filings.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00150",
-"published": "2023-09-27",
+"published": "2025-07-04",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Westbrook General Trading LLC (Sharjah) wegen illegaler Entsorgung von Chemieabfällen.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Bluewater Maschinenbau GmbH (Hamburg) wegen Steuerhinterziehung über Offshore-Konten.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00151",
-"published": "2023-10-02",
+"published": "2025-07-09",
 "lang": "en",
-"text": "Westbrook General Trading LLC of Sharjah is under scrutiny for contaminating groundwater, according to court filings.",
+"text": "Bluewater Maschinenbau GmbH of Hamburg is under scrutiny for underreporting income, according to court filings.",
 "source": "Reuters"
 },
 {
 "id": "DOC00152",
-"published": "2023-10-11",
+"published": "2025-07-18",
 "lang": "en",
-"text": "Regulators fined Westbrook General Trading LLC of Sharjah after finding evidence of illegal dumping of chemical waste.",
+"text": "Regulators fined Bluewater Maschinenbau GmbH of Hamburg after finding evidence of hiding profits in offshore accounts.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00153",
-"published": "2024-11-26",
+"published": "2023-10-08",
 "lang": "en",
-"text": "Julia Schmidt, 49, is under scrutiny for invoice fraud against customers, according to court filings.",
+"text": "Yuriy Grigoryev, 37, is under scrutiny for unsafe working conditions, according to court filings.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00154",
-"published": "2024-12-30",
+"published": "2023-11-11",
 "lang": "de",
-"text": "Gegen Julia Schmidt (49) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Juri Grigorjew (37) wegen gefährlicher Arbeitsbedingungen.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00155",
-"published": "2023-03-06",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Liu Jun (54) wegen Verstößen gegen Exportkontrollen.",
+"published": "2023-06-16",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Stefan Fuchs, 67, over moving funds through shell companies.",
 "source": "Reuters"
 },
 {
 "id": "DOC00156",
-"published": "2023-04-23",
+"published": "2023-08-03",
 "lang": "de",
-"text": "Gegen Liu Jun (55) wird wegen Umgehung von Sanktionen über Zwischenhändler ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Stefan Fuchs (67) wird wegen Geldwäsche über Scheinfirmen ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00157",
-"published": "2023-05-09",
+"published": "2023-08-24",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Jun Liu, 55, over re-exporting restricted components.",
+"text": "Prosecutors opened an investigation into Cobalt Trading Co., Ltd. of Ningbo over contaminating groundwater.",
 "source": "local press"
 },
 {
 "id": "DOC00158",
-"published": "2023-03-04",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Elbe Chemie (Leipzig) wegen illegaler Entsorgung von Chemieabfällen.",
-"source": "local press"
-},
-{
-"id": "DOC00159",
-"published": "2023-03-16",
+"published": "2023-08-31",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Elbe Chemie of Leipzig over contaminating groundwater.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00160",
-"published": "2023-03-12",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Elbe Chemie GmbH of Leipzig over air pollution breaches.",
+"text": "Regulators fined Cobalt Trading of Ningbo after finding evidence of illegal dumping of chemical waste.",
 "source": "Reuters"
 },
 {
-"id": "DOC00161",
-"published": "2025-11-21",
+"id": "DOC00159",
+"published": "2023-10-19",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Zephyr Trading (Geneva) wegen Verstößen gegen Exportkontrollen.",
+"text": "Gegen Cobalt Trading Co., Ltd. (Ningbo) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00160",
+"published": "2023-11-30",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Larch Engineering AG (Geneva) wegen unbezahlter Löhne.",
+"source": "FT"
+},
+{
+"id": "DOC00161",
+"published": "2024-01-26",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Larch Engineering AG of Geneva over unpaid wages at its warehouses.",
 "source": "Handelsblatt"
 },
 {
 "id": "DOC00162",
-"published": "2025-07-04",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Bluewater Maschinenbau (Hamburg) wegen Umsatzsteuerbetrugs.",
-"source": "FT"
-},
-{
-"id": "DOC00163",
-"published": "2023-10-08",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Katrin Gross (73) wegen gefährlicher Arbeitsbedingungen.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00164",
-"published": "2023-12-03",
+"published": "2024-01-09",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Katrin Gross, 73, over forced overtime.",
+"text": "Larch Engineering of Geneva is under scrutiny for forced overtime, according to court filings.",
 "source": "Reuters"
 },
 {
-"id": "DOC00165",
-"published": "2024-01-30",
+"id": "DOC00163",
+"published": "2024-11-04",
 "lang": "en",
-"text": "Former employees accuse Katrin Gross, 73, of unpaid wages at its warehouses.",
+"text": "Regulators fined Umber Trading of Leeds after finding evidence of unpaid wages at its warehouses.",
+"source": "local press"
+},
+{
+"id": "DOC00164",
+"published": "2023-03-26",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Alder Chemie (Leipzig) wegen Rechnungsbetrug.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00165",
+"published": "2023-05-21",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Alder Chemie of Leipzig over falsifying test certificates.",
 "source": "Reuters"
 },
 {
 "id": "DOC00166",
-"published": "2023-06-16",
+"published": "2023-07-18",
 "lang": "en",
-"text": "Former employees accuse Vladimir Vladimirovich Shcherbakov, 38, of suspicious cash transfers flagged by its bank.",
-"source": "FT"
+"text": "Former employees accuse Alder Chemie of Leipzig of accounting fraud.",
+"source": "Reuters"
 },
 {
 "id": "DOC00167",
-"published": "2023-08-24",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Cobalt Trading (Ningbo) wegen Verstößen gegen Umweltauflagen.",
+"published": "2026-06-18",
+"lang": "en",
+"text": "Former employees accuse Northgate Logistics of Amsterdam of suspicious cash transfers flagged by its bank.",
 "source": "FT"
 },
 {
 "id": "DOC00168",
-"published": "2023-10-02",
-"lang": "en",
-"text": "Regulators fined Cobalt Trading of Ningbo after finding evidence of contaminating groundwater.",
-"source": "OCCRP"
+"published": "2023-05-15",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Hannah Cooper (67) wegen gefährlicher Arbeitsbedingungen.",
+"source": "FT"
 },
 {
 "id": "DOC00169",
-"published": "2023-11-30",
+"published": "2023-06-23",
 "lang": "en",
-"text": "Former employees accuse Larch Engineering AG of Geneva of unsafe working conditions.",
+"text": "Regulators fined Hannah Cooper, 67, after finding evidence of forced overtime.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00170",
-"published": "2023-12-30",
-"lang": "de",
-"text": "Gegen Larch Engineering (Geneva) wird wegen unbezahlter Löhne ermittelt, wie aus Gerichtsakten hervorgeht.",
+"published": "2023-06-20",
+"lang": "en",
+"text": "Former employees accuse Kingfisher Verpackung GmbH of Hamburg of VAT carousel fraud.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00171",
-"published": "2024-02-10",
+"published": "2023-07-20",
 "lang": "de",
-"text": "Gegen Larch Engineering (Geneva) wird wegen unbezahlter Löhne ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "FT"
+"text": "Gegen Kingfisher Verpackung (Hamburg) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00172",
-"published": "2024-11-04",
-"lang": "en",
-"text": "Regulators fined Umber Trading Ltd of Leeds after finding evidence of unpaid wages at its warehouses.",
+"published": "2023-08-31",
+"lang": "de",
+"text": "Gegen Kingfisher Verpackung (Hamburg) wird wegen Steuerhinterziehung über Offshore-Konten ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "FT"
 },
 {
 "id": "DOC00173",
-"published": "2024-12-22",
-"lang": "de",
-"text": "Gegen Umber Trading Ltd (Leeds) wird wegen gefährlicher Arbeitsbedingungen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Handelsblatt"
+"published": "2025-04-20",
+"lang": "en",
+"text": "Regulators fined Gülşen Aydın, 36, after finding evidence of unpaid wages at its warehouses.",
+"source": "FT"
 },
 {
 "id": "DOC00174",
-"published": "2023-03-26",
+"published": "2025-06-07",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Alder Chemie GmbH (Leipzig) wegen Rechnungsbetrug.",
-"source": "Reuters"
+"text": "Gegen Gülşen Aydın (36) wird wegen gefährlicher Arbeitsbedingungen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00175",
-"published": "2023-05-01",
+"published": "2024-08-14",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Alder Chemie GmbH (Leipzig) wegen Rechnungsbetrug.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00176",
-"published": "2023-04-25",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Alder Chemie of Leipzig over accounting fraud.",
-"source": "FT"
-},
-{
-"id": "DOC00177",
-"published": "2026-06-18",
-"lang": "en",
-"text": "Regulators fined Northgate Logistics of Amsterdam after finding evidence of suspicious cash transfers flagged by its bank.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00178",
-"published": "2026-06-24",
-"lang": "en",
-"text": "Former employees accuse Northgate Logistics of Amsterdam of moving funds through shell companies.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Sterling Maschinenbau GmbH (Hamburg) wegen Geldwäsche über Handelsrechnungen.",
 "source": "Reuters"
 },
 {
-"id": "DOC00179",
-"published": "2023-05-15",
+"id": "DOC00176",
+"published": "2024-09-19",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Mehmet Gunes (48) wegen gefährlicher Arbeitsbedingungen.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Sterling Maschinenbau GmbH (Hamburg) wegen Geldwäsche über Handelsrechnungen.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00177",
+"published": "2024-09-13",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Sterling Maschinenbau of Hamburg over laundering money through trade invoices.",
 "source": "FT"
 },
 {
+"id": "DOC00178",
+"published": "2023-11-16",
+"lang": "en",
+"text": "Regulators fined Vega Chemie of Hamburg after finding evidence of contaminating groundwater.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00179",
+"published": "2023-11-22",
+"lang": "en",
+"text": "Former employees accuse Vega Chemie of Hamburg of air pollution breaches.",
+"source": "Reuters"
+},
+{
 "id": "DOC00180",
-"published": "2023-06-20",
+"published": "2023-04-25",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Kingfisher Verpackung GmbH (Hamburg) wegen Umsatzsteuerbetrugs.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Yusuf Khoury (71) wegen Umsatzsteuerbetrugs.",
 "source": "FT"
 },
 {
 "id": "DOC00181",
-"published": "2023-08-02",
+"published": "2025-07-14",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Kingfisher Verpackung GmbH (Hamburg) wegen Umsatzsteuerbetrugs.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00182",
-"published": "2023-09-20",
-"lang": "en",
-"text": "Regulators fined Kingfisher Verpackung GmbH of Hamburg after finding evidence of underreporting income.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00183",
-"published": "2025-04-20",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Hannah Taylor (70) wegen unbezahlter Löhne.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00184",
-"published": "2025-06-04",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Hannah Taylor (70) wegen unbezahlter Löhne.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00185",
-"published": "2025-07-17",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Hannah Taylor, 71, over unpaid wages at its warehouses.",
-"source": "Reuters"
-},
-{
-"id": "DOC00186",
-"published": "2024-08-14",
-"lang": "en",
-"text": "Former employees accuse Sterling Maschinenbau of Hamburg of laundering money through trade invoices.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00187",
-"published": "2024-09-14",
-"lang": "de",
-"text": "Gegen Sterling Maschinenbau (Hamburg) wird wegen Geldwäsche über Handelsrechnungen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "local press"
-},
-{
-"id": "DOC00188",
-"published": "2023-11-16",
-"lang": "de",
-"text": "Gegen Vega Chemie GmbH (Hamburg) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00189",
-"published": "2023-12-01",
-"lang": "en",
-"text": "Vega Chemie of Hamburg is under scrutiny for illegal dumping of chemical waste, according to court filings.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Larch Engineering AG (Geneva) wegen Rechnungsbetrug.",
 "source": "FT"
 },
 {
-"id": "DOC00190",
-"published": "2023-04-25",
+"id": "DOC00182",
+"published": "2025-08-26",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Larch Engineering AG (Geneva) wegen Rechnungsbetrug.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00183",
+"published": "2025-10-14",
 "lang": "en",
-"text": "Former employees accuse İlker Doğan, 62, of VAT carousel fraud.",
+"text": "Regulators fined Larch Engineering AG of Geneva after finding evidence of falsifying test certificates.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00184",
+"published": "2025-10-26",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Youssef Almansouri (45) wegen gefährlicher Arbeitsbedingungen.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00185",
+"published": "2025-12-05",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Youssef Al-Mansouri (46) wegen unbezahlter Löhne.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00186",
+"published": "2026-02-07",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Youssef Almansouri (46) wegen unbezahlter Löhne.",
+"source": "Reuters"
+},
+{
+"id": "DOC00187",
+"published": "2024-12-25",
+"lang": "en",
+"text": "Former employees accuse Eastwind Elektronik of Hamburg of paying bribes to officials.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00188",
+"published": "2024-08-25",
+"lang": "en",
+"text": "Regulators fined Harbourview Verpackung of Frankfurt am Main after finding evidence of evading export controls.",
+"source": "local press"
+},
+{
+"id": "DOC00189",
+"published": "2023-07-02",
+"lang": "de",
+"text": "Gegen Meridian Maschinenbau GmbH (Hamburg) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00190",
+"published": "2023-07-17",
+"lang": "en",
+"text": "Meridian Maschinenbau of Hamburg is under scrutiny for illegal dumping of chemical waste, according to court filings.",
 "source": "FT"
 },
 {
 "id": "DOC00191",
-"published": "2023-05-11",
-"lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen İlker Doğan (62) wegen Umsatzsteuerbetrugs.",
-"source": "Der Spiegel"
+"published": "2025-04-14",
+"lang": "en",
+"text": "Former employees accuse Atlas Elektronik GmbH of Bremen of air pollution breaches.",
+"source": "FT"
 },
 {
 "id": "DOC00192",
-"published": "2023-05-13",
-"lang": "en",
-"text": "Regulators fined İlker Doğan, 62, after finding evidence of hiding profits in offshore accounts.",
+"published": "2025-04-30",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Atlas Elektronik GmbH (Bremen) wegen Verstößen gegen Umweltauflagen.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00193",
-"published": "2025-07-14",
-"lang": "de",
-"text": "Gegen Larch Engineering (Geneva) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00194",
-"published": "2025-07-30",
-"lang": "de",
-"text": "Gegen Larch Engineering (Geneva) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
+"published": "2025-05-02",
+"lang": "en",
+"text": "Regulators fined Atlas Elektronik GmbH of Bremen after finding evidence of illegal dumping of chemical waste.",
 "source": "Der Spiegel"
 },
 {
-"id": "DOC00195",
-"published": "2025-10-26",
+"id": "DOC00194",
+"published": "2025-04-13",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Andrey Andreyevich Shcherbakov (47) wegen unbezahlter Löhne.",
-"source": "FT"
+"text": "Gegen Umber Investments (Limassol) wird wegen Geldwäsche über Handelsrechnungen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00195",
+"published": "2025-04-29",
+"lang": "de",
+"text": "Gegen Umber Investments (Limassol) wird wegen Geldwäsche über Handelsrechnungen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00196",
-"published": "2025-11-28",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Andrey Shcherbakov, 48, over unpaid wages at its warehouses.",
-"source": "Handelsblatt"
+"published": "2023-06-26",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Granite Holdings Ltd (Road Town) wegen Verstößen gegen Exportkontrollen.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00197",
-"published": "2025-11-01",
+"published": "2023-08-20",
 "lang": "de",
-"text": "Gegen Andrey Andreyevich Shcherbakov (47) wird wegen gefährlicher Arbeitsbedingungen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Gegen Granite Holdings Ltd (Road Town) wird wegen Umgehung von Sanktionen über Zwischenhändler ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Reuters"
 },
 {
 "id": "DOC00198",
-"published": "2024-12-25",
+"published": "2023-08-31",
 "lang": "en",
-"text": "Former employees accuse Eastwind Elektronik of Hamburg of paying bribes to officials.",
+"text": "Regulators fined Granite Holdings Ltd of Road Town after finding evidence of shipping goods to a sanctioned buyer through intermediaries.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00199",
-"published": "2024-08-25",
+"published": "2023-07-02",
 "lang": "en",
-"text": "Former employees accuse Harbourview Verpackung GmbH of Frankfurt am Main of shipping goods to a sanctioned buyer through intermediaries.",
-"source": "Reuters"
+"text": "Former employees accuse Aleksandr Aleksandrovich Orlov, 52, of falsifying test certificates.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00200",
-"published": "2024-10-02",
-"lang": "en",
-"text": "Former employees accuse Harbourview Verpackung of Frankfurt am Main of re-exporting restricted components.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00201",
-"published": "2024-09-14",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Harbourview Verpackung of Frankfurt am Main over re-exporting restricted components.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00202",
-"published": "2023-07-02",
+"published": "2023-08-27",
 "lang": "de",
-"text": "Gegen Meridian Maschinenbau (Hamburg) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00203",
-"published": "2023-08-05",
-"lang": "en",
-"text": "Regulators fined Meridian Maschinenbau of Hamburg after finding evidence of air pollution breaches.",
-"source": "FT"
-},
-{
-"id": "DOC00204",
-"published": "2023-09-04",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Meridian Maschinenbau of Hamburg over contaminating groundwater.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00205",
-"published": "2025-04-14",
-"lang": "en",
-"text": "Former employees accuse Atlas Elektronik of Bremen of illegal dumping of chemical waste.",
+"text": "Gegen Aleksandr Aleksandrovich Orlov (52) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Reuters"
 },
 {
-"id": "DOC00206",
-"published": "2025-04-13",
+"id": "DOC00201",
+"published": "2023-09-16",
 "lang": "en",
-"text": "Umber Investments Ltd of Limassol is under scrutiny for moving funds through shell companies, according to court filings.",
+"text": "Former employees accuse Aleksandr Aleksandrovich Orlov, 52, of falsifying test certificates.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00202",
+"published": "2023-12-06",
+"lang": "en",
+"text": "Sapphire Trading AG of Geneva is under scrutiny for VAT carousel fraud, according to court filings.",
+"source": "Reuters"
+},
+{
+"id": "DOC00203",
+"published": "2025-03-15",
+"lang": "en",
+"text": "Rheintal Elektronik GmbH of Hamburg is under scrutiny for air pollution breaches, according to court filings.",
+"source": "local press"
+},
+{
+"id": "DOC00204",
+"published": "2025-04-19",
+"lang": "en",
+"text": "Regulators fined Rheintal Elektronik of Hamburg after finding evidence of air pollution breaches.",
+"source": "FT"
+},
+{
+"id": "DOC00205",
+"published": "2025-05-18",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Rheintal Elektronik of Hamburg over contaminating groundwater.",
 "source": "OCCRP"
 },
 {
+"id": "DOC00206",
+"published": "2026-03-08",
+"lang": "en",
+"text": "Former employees accuse Xu Wei, 62, of laundering money through trade invoices.",
+"source": "Reuters"
+},
+{
 "id": "DOC00207",
-"published": "2025-04-20",
-"lang": "de",
-"text": "Gegen Umber Investments Ltd (Limassol) wird wegen Geldwäsche über Handelsrechnungen ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Der Spiegel"
+"published": "2024-01-01",
+"lang": "en",
+"text": "Barış Öztürk, 61, is under scrutiny for invoice fraud against customers, according to court filings.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00208",
-"published": "2023-06-26",
-"lang": "en",
-"text": "Regulators fined Granite Holdings Ltd of Road Town after finding evidence of evading export controls.",
+"published": "2024-01-08",
+"lang": "de",
+"text": "Gegen Barış Öztürk (61) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00209",
-"published": "2023-08-02",
+"published": "2026-02-23",
 "lang": "en",
-"text": "Regulators fined Granite Holdings of Road Town after finding evidence of evading export controls.",
-"source": "OCCRP"
+"text": "Regulators fined Yan Zhou, 70, after finding evidence of invoice fraud against customers.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00210",
-"published": "2023-08-03",
-"lang": "de",
-"text": "Gegen Granite Holdings (Road Town) wird wegen Verstößen gegen Exportkontrollen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"published": "2026-04-01",
+"lang": "en",
+"text": "Regulators fined Zhou Yan, 70, after finding evidence of invoice fraud against customers.",
 "source": "OCCRP"
 },
 {
 "id": "DOC00211",
-"published": "2023-07-02",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Mei Sun, 66, over falsifying test certificates.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00212",
-"published": "2023-07-18",
-"lang": "en",
-"text": "Regulators fined Sun Mei, 66, after finding evidence of invoice fraud against customers.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00213",
-"published": "2023-10-18",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Sun Mei, 66, over invoice fraud against customers.",
-"source": "Reuters"
-},
-{
-"id": "DOC00214",
-"published": "2023-12-06",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Sapphire Trading of Geneva over hiding profits in offshore accounts.",
-"source": "local press"
-},
-{
-"id": "DOC00215",
-"published": "2023-12-10",
+"published": "2026-04-02",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Sapphire Trading AG (Geneva) wegen Umsatzsteuerbetrugs.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00216",
-"published": "2024-02-12",
-"lang": "de",
-"text": "Gegen Sapphire Trading AG (Geneva) wird wegen Umsatzsteuerbetrugs ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "local press"
-},
-{
-"id": "DOC00217",
-"published": "2025-03-15",
-"lang": "en",
-"text": "Rheintal Elektronik of Hamburg is under scrutiny for air pollution breaches, according to court filings.",
-"source": "local press"
-},
-{
-"id": "DOC00218",
-"published": "2025-03-18",
-"lang": "en",
-"text": "Regulators fined Rheintal Elektronik of Hamburg after finding evidence of illegal dumping of chemical waste.",
+"text": "Gegen Zhou Yan (70) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00219",
-"published": "2025-06-05",
+"id": "DOC00212",
+"published": "2023-02-09",
 "lang": "en",
-"text": "Rheintal Elektronik GmbH of Hamburg is under scrutiny for illegal dumping of chemical waste, according to court filings.",
-"source": "FT"
-},
-{
-"id": "DOC00220",
-"published": "2026-03-08",
-"lang": "en",
-"text": "Regulators fined Matthias Becker, 52, after finding evidence of moving funds through shell companies.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00221",
-"published": "2026-04-03",
-"lang": "en",
-"text": "Matthias Becker, 52, is under scrutiny for moving funds through shell companies, according to court filings.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00222",
-"published": "2024-01-01",
-"lang": "en",
-"text": "Former employees accuse Jörg Krüger, 67, of invoice fraud against customers.",
-"source": "local press"
-},
-{
-"id": "DOC00223",
-"published": "2026-02-23",
-"lang": "de",
-"text": "Gegen Dmitri Orlow (56) wird wegen Bilanzbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
+"text": "Prosecutors opened an investigation into Driftwood Engineering Ltd of Manchester over contaminating groundwater.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00224",
-"published": "2023-02-09",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Driftwood Engineering (Manchester) wegen Verstößen gegen Umweltauflagen.",
+"id": "DOC00213",
+"published": "2023-02-25",
+"lang": "en",
+"text": "Regulators fined Driftwood Engineering of Manchester after finding evidence of air pollution breaches.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00214",
+"published": "2023-05-28",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Driftwood Engineering of Manchester over air pollution breaches.",
+"source": "Reuters"
+},
+{
+"id": "DOC00215",
+"published": "2023-04-15",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Aleksandr Aleksandrovich Zhukov, 62, over paying bribes to officials.",
 "source": "local press"
 },
 {
-"id": "DOC00225",
-"published": "2023-03-01",
+"id": "DOC00216",
+"published": "2023-04-19",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Aleksandr Aleksandrovich Zhukov (62) wegen Bestechung von Amtsträgern.",
+"source": "FT"
+},
+{
+"id": "DOC00217",
+"published": "2023-05-27",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Aleksandr Aleksandrovich Zhukov (63) wegen Schmiergeldzahlungen an Einkäufer.",
+"source": "FT"
+},
+{
+"id": "DOC00218",
+"published": "2026-06-16",
 "lang": "en",
-"text": "Regulators fined Driftwood Engineering of Manchester after finding evidence of illegal dumping of chemical waste.",
+"text": "Regulators fined Wrenfield Maschinenbau of Frankfurt am Main after finding evidence of falsifying test certificates.",
+"source": "FT"
+},
+{
+"id": "DOC00219",
+"published": "2026-06-30",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Wrenfield Maschinenbau GmbH (Frankfurt am Main) wegen Rechnungsbetrug.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00220",
+"published": "2023-06-06",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Tarek Al-Qasimi, 38, over forced overtime.",
+"source": "Reuters"
+},
+{
+"id": "DOC00221",
+"published": "2023-06-28",
+"lang": "de",
+"text": "Gegen Tariq Al Qassimi (38) wird wegen unbezahlter Löhne ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "FT"
+},
+{
+"id": "DOC00222",
+"published": "2023-08-05",
+"lang": "en",
+"text": "Former employees accuse Tarek Al-Qasimi, 38, of unpaid wages at its warehouses.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00223",
+"published": "2025-06-10",
+"lang": "en",
+"text": "Zhou Yan, 69, is under scrutiny for unpaid wages at its warehouses, according to court filings.",
+"source": "FT"
+},
+{
+"id": "DOC00224",
+"published": "2025-12-04",
+"lang": "en",
+"text": "Uwe Schafer, 58, is under scrutiny for laundering money through trade invoices, according to court filings.",
+"source": "FT"
+},
+{
+"id": "DOC00225",
+"published": "2025-12-25",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Uwe Schäfer (58) wegen Geldwäsche über Scheinfirmen.",
 "source": "FT"
 },
 {
 "id": "DOC00226",
-"published": "2023-04-15",
+"published": "2024-08-23",
 "lang": "en",
-"text": "Stefan Wagner, 57, is under scrutiny for corrupt payments to win contracts, according to court filings.",
-"source": "Handelsblatt"
+"text": "Harbourview Manufacturing of Ningbo is under scrutiny for bribery of procurement officers, according to court filings.",
+"source": "FT"
 },
 {
 "id": "DOC00227",
-"published": "2023-05-12",
+"published": "2024-10-01",
 "lang": "de",
-"text": "Gegen Stefan Wagner (57) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Der Spiegel"
+"text": "Die Behörden verhängten ein Bußgeld gegen Harbourview Manufacturing (Ningbo) wegen Bestechung von Amtsträgern.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00228",
-"published": "2026-06-16",
+"published": "2024-08-28",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Wrenfield Maschinenbau (Frankfurt am Main) wegen Bilanzbetrug.",
+"text": "Gegen Wrenfield Elektronik (Frankfurt am Main) wird wegen Verstößen gegen Exportkontrollen ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00229",
-"published": "2026-06-30",
+"published": "2025-12-06",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Wrenfield Maschinenbau GmbH (Frankfurt am Main) wegen Rechnungsbetrug.",
+"text": "Die Staatsanwaltschaft ermittelt gegen Seefeld Trading (Manchester) wegen Bilanzbetrug.",
 "source": "Der Spiegel"
 },
 {
 "id": "DOC00230",
-"published": "2023-06-06",
-"lang": "en",
-"text": "Former employees accuse Lena Fuchs, 72, of unsafe working conditions.",
-"source": "FT"
+"published": "2026-02-02",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Seefeld Trading Ltd (Manchester) wegen Rechnungsbetrug.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00231",
-"published": "2025-06-10",
-"lang": "de",
-"text": "Gegen Dmitri Orlow (55) wird wegen unbezahlter Löhne ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Reuters"
+"published": "2024-09-19",
+"lang": "en",
+"text": "Former employees accuse Wei Xu, 60, of VAT carousel fraud.",
+"source": "FT"
 },
 {
 "id": "DOC00232",
-"published": "2025-07-27",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Dmitriy Orlov, 56, over unsafe working conditions.",
-"source": "OCCRP"
+"published": "2024-01-17",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Lena Wagner (69) wegen Rechnungsbetrug.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00233",
-"published": "2025-12-04",
+"published": "2024-03-13",
 "lang": "en",
-"text": "Regulators fined Hannah Cooper, 70, after finding evidence of moving funds through shell companies.",
-"source": "Handelsblatt"
+"text": "Prosecutors opened an investigation into Lena Wagner, 70, over invoice fraud against customers.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00234",
-"published": "2026-01-23",
+"published": "2025-07-15",
 "lang": "en",
-"text": "Former employees accuse Hannah Cooper, 70, of laundering money through trade invoices.",
+"text": "Former employees accuse Wladimir Sokolow, 41, of unsafe working conditions.",
 "source": "FT"
 },
 {
 "id": "DOC00235",
-"published": "2024-08-23",
-"lang": "en",
-"text": "Harbourview Manufacturing of Ningbo is under scrutiny for paying bribes to officials, according to court filings.",
-"source": "Der Spiegel"
+"published": "2025-07-18",
+"lang": "de",
+"text": "Die Staatsanwaltschaft ermittelt gegen Vladimir Vladimirovich Sokolov (41) wegen gefährlicher Arbeitsbedingungen.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00236",
-"published": "2024-10-03",
-"lang": "de",
-"text": "Gegen Harbourview Manufacturing Co., Ltd. (Ningbo) wird wegen Bestechung von Amtsträgern ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "Lloyd's List"
+"published": "2026-06-25",
+"lang": "en",
+"text": "Northgate Commodities of Geneva is under scrutiny for illegal dumping of chemical waste, according to court filings.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00237",
-"published": "2024-12-11",
-"lang": "en",
-"text": "Regulators fined Harbourview Manufacturing of Ningbo after finding evidence of bribery of procurement officers.",
-"source": "FT"
-},
-{
-"id": "DOC00238",
-"published": "2024-08-28",
-"lang": "en",
-"text": "Former employees accuse Wrenfield Elektronik of Frankfurt am Main of re-exporting restricted components.",
+"published": "2026-06-30",
+"lang": "de",
+"text": "Gegen Northgate Commodities AG (Geneva) wird wegen illegaler Entsorgung von Chemieabfällen ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Lloyd's List"
 },
 {
+"id": "DOC00238",
+"published": "2024-09-24",
+"lang": "en",
+"text": "Regulators fined Lindenhof Trading of Shenzhen after finding evidence of VAT carousel fraud.",
+"source": "FT"
+},
+{
 "id": "DOC00239",
-"published": "2025-12-06",
-"lang": "de",
-"text": "Gegen Seefeld Trading Ltd (Manchester) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
-"source": "local press"
+"published": "2024-09-30",
+"lang": "en",
+"text": "Former employees accuse Lindenhof Trading of Shenzhen of underreporting income.",
+"source": "Lloyd's List"
 },
 {
 "id": "DOC00240",
-"published": "2026-01-14",
-"lang": "en",
-"text": "Prosecutors opened an investigation into Seefeld Trading Ltd of Manchester over invoice fraud against customers.",
+"published": "2025-05-11",
+"lang": "de",
+"text": "Gegen Hannah Cooper (51) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "local press"
 },
 {
 "id": "DOC00241",
-"published": "2025-12-22",
-"lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Seefeld Trading (Manchester) wegen Bilanzbetrug.",
-"source": "FT"
-},
-{
-"id": "DOC00242",
-"published": "2024-09-19",
+"published": "2025-06-19",
 "lang": "en",
-"text": "Former employees accuse Matthias Becker, 51, of underreporting income.",
+"text": "Prosecutors opened an investigation into Hannah Cooper, 51, over bribery of procurement officers.",
 "source": "local press"
 },
 {
-"id": "DOC00243",
-"published": "2024-01-17",
+"id": "DOC00242",
+"published": "2025-05-27",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Li Lei (42) wegen Bilanzbetrug.",
-"source": "Der Spiegel"
+"text": "Die Behörden verhängten ein Bußgeld gegen Hannah Cooper (51) wegen Bestechung von Amtsträgern.",
+"source": "FT"
+},
+{
+"id": "DOC00243",
+"published": "2024-03-25",
+"lang": "en",
+"text": "Prosecutors opened an investigation into Anna Becker, 71, over accounting fraud.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00244",
-"published": "2025-07-15",
-"lang": "en",
-"text": "Regulators fined Zhang Yan, 38, after finding evidence of forced overtime.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00245",
-"published": "2025-08-31",
+"published": "2026-02-06",
 "lang": "de",
-"text": "Die Staatsanwaltschaft ermittelt gegen Zhang Yan (38) wegen unbezahlter Löhne.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00246",
-"published": "2025-08-10",
-"lang": "en",
-"text": "Regulators fined Zhang Yan, 38, after finding evidence of unpaid wages at its warehouses.",
-"source": "Reuters"
-},
-{
-"id": "DOC00247",
-"published": "2026-06-25",
-"lang": "en",
-"text": "Regulators fined Northgate Commodities AG of Geneva after finding evidence of air pollution breaches.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00248",
-"published": "2026-06-30",
-"lang": "en",
-"text": "Northgate Commodities of Geneva is under scrutiny for illegal dumping of chemical waste, according to court filings.",
+"text": "Die Behörden verhängten ein Bußgeld gegen Wei Sun (54) wegen gefährlicher Arbeitsbedingungen.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00249",
-"published": "2024-09-24",
+"id": "DOC00245",
+"published": "2025-04-22",
 "lang": "en",
-"text": "Former employees accuse Lindenhof Trading Co., Ltd. of Shenzhen of hiding profits in offshore accounts.",
-"source": "Reuters"
+"text": "Former employees accuse Ayşe Demir, 42, of laundering money through trade invoices.",
+"source": "Der Spiegel"
 },
 {
-"id": "DOC00250",
-"published": "2024-10-13",
-"lang": "en",
-"text": "Former employees accuse Lindenhof Trading Co., Ltd. of Shenzhen of hiding profits in offshore accounts.",
-"source": "Reuters"
-},
-{
-"id": "DOC00251",
-"published": "2025-05-11",
-"lang": "en",
-"text": "Former employees accuse James Harrison, 40, of bribery of procurement officers.",
+"id": "DOC00246",
+"published": "2023-03-07",
+"lang": "de",
+"text": "Gegen Gulsen Demir (49) wird wegen Geldwäsche über Scheinfirmen ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00252",
+"id": "DOC00247",
+"published": "2023-01-15",
+"lang": "en",
+"text": "Driftwood Holdings of Nicosia is under scrutiny for VAT carousel fraud, according to court filings.",
+"source": "FT"
+},
+{
+"id": "DOC00248",
+"published": "2023-11-06",
+"lang": "de",
+"text": "Die Behörden verhängten ein Bußgeld gegen Brightwater Investments (Sharjah) wegen Rechnungsbetrug.",
+"source": "Handelsblatt"
+},
+{
+"id": "DOC00249",
+"published": "2025-07-19",
+"lang": "en",
+"text": "Aurora Trading of Shenzhen is under scrutiny for paying bribes to officials, according to court filings.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00250",
+"published": "2025-04-15",
+"lang": "de",
+"text": "Gegen Quarry Hill Shipping Ltd (Limassol) wird wegen Verstößen gegen Exportkontrollen ermittelt, wie aus Gerichtsakten hervorgeht.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00251",
 "published": "2025-11-18",
 "lang": "de",
 "text": "Die Staatsanwaltschaft ermittelt gegen Mariam Haddad (54) wegen Steuerhinterziehung über Offshore-Konten.",
 "source": "FT"
 },
 {
-"id": "DOC00253",
+"id": "DOC00252",
 "published": "2024-08-18",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Klaus Boehm, 57, over unpaid wages at its warehouses.",
 "source": "Der Spiegel"
 },
 {
-"id": "DOC00254",
+"id": "DOC00253",
 "published": "2023-06-26",
 "lang": "en",
 "text": "Former employees accuse James Harrison, 38, of corrupt payments to win contracts.",
 "source": "FT"
 },
 {
-"id": "DOC00255",
+"id": "DOC00254",
 "published": "2023-04-07",
 "lang": "de",
 "text": "Die Staatsanwaltschaft ermittelt gegen Joerg Becker (37) wegen Umsatzsteuerbetrugs.",
 "source": "local press"
 },
 {
-"id": "DOC00256",
+"id": "DOC00255",
 "published": "2026-01-11",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Vladimir Shcherbakov, 40, over re-exporting restricted components.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00257",
+"id": "DOC00256",
 "published": "2024-05-15",
 "lang": "en",
 "text": "Former employees accuse Dmitriy Orlov, 65, of contaminating groundwater.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00258",
+"id": "DOC00257",
 "published": "2024-04-22",
 "lang": "de",
 "text": "Gegen Joerg Becker (38) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00259",
+"id": "DOC00258",
 "published": "2023-07-12",
 "lang": "en",
 "text": "Sarah Turner, 66, is under scrutiny for paying bribes to officials, according to court filings.",
 "source": "local press"
 },
 {
-"id": "DOC00260",
+"id": "DOC00259",
 "published": "2024-03-25",
 "lang": "de",
 "text": "Die Staatsanwaltschaft ermittelt gegen Hassan Almansouri (42) wegen unbezahlter Löhne.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00261",
+"id": "DOC00260",
 "published": "2023-02-09",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Dmitri Orlow, 64, over bribery of procurement officers.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00262",
+"id": "DOC00261",
 "published": "2023-10-11",
 "lang": "de",
 "text": "Die Behörden verhängten ein Bußgeld gegen Ahmed Al-Rashid (57) wegen Geldwäsche über Handelsrechnungen.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00263",
+"id": "DOC00262",
 "published": "2025-07-14",
 "lang": "en",
 "text": "Lena Wagner, 64, is under scrutiny for moving funds through shell companies, according to court filings.",
 "source": "FT"
 },
 {
-"id": "DOC00264",
+"id": "DOC00263",
 "published": "2026-05-02",
 "lang": "de",
 "text": "Die Behörden verhängten ein Bußgeld gegen Kingfisher Engineering (London) wegen illegaler Entsorgung von Chemieabfällen.",
 "source": "FT"
 },
 {
-"id": "DOC00265",
+"id": "DOC00264",
 "published": "2023-08-18",
 "lang": "de",
 "text": "Die Behörden verhängten ein Bußgeld gegen Jewgeni Lebedew (41) wegen illegaler Entsorgung von Chemieabfällen.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00266",
+"id": "DOC00265",
 "published": "2023-10-01",
 "lang": "de",
 "text": "Gegen Julia Kohler (65) wird wegen Verstößen gegen Umweltauflagen ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00267",
+"id": "DOC00266",
 "published": "2023-08-04",
 "lang": "en",
 "text": "Sun Wei, 52, is under scrutiny for shipping goods to a sanctioned buyer through intermediaries, according to court filings.",
 "source": "Reuters"
 },
 {
-"id": "DOC00268",
+"id": "DOC00267",
 "published": "2025-06-09",
 "lang": "en",
 "text": "Vladimir Vladimirovich Volkov, 69, is under scrutiny for bribery of procurement officers, according to court filings.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00269",
+"id": "DOC00268",
 "published": "2025-03-09",
 "lang": "en",
 "text": "Former employees accuse Wei Sun, 53, of invoice fraud against customers.",
 "source": "local press"
 },
 {
-"id": "DOC00270",
+"id": "DOC00269",
 "published": "2025-01-07",
 "lang": "de",
 "text": "Gegen Driftwood Holdings (Nicosia) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "local press"
 },
 {
-"id": "DOC00271",
+"id": "DOC00270",
 "published": "2025-08-04",
 "lang": "en",
 "text": "Ironbridge Investments LLC of Sharjah is under scrutiny for falsifying test certificates, according to court filings.",
 "source": "FT"
 },
 {
-"id": "DOC00272",
+"id": "DOC00271",
 "published": "2023-08-22",
 "lang": "en",
 "text": "Jörg Fuchs, 50, is under scrutiny for hiding profits in offshore accounts, according to court filings.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00273",
+"id": "DOC00272",
 "published": "2025-07-07",
 "lang": "en",
 "text": "Regulators fined Evgeny Lebedev, 43, after finding evidence of corrupt payments to win contracts.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00274",
+"id": "DOC00273",
 "published": "2026-01-09",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Jing Chen, 41, over unpaid wages at its warehouses.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00275",
+"id": "DOC00274",
 "published": "2025-11-03",
 "lang": "en",
 "text": "Birgit Hoffmann, 59, is under scrutiny for invoice fraud against customers, according to court filings.",
 "source": "FT"
 },
 {
-"id": "DOC00276",
+"id": "DOC00275",
 "published": "2024-02-07",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Brightwater Investments LLC of Sharjah over hiding profits in offshore accounts.",
 "source": "Reuters"
 },
 {
-"id": "DOC00277",
+"id": "DOC00276",
 "published": "2024-07-03",
 "lang": "en",
 "text": "Yan Zhou, 62, is under scrutiny for evading export controls, according to court filings.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00278",
+"id": "DOC00277",
 "published": "2025-11-15",
 "lang": "en",
 "text": "Regulators fined Vladimir Vladimirovich Volkov, 69, after finding evidence of underreporting income.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00279",
+"id": "DOC00278",
 "published": "2023-01-28",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Dmitriy Dmitriyevich Zhukov, 43, over falsifying test certificates.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00280",
+"id": "DOC00279",
 "published": "2025-03-28",
 "lang": "en",
 "text": "Prosecutors opened an investigation into Ironbridge Investments LLC of Sharjah over underreporting income.",
 "source": "FT"
 },
 {
-"id": "DOC00281",
+"id": "DOC00280",
 "published": "2024-02-14",
 "lang": "de",
 "text": "Gegen Youssef Khoury (72) wird wegen Rechnungsbetrug ermittelt, wie aus Gerichtsakten hervorgeht.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00282",
+"id": "DOC00281",
 "published": "2024-10-16",
 "lang": "en",
 "text": "Regulators fined Lena Wagner, 63, after finding evidence of falsifying test certificates.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00283",
+"id": "DOC00282",
 "published": "2024-11-22",
 "lang": "de",
 "text": "Die Behörden verhängten ein Bußgeld gegen Andrey Andreyevich Orlov (51) wegen Steuerhinterziehung über Offshore-Konten.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00284",
-"published": "2023-10-13",
-"lang": "de",
-"text": "Gegen Emily Wright (38) wird wegen Schmiergeldzahlungen an Einkäufer ermittelt, wie aus Gerichtsakten hervorgeht.",
+"id": "DOC00283",
+"published": "2024-06-18",
+"lang": "en",
+"text": "In June 2024, Stefan Muller, 70, from the United Arab Emirates acquired a 100% stake in Eastwind Elektronik of Hamburg.",
 "source": "Reuters"
 },
 {
-"id": "DOC00285",
-"published": "2024-06-11",
+"id": "DOC00284",
+"published": "2025-08-14",
 "lang": "de",
-"text": "Die Behörden verhängten ein Bußgeld gegen Jorg Kruger (62) wegen gefährlicher Arbeitsbedingungen.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00286",
-"published": "2023-07-14",
-"lang": "en",
-"text": "Tatjana Jakowlew, 36, is under scrutiny for unsafe working conditions, according to court filings.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00287",
-"published": "2026-05-19",
-"lang": "en",
-"text": "Former employees accuse Yevgeniy Kovalyov, 71, of falsifying test certificates.",
+"text": "Im 07/2025 hat Bluewater Engineering AG (Geneva) aus der Schweiz 100 Prozent an Pinnacle Chemie (Hamburg) übernommen.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00288",
-"published": "2025-02-01",
+"id": "DOC00285",
+"published": "2025-08-03",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Matthias Weiss, 75, over shipping goods to a sanctioned buyer through intermediaries.",
+"text": "In July 2025, Stefan Becker, 50, from Germany acquired a 100% stake in Westbrook Lojistik of Izmir.",
 "source": "Der Spiegel"
+},
+{
+"id": "DOC00286",
+"published": "2025-11-13",
+"lang": "de",
+"text": "Im 11/2025 hat Baltic Star Components (Amsterdam) aus den Niederlanden 100 Prozent an Redstone Trading Co., Ltd. (Shenzhen) übernommen.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00287",
+"published": "2024-11-01",
+"lang": "en",
+"text": "In September 2024, Pinnacle Commodities of Geneva from Switzerland acquired a 100% stake in Aurora Chemie GmbH of Frankfurt am Main.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00288",
+"published": "2023-07-07",
+"lang": "en",
+"text": "In June 2023, Charlotte Bennett, 44, from United Kingdom acquired a 100% stake in Helios Trading of Rotterdam.",
+"source": "OCCRP"
 },
 {
 "id": "DOC00289",
-"published": "2023-03-06",
+"published": "2024-02-14",
 "lang": "en",
-"text": "Former employees accuse Tatjana Jakowlew, 36, of laundering money through trade invoices.",
-"source": "Handelsblatt"
+"text": "In January 2024, Brightwater Investments Ltd of Road Town from the British Virgin Islands acquired a 50% stake in Quarry Hill Verpackung of Leipzig.",
+"source": "FT"
 },
 {
 "id": "DOC00290",
-"published": "2023-12-18",
+"published": "2026-03-04",
 "lang": "en",
-"text": "Prosecutors opened an investigation into Klaus Boehm, 57, over suspicious cash transfers flagged by its bank.",
-"source": "Lloyd's List"
+"text": "In February 2026, Sapphire Holdings Ltd of Limassol from Cyprus acquired a 40% stake in Corvus Verpackung of Bremen.",
+"source": "Reuters"
 },
 {
 "id": "DOC00291",
-"published": "2023-07-04",
+"published": "2023-11-09",
 "lang": "en",
-"text": "Regulators fined Charlotte Price, 60, after finding evidence of re-exporting restricted components.",
-"source": "Lloyd's List"
+"text": "In November 2023, Atlas Trading B.V. of Amsterdam from the Netherlands acquired a 25% stake in Ironbridge Chemie GmbH of Bremen.",
+"source": "local press"
 },
 {
 "id": "DOC00292",
-"published": "2026-01-09",
-"lang": "en",
-"text": "In December 2025, Polaris Capital of Road Town from the British Virgin Islands acquired a 100% stake in Pinnacle Maschinenbau GmbH of Frankfurt am Main.",
-"source": "Handelsblatt"
+"published": "2024-06-21",
+"lang": "de",
+"text": "Im 06/2024 hat Hassan Almansouri (40) aus den Vereinigten Arabischen Emiraten 49 Prozent an Lindenhof Logistics B.V. (Rotterdam) übernommen.",
+"source": "local press"
 },
 {
 "id": "DOC00293",
-"published": "2025-04-04",
+"published": "2025-12-10",
 "lang": "en",
-"text": "In March 2025, Jorg Hoffmann, 45, from Germany acquired a 100% stake in Westbrook Engineering Ltd of Leeds.",
-"source": "Reuters"
+"text": "In December 2025, Polaris Capital Ltd of Road Town from the British Virgin Islands acquired a 100% stake in Pinnacle Maschinenbau GmbH of Frankfurt am Main.",
+"source": "Der Spiegel"
 },
 {
 "id": "DOC00294",
-"published": "2025-06-30",
+"published": "2024-03-22",
 "lang": "de",
-"text": "Im 06/2025 hat Baltic Star Investments (Limassol) aus Zypern 100 Prozent an Larch Components (Amsterdam) übernommen.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00295",
-"published": "2024-12-12",
-"lang": "en",
-"text": "In November 2024, Katrin Wagner, 44, from United Kingdom acquired a 20% stake in Quarry Hill Logistik GmbH of Frankfurt am Main.",
-"source": "local press"
-},
-{
-"id": "DOC00296",
-"published": "2024-02-06",
-"lang": "en",
-"text": "In January 2024, Nordwind General Trading of Sharjah from the United Arab Emirates acquired a 51% stake in Foxglove Components B.V. of Amsterdam.",
-"source": "local press"
-},
-{
-"id": "DOC00297",
-"published": "2024-06-06",
-"lang": "en",
-"text": "In May 2024, Julia Boehm, 42, from Germany acquired a 100% stake in Helios Chemie GmbH of Stuttgart.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00298",
-"published": "2024-07-06",
-"lang": "en",
-"text": "In June 2024, Hassan Almansouri, 40, from the United Arab Emirates acquired a 49% stake in Lindenhof Logistics B.V. of Rotterdam.",
+"text": "Im 03/2024 hat Stefan Muller (70) aus den Vereinigten Arabischen Emiraten 100 Prozent an Oakridge Manufacturing (Ningbo) übernommen.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00299",
-"published": "2024-02-08",
-"lang": "de",
-"text": "Im 01/2024 hat Cobalt Engineering AG (Zug) aus der Schweiz 25 Prozent an Kestrel Logistics Ltd (Manchester) übernommen.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00300",
-"published": "2026-03-27",
+"id": "DOC00295",
+"published": "2025-06-12",
 "lang": "en",
-"text": "In March 2026, Silverline General Trading of Dubai from the United Arab Emirates acquired a 75% stake in Larch Engineering AG of Geneva.",
+"text": "In June 2025, Baltic Star Investments Ltd of Limassol from Cyprus acquired a 100% stake in Larch Components of Amsterdam.",
 "source": "FT"
 },
 {
-"id": "DOC00301",
-"published": "2024-03-07",
+"id": "DOC00296",
+"published": "2025-03-14",
 "lang": "en",
-"text": "In February 2024, Ayse Arslan, 57, from the United Arab Emirates acquired a 100% stake in Elbe Chemie of Leipzig.",
+"text": "In February 2025, Ashford Shipping Ltd of Limassol from Cyprus acquired a 100% stake in Aurora Engineering Ltd of Leeds.",
 "source": "FT"
 },
 {
-"id": "DOC00302",
-"published": "2024-07-08",
+"id": "DOC00297",
+"published": "2026-06-16",
 "lang": "en",
-"text": "In June 2024, Stefan Mueller, 70, from the United Arab Emirates acquired a 100% stake in Eastwind Elektronik of Hamburg.",
-"source": "Reuters"
+"text": "In May 2026, Katrin Kohler, 68, from Germany acquired a 51% stake in Eastwind Trading of Manchester.",
+"source": "FT"
 },
 {
-"id": "DOC00303",
-"published": "2026-02-24",
-"lang": "de",
-"text": "Im 02/2026 hat Sapphire Holdings Ltd (Limassol) aus Zypern 40 Prozent an Corvus Verpackung (Bremen) übernommen.",
+"id": "DOC00298",
+"published": "2026-06-13",
+"lang": "en",
+"text": "In May 2026, Brightwater Investments of Road Town from the British Virgin Islands acquired a 100% stake in Vega Chemie GmbH of Hamburg.",
 "source": "local press"
 },
 {
-"id": "DOC00304",
-"published": "2023-07-27",
+"id": "DOC00299",
+"published": "2024-11-06",
 "lang": "en",
-"text": "In July 2023, Fang Chen, 59, from China acquired a 100% stake in Atlas Logistik of Stuttgart.",
+"text": "In October 2024, Lucy Price, 72, from the United Arab Emirates acquired a 100% stake in Zephyr Maschinenbau GmbH of Hamburg.",
+"source": "local press"
+},
+{
+"id": "DOC00300",
+"published": "2024-12-11",
+"lang": "en",
+"text": "In November 2024, Katrin Wagner, 44, from United Kingdom acquired a 20% stake in Quarry Hill Logistik GmbH of Frankfurt am Main.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00301",
+"published": "2024-01-20",
+"lang": "en",
+"text": "In January 2024, Nordwind General Trading LLC of Sharjah from the United Arab Emirates acquired a 51% stake in Foxglove Components of Amsterdam.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00302",
+"published": "2024-09-27",
+"lang": "en",
+"text": "In September 2024, Crescent Holdings Ltd of Limassol from Cyprus acquired a 100% stake in Umber Trading Ltd of Leeds.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00303",
+"published": "2025-02-20",
+"lang": "en",
+"text": "In February 2025, Sarah Bennett, 38, from United Kingdom acquired a 75% stake in Alder Elektronik GmbH of Frankfurt am Main.",
+"source": "FT"
+},
+{
+"id": "DOC00304",
+"published": "2023-04-21",
+"lang": "en",
+"text": "In March 2023, Kingfisher Logistics of Rotterdam from the Netherlands acquired a 50% stake in Redstone Verpackung of Stuttgart.",
 "source": "FT"
 },
 {
 "id": "DOC00305",
-"published": "2025-06-23",
+"published": "2024-08-06",
 "lang": "en",
-"text": "In June 2025, Omar Al-Farsi, 63, from the United Arab Emirates acquired a 100% stake in Eastwind Commodities of Zug.",
-"source": "Der Spiegel"
+"text": "In July 2024, Bluewater Investments of Dubai from the United Arab Emirates acquired a 100% stake in Eastwind Handel of Leipzig.",
+"source": "Reuters"
 },
 {
 "id": "DOC00306",
-"published": "2025-01-13",
+"published": "2025-06-29",
 "lang": "de",
-"text": "Im 12/2024 hat Yusuf Al-Mansouri (45) aus den Vereinigten Arabischen Emiraten 100 Prozent an Aurora Trading Co., Ltd. (Shenzhen) übernommen.",
-"source": "FT"
+"text": "Im 06/2025 hat Omar Al-Farsi (63) aus den Vereinigten Arabischen Emiraten 100 Prozent an Eastwind Commodities (Zug) übernommen.",
+"source": "local press"
 },
 {
 "id": "DOC00307",
-"published": "2025-01-14",
+"published": "2024-08-23",
 "lang": "en",
-"text": "In December 2024, Nimbus Investments Ltd of Road Town from the British Virgin Islands acquired a 100% stake in Trident Trading Co., Ltd. of Ningbo.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00308",
-"published": "2026-05-16",
-"lang": "en",
-"text": "In May 2026, Nimbus Shipping Ltd of Limassol from Cyprus acquired a 80% stake in Polaris Packaging Ltd of London.",
+"text": "In August 2024, Li Liu, 58, from China acquired a 100% stake in Meridian Manufacturing of Shenzhen.",
 "source": "FT"
 },
 {
-"id": "DOC00309",
-"published": "2026-07-01",
+"id": "DOC00308",
+"published": "2024-02-01",
 "lang": "en",
-"text": "In May 2026, Katrin Köhler, 68, from Germany acquired a 51% stake in Eastwind Trading of Manchester.",
+"text": "In January 2024, Cobalt Engineering AG of Zug from Switzerland acquired a 25% stake in Kestrel Logistics of Manchester.",
 "source": "Der Spiegel"
 },
 {
-"id": "DOC00310",
-"published": "2024-09-22",
+"id": "DOC00309",
+"published": "2024-02-20",
 "lang": "de",
-"text": "Im 09/2024 hat Crescent Holdings Ltd (Limassol) aus Zypern 100 Prozent an Umber Trading Ltd (Leeds) übernommen.",
-"source": "OCCRP"
+"text": "Im 02/2024 hat Ayse Arslan (57) aus den Vereinigten Arabischen Emiraten 100 Prozent an Elbe Chemie GmbH (Leipzig) übernommen.",
+"source": "FT"
+},
+{
+"id": "DOC00310",
+"published": "2025-02-04",
+"lang": "en",
+"text": "In December 2024, Youssef Al-Mansouri, 45, from the United Arab Emirates acquired a 100% stake in Aurora Trading Co., Ltd. of Shenzhen.",
+"source": "Handelsblatt"
 },
 {
 "id": "DOC00311",
-"published": "2025-03-04",
-"lang": "de",
-"text": "Im 02/2025 hat Ashford Shipping Ltd (Limassol) aus Zypern 100 Prozent an Aurora Engineering Ltd (Leeds) übernommen.",
-"source": "Lloyd's List"
+"published": "2023-06-09",
+"lang": "en",
+"text": "In May 2023, Pinnacle Investments LLC of Sharjah from the United Arab Emirates acquired a 20% stake in Elbe Verpackung GmbH of Stuttgart.",
+"source": "FT"
 },
 {
 "id": "DOC00312",
+"published": "2025-11-04",
+"lang": "en",
+"text": "In September 2025, Wei Zhou, 68, from China acquired a 100% stake in Granite Shipping of Rotterdam.",
+"source": "Der Spiegel"
+},
+{
+"id": "DOC00313",
+"published": "2023-04-09",
+"lang": "de",
+"text": "Im 03/2023 hat Corvus Logistics B.V. (Amsterdam) aus den Niederlanden 100 Prozent an Driftwood Verpackung GmbH (Bremen) übernommen.",
+"source": "OCCRP"
+},
+{
+"id": "DOC00314",
+"published": "2024-04-07",
+"lang": "de",
+"text": "Im 03/2024 hat Murat Yılmaz (60) aus der Türkei 100 Prozent an Trident Manufacturing Co., Ltd. (Ningbo) übernommen.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00315",
 "published": "2024-04-17",
 "lang": "de",
 "text": "Im 03/2024 hat Seefeld Components B.V. (Rotterdam) aus den Niederlanden 100 Prozent an Redstone Logistik GmbH (Leipzig) übernommen.",
 "source": "Handelsblatt"
 },
 {
-"id": "DOC00313",
-"published": "2025-03-18",
+"id": "DOC00316",
+"published": "2025-01-13",
 "lang": "en",
-"text": "In February 2025, Sarah Bennett, 38, from United Kingdom acquired a 75% stake in Alder Elektronik GmbH of Frankfurt am Main.",
+"text": "In December 2024, Nimbus Investments of Road Town from the British Virgin Islands acquired a 100% stake in Trident Trading Co., Ltd. of Ningbo.",
 "source": "OCCRP"
 },
 {
-"id": "DOC00314",
-"published": "2023-07-06",
-"lang": "en",
-"text": "In May 2023, Pinnacle Investments LLC of Sharjah from the United Arab Emirates acquired a 20% stake in Elbe Verpackung GmbH of Stuttgart.",
-"source": "Lloyd's List"
-},
-{
-"id": "DOC00315",
-"published": "2024-03-23",
-"lang": "en",
-"text": "In March 2024, Murat Yılmaz, 60, from Turkey acquired a 100% stake in Trident Manufacturing of Ningbo.",
-"source": "local press"
-},
-{
-"id": "DOC00316",
-"published": "2023-03-26",
-"lang": "de",
-"text": "Im 03/2023 hat Kingfisher Logistics B.V. (Rotterdam) aus den Niederlanden 50 Prozent an Redstone Verpackung GmbH (Stuttgart) übernommen.",
-"source": "Lloyd's List"
-},
-{
 "id": "DOC00317",
-"published": "2024-10-24",
+"published": "2024-01-13",
 "lang": "en",
-"text": "In October 2024, Lucy Price, 72, from the United Arab Emirates acquired a 100% stake in Zephyr Maschinenbau GmbH of Hamburg.",
+"text": "In December 2023, Vladimir Volkov, 68, from Russia acquired a 75% stake in Eastwind Logistik GmbH of Frankfurt am Main.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00318",
-"published": "2023-11-14",
+"published": "2024-05-05",
 "lang": "en",
-"text": "In November 2023, Atlas Trading of Amsterdam from the Netherlands acquired a 25% stake in Ironbridge Chemie GmbH of Bremen.",
+"text": "In April 2024, Lena Wagner, 63, from Germany acquired a 50% stake in Kingfisher Trading of Lugano.",
 "source": "local press"
 },
 {
 "id": "DOC00319",
-"published": "2024-11-14",
+"published": "2026-03-22",
 "lang": "de",
-"text": "Im 11/2024 hat Seefeld Components B.V. (Rotterdam) aus den Niederlanden 40 Prozent an Silverline Logistics (Manchester) übernommen.",
+"text": "Im 03/2026 hat Silverline General Trading LLC (Dubai) aus den Vereinigten Arabischen Emiraten 75 Prozent an Larch Engineering AG (Geneva) übernommen.",
 "source": "Lloyd's List"
 },
 {
 "id": "DOC00320",
-"published": "2023-10-21",
+"published": "2026-05-27",
 "lang": "en",
-"text": "In September 2023, Aurora Commodities of Geneva from Switzerland acquired a 100% stake in Kestrel Elektronik of Bremen.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00321",
-"published": "2026-06-01",
-"lang": "en",
-"text": "In May 2026, Brightwater Investments Ltd of Road Town from the British Virgin Islands acquired a 100% stake in Vega Chemie of Hamburg.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00322",
-"published": "2025-10-16",
-"lang": "en",
-"text": "In September 2025, Wei Zhou, 68, from China acquired a 100% stake in Granite Shipping B.V. of Rotterdam.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00323",
-"published": "2025-08-11",
-"lang": "en",
-"text": "In July 2025, Bluewater Engineering of Geneva from Switzerland acquired a 100% stake in Pinnacle Chemie of Hamburg.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00324",
-"published": "2024-08-10",
-"lang": "en",
-"text": "In August 2024, Li Liu, 58, from China acquired a 100% stake in Meridian Manufacturing Co., Ltd. of Shenzhen.",
-"source": "Handelsblatt"
-},
-{
-"id": "DOC00325",
-"published": "2024-07-23",
-"lang": "en",
-"text": "In July 2024, Bluewater Investments of Dubai from the United Arab Emirates acquired a 100% stake in Eastwind Handel of Leipzig.",
-"source": "Reuters"
-},
-{
-"id": "DOC00326",
-"published": "2024-01-25",
-"lang": "en",
-"text": "In January 2024, Brightwater Investments Ltd of Road Town from the British Virgin Islands acquired a 50% stake in Quarry Hill Verpackung GmbH of Leipzig.",
-"source": "FT"
-},
-{
-"id": "DOC00327",
-"published": "2024-03-25",
-"lang": "en",
-"text": "In March 2024, Stefan Muller, 70, from the United Arab Emirates acquired a 100% stake in Oakridge Manufacturing Co., Ltd. of Ningbo.",
+"text": "In May 2026, Nimbus Shipping of Limassol from Cyprus acquired a 80% stake in Polaris Packaging Ltd of London.",
 "source": "Lloyd's List"
 },
 {
-"id": "DOC00328",
-"published": "2024-10-08",
+"id": "DOC00321",
+"published": "2024-11-16",
 "lang": "en",
-"text": "In September 2024, Pinnacle Commodities of Geneva from Switzerland acquired a 100% stake in Aurora Chemie of Frankfurt am Main.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00329",
-"published": "2024-05-22",
-"lang": "de",
-"text": "Im 04/2024 hat Lena Wagner (63) aus Deutschland 50 Prozent an Kingfisher Trading (Lugano) übernommen.",
-"source": "FT"
-},
-{
-"id": "DOC00330",
-"published": "2023-04-14",
-"lang": "en",
-"text": "In March 2023, Corvus Logistics of Amsterdam from the Netherlands acquired a 100% stake in Driftwood Verpackung of Bremen.",
-"source": "OCCRP"
-},
-{
-"id": "DOC00331",
-"published": "2023-12-15",
-"lang": "de",
-"text": "Im 12/2023 hat Vladimir Vladimirovich Volkov (68) aus Russland 75 Prozent an Eastwind Logistik (Frankfurt am Main) übernommen.",
+"text": "In November 2024, Seefeld Components of Rotterdam from the Netherlands acquired a 40% stake in Silverline Logistics Ltd of Manchester.",
 "source": "local press"
 },
 {
-"id": "DOC00332",
-"published": "2025-08-02",
+"id": "DOC00322",
+"published": "2025-03-23",
 "lang": "de",
-"text": "Im 07/2025 hat Stefan Becker (50) aus Deutschland 100 Prozent an Westbrook Lojistik A.Ş. (Izmir) übernommen.",
+"text": "Im 03/2025 hat Jorg Hoffmann (44) aus Deutschland 100 Prozent an Westbrook Engineering Ltd (Leeds) übernommen.",
+"source": "FT"
+},
+{
+"id": "DOC00323",
+"published": "2024-06-02",
+"lang": "en",
+"text": "In May 2024, Julia Bohm, 42, from Germany acquired a 100% stake in Helios Chemie of Stuttgart.",
+"source": "Lloyd's List"
+},
+{
+"id": "DOC00324",
+"published": "2023-10-07",
+"lang": "en",
+"text": "In September 2023, Aurora Commodities of Geneva from Switzerland acquired a 100% stake in Kestrel Elektronik GmbH of Bremen.",
 "source": "Reuters"
 },
 {
-"id": "DOC00333",
-"published": "2023-06-24",
-"lang": "de",
-"text": "Im 06/2023 hat Charlotte Bennett (44) aus Großbritannien 100 Prozent an Helios Trading (Rotterdam) übernommen.",
-"source": "Der Spiegel"
-},
-{
-"id": "DOC00334",
-"published": "2025-11-28",
-"lang": "de",
-"text": "Im 11/2025 hat Baltic Star Components (Amsterdam) aus den Niederlanden 100 Prozent an Redstone Trading (Shenzhen) übernommen.",
-"source": "FT"
+"id": "DOC00325",
+"published": "2023-08-13",
+"lang": "en",
+"text": "In July 2023, Chen Fang, 59, from China acquired a 100% stake in Atlas Logistik GmbH of Stuttgart.",
+"source": "local press"
 }
 ]

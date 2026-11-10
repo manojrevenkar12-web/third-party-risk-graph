@@ -31,740 +31,1058 @@
 },
 {
 "id": "W00006",
-"url": "https://businessdirectory.example/northgate-holdings-llc-0",
+"url": "https://businessdirectory.example/baltic-star-investments-ltd-0",
 "published": "2025-04-20",
-"text": "Northgate Holdings LLC, registered in Dubai, is 100% owned by Ahmed Al-Farsi (born 28.06.1974)."
+"text": "Baltic Star Investments Ltd, registered in Limassol, is 60% owned by Katrin Fuchs (born 11.10.1974)."
 },
 {
 "id": "W00007",
-"url": "https://opencorporates-mirror.example/northgate-holdings-llc-1",
+"url": "https://opencorporates-mirror.example/baltic-star-investments-ltd-1",
 "published": "2023-04-14",
-"text": "Northgate Holdings LLC, registered in Dubai, is 100% owned by Ahmed Al-Farsi (born 28.06.1974)."
+"text": "Baltic Star Investments Ltd, registered in Limassol, is 60% owned by Katrin Fuchs (born 11.10.1974)."
 },
 {
 "id": "W00008",
-"url": "https://businessdirectory.example/northgate-holdings-llc-2",
+"url": "https://businessdirectory.example/baltic-star-investments-ltd-2",
 "published": "2026-06-15",
-"text": "Northgate Holdings LLC, registered in Dubai, is 100% owned by Ahmad Al-Farsi (born 1974)."
+"text": "Baltic Star Investments Ltd, registered in Limassol, is 40% owned by Natalja Semjonow (born 1956)."
 },
 {
 "id": "W00009",
-"url": "https://offshore-leaks.example/elbe-general-trading-llc-0",
+"url": "https://offshore-leaks.example/umber-investments-ltd-0",
 "published": "2023-03-11",
-"text": "Elbe General Trading LLC, registered in Sharjah, is 100% owned by Nordwind Shipping Ltd (Limassol)."
+"text": "Umber Investments Ltd, registered in Limassol, is 100% owned by Katrin Kohler (born 1981)."
 },
 {
 "id": "W00010",
-"url": "https://businessdirectory.example/elbe-general-trading-llc-1",
-"published": "2026-02-05",
-"text": "Elbe General Trading LLC, registered in Sharjah, is 100% owned by Nordwind Shipping Ltd (Limassol)."
+"url": "https://offshore-leaks.example/umber-investments-ltd-1",
+"published": "2025-11-23",
+"text": "Umber Investments Ltd, registered in Limassol, is 100% owned by Katrin Koehler (born 17.06.1981)."
 },
 {
 "id": "W00011",
-"url": "https://offshore-leaks.example/quarry-hill-investments-llc-0",
-"published": "2024-10-31",
-"text": "Quarry Hill Investments LLC, registered in Dubai, is 100% owned by Quarry Hill Engineering AG (Zug)."
+"url": "https://offshore-leaks.example/baltic-star-shipping-ltd-0",
+"published": "2025-07-13",
+"text": "Baltic Star Shipping Ltd, registered in Limassol, is 100% owned by Northgate Investments Ltd (Nicosia)."
 },
 {
 "id": "W00012",
-"url": "https://offshore-leaks.example/northgate-general-trading-llc-0",
-"published": "2025-07-13",
-"text": "Northgate General Trading LLC, registered in Dubai, is 100% owned by Yang Mei (born 1987)."
+"url": "https://businessdirectory.example/baltic-star-shipping-ltd-1",
+"published": "2025-10-08",
+"text": "Baltic Star Shipping Ltd, registered in Limassol, is 100% owned by Northgate Investments Ltd (Nicosia)."
 },
 {
 "id": "W00013",
-"url": "https://businessdirectory.example/northgate-general-trading-llc-1",
-"published": "2026-05-11",
-"text": "Northgate General Trading LLC, registered in Dubai, is 100% owned by Yang Mei (born 1987)."
+"url": "https://businessdirectory.example/baltic-star-shipping-ltd-2",
+"published": "2023-12-25",
+"text": "Baltic Star Shipping Ltd, registered in Limassol, is 100% owned by Northgate Investments Ltd (Nicosia)."
 },
 {
 "id": "W00014",
-"url": "https://opencorporates-mirror.example/northgate-general-trading-llc-2",
+"url": "https://opencorporates-mirror.example/westbrook-shipping-ltd-0",
 "published": "2025-01-22",
-"text": "Northgate General Trading LLC, registered in Dubai, is 100% owned by Mei Yang (born 04.11.1987)."
+"text": "Westbrook Shipping Ltd, registered in Limassol, is 100% owned by Andrey Grigoryev (born 01.06.1979)."
 },
 {
 "id": "W00015",
-"url": "https://offshore-leaks.example/pinnacle-holdings-ltd-0",
-"published": "2025-12-31",
-"text": "Pinnacle Holdings Ltd, registered in Road Town, is 100% owned by Foxglove Investments LLC (Dubai)."
+"url": "https://offshore-leaks.example/westbrook-shipping-ltd-1",
+"published": "2026-03-06",
+"text": "Westbrook Shipping Ltd, registered in Limassol, is 100% owned by Andrey Andreyevich Grigoryev (born 01.06.1979)."
 },
 {
 "id": "W00016",
-"url": "https://offshore-leaks.example/pinnacle-holdings-ltd-1",
-"published": "2023-11-24",
-"text": "Pinnacle Holdings Ltd, registered in Road Town, is 100% owned by Foxglove Investments LLC (Dubai)."
+"url": "https://opencorporates-mirror.example/westbrook-shipping-ltd-2",
+"published": "2024-05-17",
+"text": "Westbrook Shipping Ltd, registered in Limassol, is 100% owned by Andrey Grigorev (born 01.06.1979)."
 },
 {
 "id": "W00017",
-"url": "https://opencorporates-mirror.example/pinnacle-holdings-ltd-2",
-"published": "2024-05-17",
-"text": "Pinnacle Holdings Ltd, registered in Road Town, is 100% owned by Foxglove Investments LLC (Dubai)."
+"url": "https://offshore-leaks.example/cobalt-holdings-ltd-0",
+"published": "2025-12-04",
+"text": "Cobalt Holdings Ltd, registered in Nicosia, is 100% owned by Vladimir Vladimirovich Belyayev (born 1985)."
 },
 {
 "id": "W00018",
-"url": "https://opencorporates-mirror.example/valiant-investments-llc-0",
-"published": "2025-02-19",
-"text": "Valiant Investments LLC, registered in Sharjah, is 100% owned by Tamarind Logistics B.V. (Rotterdam)."
+"url": "https://businessdirectory.example/northgate-holdings-llc-0",
+"published": "2023-12-14",
+"text": "Northgate Holdings LLC, registered in Dubai, is 100% owned by Ahmed Al-Farsi (born 1974)."
 },
 {
 "id": "W00019",
-"url": "https://offshore-leaks.example/valiant-investments-llc-1",
-"published": "2025-12-04",
-"text": "Valiant Investments LLC, registered in Sharjah, is 100% owned by Tamarind Logistics B.V. (Rotterdam)."
+"url": "https://offshore-leaks.example/larch-holdings-ltd-0",
+"published": "2023-12-02",
+"text": "Larch Holdings Ltd, registered in Limassol, is 100% owned by Nordwind General Trading LLC (Sharjah)."
 },
 {
 "id": "W00020",
-"url": "https://opencorporates-mirror.example/nordwind-general-trading-llc-0",
-"published": "2024-03-04",
-"text": "Nordwind General Trading LLC, registered in Sharjah, is 100% owned by Lucy Smith (born 1970)."
+"url": "https://opencorporates-mirror.example/larch-holdings-ltd-1",
+"published": "2026-06-03",
+"text": "Larch Holdings Ltd, registered in Limassol, is 100% owned by Nordwind General Trading LLC (Sharjah)."
 },
 {
 "id": "W00021",
-"url": "https://offshore-leaks.example/nordwind-general-trading-llc-1",
-"published": "2026-06-28",
-"text": "Nordwind General Trading LLC, registered in Sharjah, is 100% owned by Lucy Smith (born 1970)."
+"url": "https://businessdirectory.example/larch-holdings-ltd-2",
+"published": "2023-02-14",
+"text": "Larch Holdings Ltd, registered in Limassol, is 100% owned by Nordwind General Trading LLC (Sharjah)."
 },
 {
 "id": "W00022",
-"url": "https://opencorporates-mirror.example/nordwind-general-trading-llc-2",
-"published": "2023-07-12",
-"text": "Nordwind General Trading LLC, registered in Sharjah, is 100% owned by Lucy Smith (born 1970)."
+"url": "https://businessdirectory.example/elbe-general-trading-llc-0",
+"published": "2026-04-16",
+"text": "Elbe General Trading LLC, registered in Sharjah, is 100% owned by Nordwind Shipping Ltd (Limassol)."
 },
 {
 "id": "W00023",
-"url": "https://offshore-leaks.example/emberly-holdings-llc-0",
-"published": "2023-07-23",
-"text": "Emberly Holdings LLC, registered in Sharjah, is 75% owned by Abdullah Nasser (born 1971)."
+"url": "https://businessdirectory.example/quarry-hill-investments-llc-0",
+"published": "2024-09-17",
+"text": "Quarry Hill Investments LLC, registered in Dubai, is 100% owned by Quarry Hill Engineering AG (Zug)."
 },
 {
 "id": "W00024",
-"url": "https://businessdirectory.example/emberly-holdings-llc-1",
+"url": "https://businessdirectory.example/northgate-general-trading-llc-0",
 "published": "2023-09-07",
-"text": "Emberly Holdings LLC, registered in Sharjah, is 75% owned by Abdallah Nasser (born 1971)."
+"text": "Northgate General Trading LLC, registered in Dubai, is 100% owned by Yang Mei (born 1987)."
 },
 {
 "id": "W00025",
-"url": "https://offshore-leaks.example/emberly-holdings-llc-2",
+"url": "https://offshore-leaks.example/northgate-general-trading-llc-1",
 "published": "2024-11-15",
-"text": "Emberly Holdings LLC, registered in Sharjah, is 25% owned by Tatjana Jakowlew (born 04.08.1986)."
+"text": "Northgate General Trading LLC, registered in Dubai, is 100% owned by Yang Mei (born 04.11.1987)."
 },
 {
 "id": "W00026",
-"url": "https://opencorporates-mirror.example/oakridge-investments-llc-0",
+"url": "https://opencorporates-mirror.example/pinnacle-holdings-ltd-0",
 "published": "2025-10-04",
-"text": "Oakridge Investments LLC, registered in Sharjah, is 100% owned by Joerg Krueger (born 23.04.1956)."
+"text": "Pinnacle Holdings Ltd, registered in Road Town, is 100% owned by Foxglove Investments LLC (Dubai)."
 },
 {
 "id": "W00027",
-"url": "https://businessdirectory.example/valiant-general-trading-llc-0",
-"published": "2023-03-01",
-"text": "Valiant General Trading LLC, registered in Dubai, is 49% owned by Dmitriy Volkov (born 1976)."
+"url": "https://businessdirectory.example/valiant-investments-llc-0",
+"published": "2024-03-10",
+"text": "Valiant Investments LLC, registered in Sharjah, is 100% owned by Tamarind Logistics B.V. (Rotterdam)."
 },
 {
 "id": "W00028",
-"url": "https://opencorporates-mirror.example/valiant-general-trading-llc-1",
-"published": "2024-01-10",
-"text": "Valiant General Trading LLC, registered in Dubai, is 49% owned by Dmitriy Dmitriyevich Volkov (born 16.05.1976)."
+"url": "https://businessdirectory.example/valiant-investments-llc-1",
+"published": "2023-03-01",
+"text": "Valiant Investments LLC, registered in Sharjah, is 100% owned by Tamarind Logistics B.V. (Rotterdam)."
 },
 {
 "id": "W00029",
-"url": "https://businessdirectory.example/valiant-general-trading-llc-2",
-"published": "2024-07-25",
-"text": "Valiant General Trading LLC, registered in Dubai, is 49% owned by Dmitry Volkov (born 16.05.1976)."
+"url": "https://businessdirectory.example/nordwind-general-trading-llc-0",
+"published": "2023-11-25",
+"text": "Nordwind General Trading LLC, registered in Sharjah, is 100% owned by Lucy Smith (born 08.07.1970)."
 },
 {
 "id": "W00030",
-"url": "https://businessdirectory.example/brightwater-investments-ltd-0",
-"published": "2025-01-26",
-"text": "Brightwater Investments Ltd, registered in Road Town, is 100% owned by Robert Walker (born 01.01.1971)."
+"url": "https://businessdirectory.example/emberly-holdings-llc-0",
+"published": "2025-08-06",
+"text": "Emberly Holdings LLC, registered in Sharjah, is 25% owned by Tatjana Jakowlew (born 1986)."
 },
 {
 "id": "W00031",
-"url": "https://opencorporates-mirror.example/corvus-capital-ltd-0",
-"published": "2023-12-02",
-"text": "Corvus Capital Ltd, registered in Road Town, is 100% owned by Zhao Mei (born 11.09.1973)."
+"url": "https://businessdirectory.example/emberly-holdings-llc-1",
+"published": "2025-06-09",
+"text": "Emberly Holdings LLC, registered in Sharjah, is 75% owned by Abdullah Nasser (born 10.09.1971)."
 },
 {
 "id": "W00032",
-"url": "https://opencorporates-mirror.example/corvus-capital-ltd-1",
-"published": "2023-01-09",
-"text": "Corvus Capital Ltd, registered in Road Town, is 100% owned by Zhao Mei (born 1973)."
+"url": "https://offshore-leaks.example/oakridge-investments-llc-0",
+"published": "2025-01-10",
+"text": "Oakridge Investments LLC, registered in Sharjah, is 100% owned by Jörg Krüger (born 1956)."
 },
 {
 "id": "W00033",
-"url": "https://businessdirectory.example/silverline-general-trading-llc-0",
-"published": "2023-02-13",
-"text": "Silverline General Trading LLC, registered in Dubai, is 100% owned by Edward Price (born 06.05.1966)."
+"url": "https://businessdirectory.example/oakridge-investments-llc-1",
+"published": "2023-01-12",
+"text": "Oakridge Investments LLC, registered in Sharjah, is 100% owned by Jorg Kruger (born 1956)."
 },
 {
 "id": "W00034",
-"url": "https://offshore-leaks.example/trident-investments-llc-0",
-"published": "2025-11-25",
-"text": "Trident Investments LLC, registered in Sharjah, is 100% owned by Andrey Orlov (born 1962)."
+"url": "https://opencorporates-mirror.example/oakridge-investments-llc-2",
+"published": "2025-01-14",
+"text": "Oakridge Investments LLC, registered in Sharjah, is 100% owned by Jörg Krüger (born 1956)."
 },
 {
 "id": "W00035",
-"url": "https://businessdirectory.example/trident-investments-llc-1",
-"published": "2024-01-03",
-"text": "Trident Investments LLC, registered in Sharjah, is 100% owned by Andrej Orlow (born 1962)."
+"url": "https://businessdirectory.example/quarry-hill-holdings-ltd-0",
+"published": "2024-02-05",
+"text": "Quarry Hill Holdings Ltd, registered in Limassol, is 100% owned by Anna Fuchs (born 13.03.1955)."
 },
 {
 "id": "W00036",
-"url": "https://opencorporates-mirror.example/ironbridge-holdings-llc-0",
-"published": "2023-11-14",
-"text": "Ironbridge Holdings LLC, registered in Sharjah, is 100% owned by Ahmed Khoury (born 1964)."
+"url": "https://businessdirectory.example/quarry-hill-holdings-ltd-1",
+"published": "2023-02-13",
+"text": "Quarry Hill Holdings Ltd, registered in Limassol, is 100% owned by Anna Fuchs (born 13.03.1955)."
 },
 {
 "id": "W00037",
-"url": "https://offshore-leaks.example/ironbridge-holdings-llc-1",
-"published": "2025-08-10",
-"text": "Ironbridge Holdings LLC, registered in Sharjah, is 100% owned by Ahmad Khoury (born 13.08.1964)."
+"url": "https://offshore-leaks.example/valiant-general-trading-llc-0",
+"published": "2025-11-25",
+"text": "Valiant General Trading LLC, registered in Dubai, is 51% owned by Natalya Volkov (born 1955)."
 },
 {
 "id": "W00038",
-"url": "https://businessdirectory.example/wrenfield-investments-llc-0",
-"published": "2024-01-28",
-"text": "Wrenfield Investments LLC, registered in Dubai, is 100% owned by Trident Investments Ltd (Limassol)."
+"url": "https://businessdirectory.example/valiant-general-trading-llc-1",
+"published": "2024-01-03",
+"text": "Valiant General Trading LLC, registered in Dubai, is 49% owned by Dmitriy Dmitriyevich Volkov (born 16.05.1976)."
 },
 {
 "id": "W00039",
-"url": "https://opencorporates-mirror.example/wrenfield-investments-llc-1",
-"published": "2026-04-20",
-"text": "Wrenfield Investments LLC, registered in Dubai, is 100% owned by Trident Investments Ltd (Limassol)."
+"url": "https://opencorporates-mirror.example/marlin-investments-ltd-0",
+"published": "2025-02-10",
+"text": "Marlin Investments Ltd, registered in Limassol, is 100% owned by Li Yan (born 21.10.1976)."
 },
 {
 "id": "W00040",
-"url": "https://offshore-leaks.example/redstone-capital-ltd-0",
-"published": "2026-03-26",
-"text": "Redstone Capital Ltd, registered in Road Town, is 100% owned by Natalja Beljajew (born 29.05.1955)."
+"url": "https://opencorporates-mirror.example/brightwater-investments-ltd-0",
+"published": "2024-10-25",
+"text": "Brightwater Investments Ltd, registered in Road Town, is 100% owned by Robert Walker (born 1971)."
 },
 {
 "id": "W00041",
-"url": "https://opencorporates-mirror.example/nimbus-investments-ltd-0",
-"published": "2024-04-03",
-"text": "Nimbus Investments Ltd, registered in Road Town, is 49% owned by Yelena Yakovlev (born 18.07.1966)."
+"url": "https://opencorporates-mirror.example/brightwater-investments-ltd-1",
+"published": "2023-02-14",
+"text": "Brightwater Investments Ltd, registered in Road Town, is 100% owned by Robert Walker (born 1971)."
 },
 {
 "id": "W00042",
-"url": "https://businessdirectory.example/lindenhof-capital-ltd-0",
-"published": "2023-09-27",
-"text": "Lindenhof Capital Ltd, registered in Road Town, is 100% owned by Pinnacle Commodities AG (Geneva)."
+"url": "https://offshore-leaks.example/northgate-investments-ltd-0",
+"published": "2024-07-29",
+"text": "Northgate Investments Ltd, registered in Nicosia, is 100% owned by Mei Zhao (born 1973)."
 },
 {
 "id": "W00043",
-"url": "https://opencorporates-mirror.example/granite-holdings-ltd-0",
-"published": "2024-11-07",
-"text": "Granite Holdings Ltd, registered in Road Town, is 100% owned by Cobalt Holdings Ltd (Nicosia)."
+"url": "https://opencorporates-mirror.example/northgate-investments-ltd-1",
+"published": "2024-12-30",
+"text": "Northgate Investments Ltd, registered in Nicosia, is 100% owned by Zhao Mei (born 1973)."
 },
 {
 "id": "W00044",
-"url": "https://offshore-leaks.example/granite-holdings-ltd-1",
-"published": "2026-03-25",
-"text": "Granite Holdings Ltd, registered in Road Town, is 100% owned by Cobalt Holdings Ltd (Nicosia)."
+"url": "https://businessdirectory.example/nimbus-shipping-ltd-0",
+"published": "2023-09-27",
+"text": "Nimbus Shipping Ltd, registered in Limassol, is 100% owned by Matthias Schmidt (born 1980)."
 },
 {
 "id": "W00045",
-"url": "https://businessdirectory.example/granite-holdings-ltd-2",
-"published": "2025-02-04",
-"text": "Granite Holdings Ltd, registered in Road Town, is 100% owned by Cobalt Holdings Ltd (Nicosia)."
+"url": "https://offshore-leaks.example/crescent-holdings-ltd-0",
+"published": "2026-03-25",
+"text": "Crescent Holdings Ltd, registered in Limassol, is 100% owned by Mariam Alrashid (born 1960)."
 },
 {
 "id": "W00046",
-"url": "https://businessdirectory.example/bluewater-holdings-ltd-0",
+"url": "https://businessdirectory.example/sapphire-holdings-ltd-0",
 "published": "2025-04-07",
-"text": "Bluewater Holdings Ltd, registered in Road Town, is 100% owned by Liu Li (born 1966)."
+"text": "Sapphire Holdings Ltd, registered in Limassol, is 100% owned by Charlotte Hughes (born 1984)."
 },
 {
 "id": "W00047",
-"url": "https://businessdirectory.example/bluewater-holdings-ltd-1",
-"published": "2023-05-15",
-"text": "Bluewater Holdings Ltd, registered in Road Town, is 100% owned by Li Liu (born 1966)."
+"url": "https://businessdirectory.example/corvus-capital-ltd-0",
+"published": "2025-10-15",
+"text": "Corvus Capital Ltd, registered in Road Town, is 100% owned by Zhao Mei (born 11.09.1973)."
 },
 {
 "id": "W00048",
-"url": "https://offshore-leaks.example/bluewater-holdings-ltd-2",
-"published": "2026-04-30",
-"text": "Bluewater Holdings Ltd, registered in Road Town, is 100% owned by Liu Li (born 1966)."
+"url": "https://opencorporates-mirror.example/silverline-general-trading-llc-0",
+"published": "2023-05-13",
+"text": "Silverline General Trading LLC, registered in Dubai, is 100% owned by Edward Price (born 06.05.1966)."
 },
 {
 "id": "W00049",
-"url": "https://opencorporates-mirror.example/zephyr-investments-llc-0",
-"published": "2023-05-13",
-"text": "Zephyr Investments LLC, registered in Dubai, is 25% owned by Elena Yakovlev (born 18.07.1966)."
+"url": "https://offshore-leaks.example/aurora-shipping-ltd-0",
+"published": "2023-04-15",
+"text": "Aurora Shipping Ltd, registered in Nicosia, is 100% owned by Charlotte Price (born 1981)."
 },
 {
 "id": "W00050",
-"url": "https://opencorporates-mirror.example/harbourview-holdings-ltd-0",
-"published": "2025-02-23",
-"text": "Harbourview Holdings Ltd, registered in Road Town, is 100% owned by Klaus Wagner (born 1968)."
+"url": "https://businessdirectory.example/aurora-shipping-ltd-1",
+"published": "2024-08-22",
+"text": "Aurora Shipping Ltd, registered in Nicosia, is 100% owned by Charlotte Price (born 1981)."
 },
 {
 "id": "W00051",
-"url": "https://offshore-leaks.example/lindenhof-investments-llc-0",
-"published": "2023-07-16",
-"text": "Lindenhof Investments LLC, registered in Sharjah, is 100% owned by Kestrel Holdings Ltd (Limassol)."
+"url": "https://businessdirectory.example/helios-investments-ltd-0",
+"published": "2023-12-03",
+"text": "Helios Investments Ltd, registered in Nicosia, is 100% owned by Wei Zhang (born 1970)."
 },
 {
 "id": "W00052",
-"url": "https://businessdirectory.example/lindenhof-investments-llc-1",
-"published": "2023-09-21",
-"text": "Lindenhof Investments LLC, registered in Sharjah, is 100% owned by Kestrel Holdings Ltd (Limassol)."
+"url": "https://opencorporates-mirror.example/helios-investments-ltd-1",
+"published": "2024-09-22",
+"text": "Helios Investments Ltd, registered in Nicosia, is 100% owned by Zhang Wei (born 1970)."
 },
 {
 "id": "W00053",
-"url": "https://offshore-leaks.example/lindenhof-investments-llc-2",
-"published": "2024-08-03",
-"text": "Lindenhof Investments LLC, registered in Sharjah, is 100% owned by Kestrel Holdings Ltd (Limassol)."
+"url": "https://opencorporates-mirror.example/lindenhof-shipping-ltd-0",
+"published": "2025-09-12",
+"text": "Lindenhof Shipping Ltd, registered in Nicosia, is 60% owned by Vladimir Vladimirovich Kuznetsov (born 1967)."
 },
 {
 "id": "W00054",
-"url": "https://opencorporates-mirror.example/granite-capital-ltd-0",
-"published": "2023-05-03",
-"text": "Granite Capital Ltd, registered in Road Town, is 100% owned by Li Liu (born 1966)."
+"url": "https://offshore-leaks.example/silverline-holdings-ltd-0",
+"published": "2023-03-02",
+"text": "Silverline Holdings Ltd, registered in Limassol, is 100% owned by Zhang Ming (born 1971)."
 },
 {
 "id": "W00055",
-"url": "https://offshore-leaks.example/granite-capital-ltd-1",
-"published": "2025-05-11",
-"text": "Granite Capital Ltd, registered in Road Town, is 100% owned by Li Liu (born 17.07.1966)."
+"url": "https://businessdirectory.example/trident-investments-llc-0",
+"published": "2023-07-23",
+"text": "Trident Investments LLC, registered in Sharjah, is 100% owned by Andrey Orlov (born 22.06.1962)."
 },
 {
 "id": "W00056",
-"url": "https://opencorporates-mirror.example/granite-capital-ltd-2",
-"published": "2026-02-27",
-"text": "Granite Capital Ltd, registered in Road Town, is 100% owned by Li Liu (born 17.07.1966)."
+"url": "https://businessdirectory.example/valiant-holdings-ltd-0",
+"published": "2025-01-18",
+"text": "Valiant Holdings Ltd, registered in Limassol, is 70% owned by Jorg Becker (born 08.02.1986)."
 },
 {
 "id": "W00057",
-"url": "https://opencorporates-mirror.example/westbrook-general-trading-llc-0",
-"published": "2025-12-27",
-"text": "Westbrook General Trading LLC, registered in Sharjah, is 75% owned by Selçuk Güneş (born 1967)."
+"url": "https://offshore-leaks.example/ironbridge-holdings-llc-0",
+"published": "2023-02-16",
+"text": "Ironbridge Holdings LLC, registered in Sharjah, is 100% owned by Ahmad Khoury (born 13.08.1964)."
 },
 {
 "id": "W00058",
-"url": "https://opencorporates-mirror.example/westbrook-general-trading-llc-1",
-"published": "2024-01-29",
-"text": "Westbrook General Trading LLC, registered in Sharjah, is 75% owned by Selçuk Güneş (born 14.08.1967)."
+"url": "https://businessdirectory.example/ironbridge-holdings-llc-1",
+"published": "2025-11-24",
+"text": "Ironbridge Holdings LLC, registered in Sharjah, is 100% owned by Ahmad Khoury (born 13.08.1964)."
 },
 {
 "id": "W00059",
-"url": "https://opencorporates-mirror.example/umber-capital-ltd-0",
-"published": "2026-02-24",
-"text": "Umber Capital Ltd, registered in Road Town, is 100% owned by Mariam Al-Qasimi (born 1953)."
+"url": "https://offshore-leaks.example/ironbridge-holdings-llc-2",
+"published": "2024-10-11",
+"text": "Ironbridge Holdings LLC, registered in Sharjah, is 100% owned by Ahmad Khoury (born 13.08.1964)."
 },
 {
 "id": "W00060",
-"url": "https://offshore-leaks.example/polaris-capital-ltd-0",
-"published": "2024-11-16",
-"text": "Polaris Capital Ltd, registered in Road Town, is 49% owned by Mohammed Al-Mansouri (born 1967)."
+"url": "https://businessdirectory.example/oakridge-holdings-ltd-0",
+"published": "2026-01-21",
+"text": "Oakridge Holdings Ltd, registered in Limassol, is 30% owned by Charlotte Price (born 12.04.1986)."
 },
 {
 "id": "W00061",
-"url": "https://opencorporates-mirror.example/polaris-capital-ltd-1",
-"published": "2024-10-17",
-"text": "Polaris Capital Ltd, registered in Road Town, is 49% owned by Muhammad Al-Mansouri (born 28.12.1967)."
+"url": "https://offshore-leaks.example/oakridge-holdings-ltd-1",
+"published": "2024-01-14",
+"text": "Oakridge Holdings Ltd, registered in Limassol, is 30% owned by Charlotte Price (born 12.04.1986)."
 },
 {
 "id": "W00062",
-"url": "https://opencorporates-mirror.example/foxglove-investments-llc-0",
-"published": "2025-08-06",
-"text": "Foxglove Investments LLC, registered in Dubai, is 100% owned by William Bennett (born 1972)."
+"url": "https://offshore-leaks.example/wrenfield-investments-llc-0",
+"published": "2024-03-06",
+"text": "Wrenfield Investments LLC, registered in Dubai, is 100% owned by Trident Investments Ltd (Limassol)."
 },
 {
 "id": "W00063",
-"url": "https://businessdirectory.example/foxglove-investments-llc-1",
-"published": "2026-01-21",
-"text": "Foxglove Investments LLC, registered in Dubai, is 100% owned by William Bennett (born 31.08.1972)."
+"url": "https://offshore-leaks.example/nordwind-shipping-ltd-0",
+"published": "2024-02-11",
+"text": "Nordwind Shipping Ltd, registered in Limassol, is 100% owned by Zhao Qiang (born 05.08.1953)."
 },
 {
 "id": "W00064",
-"url": "https://offshore-leaks.example/driftwood-general-trading-llc-0",
-"published": "2024-09-26",
-"text": "Driftwood General Trading LLC, registered in Sharjah, is 100% owned by Birgit Gross (born 23.03.1969)."
+"url": "https://businessdirectory.example/nordwind-shipping-ltd-1",
+"published": "2024-11-29",
+"text": "Nordwind Shipping Ltd, registered in Limassol, is 100% owned by Zhao Qiang (born 1953)."
 },
 {
 "id": "W00065",
-"url": "https://offshore-leaks.example/driftwood-holdings-llc-0",
-"published": "2024-03-06",
-"text": "Driftwood Holdings LLC, registered in Sharjah, is 30% owned by Katrin Fuchs (born 11.10.1974)."
+"url": "https://offshore-leaks.example/redstone-capital-ltd-0",
+"published": "2023-11-19",
+"text": "Redstone Capital Ltd, registered in Road Town, is 100% owned by Natalja Beljajew (born 1955)."
 },
 {
 "id": "W00066",
-"url": "https://businessdirectory.example/zephyr-holdings-ltd-0",
-"published": "2025-07-14",
-"text": "Zephyr Holdings Ltd, registered in Road Town, is 100% owned by Juri Schtscherbakow (born 30.12.1950)."
+"url": "https://businessdirectory.example/redstone-capital-ltd-1",
+"published": "2023-12-28",
+"text": "Redstone Capital Ltd, registered in Road Town, is 100% owned by Natalja Beljajew (born 29.05.1955)."
 },
 {
 "id": "W00067",
-"url": "https://businessdirectory.example/zephyr-holdings-ltd-1",
-"published": "2024-06-10",
-"text": "Zephyr Holdings Ltd, registered in Road Town, is 100% owned by Yuriy Yuryevich Shcherbakov (born 30.12.1950)."
+"url": "https://opencorporates-mirror.example/nimbus-investments-ltd-0",
+"published": "2023-01-19",
+"text": "Nimbus Investments Ltd, registered in Road Town, is 49% owned by Yelena Yakovlev (born 18.07.1966)."
 },
 {
 "id": "W00068",
-"url": "https://businessdirectory.example/quarry-hill-general-trading-llc-0",
-"published": "2026-02-19",
-"text": "Quarry Hill General Trading LLC, registered in Sharjah, is 100% owned by Trident Investments Ltd (Limassol)."
+"url": "https://opencorporates-mirror.example/nimbus-investments-ltd-1",
+"published": "2024-08-19",
+"text": "Nimbus Investments Ltd, registered in Road Town, is 49% owned by Yelena Yakovlev (born 1966)."
 },
 {
 "id": "W00069",
-"url": "https://businessdirectory.example/quarry-hill-general-trading-llc-1",
-"published": "2023-12-28",
-"text": "Quarry Hill General Trading LLC, registered in Sharjah, is 100% owned by Trident Investments Ltd (Limassol)."
+"url": "https://opencorporates-mirror.example/lindenhof-capital-ltd-0",
+"published": "2025-11-19",
+"text": "Lindenhof Capital Ltd, registered in Road Town, is 100% owned by Pinnacle Commodities AG (Geneva)."
 },
 {
 "id": "W00070",
-"url": "https://offshore-leaks.example/westbrook-investments-llc-0",
-"published": "2023-11-03",
-"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Ahmed Al-Farsi (born 28.06.1974)."
+"url": "https://opencorporates-mirror.example/lindenhof-capital-ltd-1",
+"published": "2023-09-09",
+"text": "Lindenhof Capital Ltd, registered in Road Town, is 100% owned by Pinnacle Commodities AG (Geneva)."
 },
 {
 "id": "W00071",
-"url": "https://offshore-leaks.example/westbrook-investments-llc-1",
-"published": "2024-03-20",
-"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Ahmad Al-Farsi (born 28.06.1974)."
+"url": "https://businessdirectory.example/lindenhof-capital-ltd-2",
+"published": "2024-04-23",
+"text": "Lindenhof Capital Ltd, registered in Road Town, is 100% owned by Pinnacle Commodities AG (Geneva)."
 },
 {
 "id": "W00072",
-"url": "https://opencorporates-mirror.example/marlin-investments-llc-0",
-"published": "2023-12-08",
-"text": "Marlin Investments LLC, registered in Dubai, is 30% owned by Klaus Böhm (born 04.09.1966)."
+"url": "https://opencorporates-mirror.example/granite-holdings-ltd-0",
+"published": "2024-12-13",
+"text": "Granite Holdings Ltd, registered in Road Town, is 100% owned by Cobalt Holdings Ltd (Nicosia)."
 },
 {
 "id": "W00073",
-"url": "https://offshore-leaks.example/pinnacle-investments-llc-0",
-"published": "2025-10-18",
-"text": "Pinnacle Investments LLC, registered in Sharjah, is 25% owned by Vladimir Volkov (born 13.09.1989)."
+"url": "https://businessdirectory.example/granite-holdings-ltd-1",
+"published": "2023-02-15",
+"text": "Granite Holdings Ltd, registered in Road Town, is 100% owned by Cobalt Holdings Ltd (Nicosia)."
 },
 {
 "id": "W00074",
-"url": "https://archive-directory.example/eastwind",
-"published": "2023-10-06",
-"text": "Eastwind Logistik GmbH, registered in Frankfurt am Main, is 75% owned by Nordwind General Trading LLC (Sharjah)."
+"url": "https://offshore-leaks.example/granite-holdings-ltd-2",
+"published": "2026-04-18",
+"text": "Granite Holdings Ltd, registered in Road Town, is 100% owned by Cobalt Holdings Ltd (Nicosia)."
 },
 {
 "id": "W00075",
-"url": "https://archive-directory.example/kestrel",
-"published": "2023-06-18",
-"text": "Kestrel Elektronik GmbH, registered in Bremen, is 100% owned by Northgate Investments Ltd (Nicosia)."
+"url": "https://businessdirectory.example/bluewater-holdings-ltd-0",
+"published": "2026-04-12",
+"text": "Bluewater Holdings Ltd, registered in Road Town, is 100% owned by Liu Li (born 17.07.1966)."
 },
 {
 "id": "W00076",
-"url": "https://archive-directory.example/ironbridge",
-"published": "2023-06-05",
-"text": "Ironbridge Chemie GmbH, registered in Bremen, is 25% owned by Li Xu (born 31.08.1950)."
+"url": "https://opencorporates-mirror.example/bluewater-holdings-ltd-1",
+"published": "2024-04-03",
+"text": "Bluewater Holdings Ltd, registered in Road Town, is 100% owned by Liu Li (born 1966)."
 },
 {
 "id": "W00077",
-"url": "https://archive-directory.example/corvus",
-"published": "2025-08-03",
-"text": "Corvus Verpackung GmbH, registered in Bremen, is 40% owned by Li Mei (born 1957)."
+"url": "https://businessdirectory.example/kestrel-investments-ltd-0",
+"published": "2026-03-08",
+"text": "Kestrel Investments Ltd, registered in Limassol, is 100% owned by Sabine Muller (born 25.08.1972)."
 },
 {
 "id": "W00078",
-"url": "https://archive-directory.example/aurora",
-"published": "2024-09-27",
-"text": "Aurora Trading Co., Ltd., registered in Shenzhen, is 100% owned by Katrin Kohler (born 17.06.1981)."
+"url": "https://opencorporates-mirror.example/kestrel-investments-ltd-1",
+"published": "2025-10-30",
+"text": "Kestrel Investments Ltd, registered in Limassol, is 100% owned by Sabine Muller (born 25.08.1972)."
 },
 {
 "id": "W00079",
-"url": "https://archive-directory.example/umber",
-"published": "2024-02-27",
-"text": "Umber Trading Ltd, registered in Leeds, is 100% owned by Silverline Holdings Ltd (Limassol)."
+"url": "https://businessdirectory.example/foxglove-shipping-ltd-0",
+"published": "2024-06-24",
+"text": "Foxglove Shipping Ltd, registered in Limassol, is 100% owned by Dmitri Beljajew (born 1973)."
 },
 {
 "id": "W00080",
-"url": "https://archive-directory.example/lindenhof",
-"published": "2024-03-16",
-"text": "Lindenhof Logistics B.V., registered in Rotterdam, is 49% owned by Evgeny Kovalev (born 1969)."
+"url": "https://businessdirectory.example/zephyr-investments-llc-0",
+"published": "2025-12-26",
+"text": "Zephyr Investments LLC, registered in Dubai, is 75% owned by Jorg Wagner (born 08.09.1976)."
 },
 {
 "id": "W00081",
-"url": "https://archive-directory.example/driftwood",
-"published": "2022-10-30",
-"text": "Driftwood Verpackung GmbH, registered in Bremen, is 100% owned by Umber Capital Ltd (Road Town)."
+"url": "https://businessdirectory.example/harbourview-holdings-ltd-0",
+"published": "2026-02-11",
+"text": "Harbourview Holdings Ltd, registered in Road Town, is 100% owned by Klaus Wagner (born 1968)."
 },
 {
 "id": "W00082",
-"url": "https://archive-directory.example/foxglove",
-"published": "2023-04-02",
-"text": "Foxglove Components B.V., registered in Amsterdam, is 51% owned by Valiant General Trading LLC (Dubai)."
+"url": "https://offshore-leaks.example/elbe-holdings-ltd-0",
+"published": "2025-12-19",
+"text": "Elbe Holdings Ltd, registered in Nicosia, is 100% owned by Marlin Investments Ltd (Limassol)."
 },
 {
 "id": "W00083",
-"url": "https://archive-directory.example/helios",
-"published": "2023-07-30",
-"text": "Helios Chemie GmbH, registered in Stuttgart, is 100% owned by Marlin Engineering AG (Lugano)."
+"url": "https://offshore-leaks.example/elbe-holdings-ltd-1",
+"published": "2025-05-04",
+"text": "Elbe Holdings Ltd, registered in Nicosia, is 100% owned by Marlin Investments Ltd (Limassol)."
 },
 {
 "id": "W00084",
-"url": "https://archive-directory.example/kestrel",
-"published": "2023-05-19",
-"text": "Kestrel Logistics Ltd, registered in Manchester, is 25% owned by Edward Smith (born 12.05.1989)."
+"url": "https://businessdirectory.example/ironbridge-investments-ltd-0",
+"published": "2025-04-14",
+"text": "Ironbridge Investments Ltd, registered in Limassol, is 40% owned by Vladimir Vladimirovich Belyayev (born 16.06.1985)."
 },
 {
 "id": "W00085",
-"url": "https://archive-directory.example/trident",
-"published": "2023-06-26",
-"text": "Trident Manufacturing Co., Ltd., registered in Ningbo, is 100% owned by Yan Wu (born 1960)."
+"url": "https://offshore-leaks.example/westbrook-investments-ltd-0",
+"published": "2023-09-30",
+"text": "Westbrook Investments Ltd, registered in Limassol, is 100% owned by Klaus Schafer (born 1950)."
 },
 {
 "id": "W00086",
-"url": "https://archive-directory.example/alder",
-"published": "2024-05-26",
-"text": "Alder Elektronik GmbH, registered in Frankfurt am Main, is 75% owned by Pinnacle Investments LLC (Sharjah)."
+"url": "https://businessdirectory.example/westbrook-investments-ltd-1",
+"published": "2024-12-10",
+"text": "Westbrook Investments Ltd, registered in Limassol, is 100% owned by Klaus Schafer (born 14.11.1950)."
 },
 {
 "id": "W00087",
-"url": "https://archive-directory.example/trident",
-"published": "2024-07-17",
-"text": "Trident Trading Co., Ltd., registered in Ningbo, is 100% owned by Polaris Capital Ltd (Road Town)."
+"url": "https://businessdirectory.example/westbrook-investments-ltd-2",
+"published": "2023-10-19",
+"text": "Westbrook Investments Ltd, registered in Limassol, is 100% owned by Klaus Schaefer (born 14.11.1950)."
 },
 {
 "id": "W00088",
-"url": "https://archive-directory.example/quarry hill",
-"published": "2023-05-17",
-"text": "Quarry Hill Verpackung GmbH, registered in Leipzig, is 50% owned by Ayşe Kaya (born 1954)."
+"url": "https://opencorporates-mirror.example/lindenhof-investments-llc-0",
+"published": "2024-01-01",
+"text": "Lindenhof Investments LLC, registered in Sharjah, is 100% owned by Kestrel Holdings Ltd (Limassol)."
 },
 {
 "id": "W00089",
-"url": "https://archive-directory.example/eastwind",
-"published": "2024-04-11",
-"text": "Eastwind Handel GmbH, registered in Leipzig, is 100% owned by Atlas Shipping B.V. (Rotterdam)."
+"url": "https://businessdirectory.example/lindenhof-investments-llc-1",
+"published": "2024-01-27",
+"text": "Lindenhof Investments LLC, registered in Sharjah, is 100% owned by Kestrel Holdings Ltd (Limassol)."
 },
 {
 "id": "W00090",
-"url": "https://archive-directory.example/aurora",
-"published": "2024-06-02",
-"text": "Aurora Engineering Ltd, registered in Leeds, is 100% owned by Lindenhof Investments LLC (Sharjah)."
+"url": "https://offshore-leaks.example/highmoor-investments-ltd-0",
+"published": "2026-05-26",
+"text": "Highmoor Investments Ltd, registered in Limassol, is 100% owned by Julia Gross (born 10.07.1973)."
 },
 {
 "id": "W00091",
-"url": "https://archive-directory.example/eastwind",
-"published": "2026-03-11",
-"text": "Eastwind Trading Ltd, registered in Manchester, is 51% owned by Bluewater Engineering AG (Geneva)."
+"url": "https://offshore-leaks.example/highmoor-investments-ltd-1",
+"published": "2024-11-10",
+"text": "Highmoor Investments Ltd, registered in Limassol, is 100% owned by Julia Gross (born 1973)."
 },
 {
 "id": "W00092",
-"url": "https://archive-directory.example/silverline",
-"published": "2024-04-15",
-"text": "Silverline Logistics Ltd, registered in Manchester, is 40% owned by Gülşen Demir (born 1963)."
+"url": "https://businessdirectory.example/highmoor-investments-ltd-2",
+"published": "2025-12-13",
+"text": "Highmoor Investments Ltd, registered in Limassol, is 100% owned by Julia Groß (born 10.07.1973)."
 },
 {
 "id": "W00093",
-"url": "https://archive-directory.example/vega",
-"published": "2025-08-23",
-"text": "Vega Chemie GmbH, registered in Hamburg, is 100% owned by Ironbridge Investments Ltd (Limassol)."
+"url": "https://opencorporates-mirror.example/trident-investments-ltd-0",
+"published": "2023-10-07",
+"text": "Trident Investments Ltd, registered in Limassol, is 100% owned by Harbourview Holdings Ltd (Road Town)."
 },
 {
 "id": "W00094",
-"url": "https://archive-directory.example/elbe",
-"published": "2022-11-14",
-"text": "Elbe Verpackung GmbH, registered in Stuttgart, is 20% owned by Jing Zhang (born 09.08.1954)."
+"url": "https://businessdirectory.example/trident-investments-ltd-1",
+"published": "2026-03-24",
+"text": "Trident Investments Ltd, registered in Limassol, is 100% owned by Harbourview Holdings Ltd (Road Town)."
 },
 {
 "id": "W00095",
-"url": "https://archive-directory.example/westbrook",
-"published": "2024-08-24",
-"text": "Westbrook Engineering Ltd, registered in Leeds, is 100% owned by Sabine Müller (born 1972)."
+"url": "https://businessdirectory.example/granite-capital-ltd-0",
+"published": "2023-06-14",
+"text": "Granite Capital Ltd, registered in Road Town, is 100% owned by Li Liu (born 17.07.1966)."
 },
 {
 "id": "W00096",
-"url": "https://archive-directory.example/kingfisher",
-"published": "2023-11-04",
-"text": "Kingfisher Trading AG, registered in Lugano, is 50% owned by Wei Zhang (born 1988)."
+"url": "https://opencorporates-mirror.example/granite-capital-ltd-1",
+"published": "2025-06-29",
+"text": "Granite Capital Ltd, registered in Road Town, is 100% owned by Li Liu (born 1966)."
 },
 {
 "id": "W00097",
-"url": "https://archive-directory.example/pinnacle",
-"published": "2025-03-30",
-"text": "Pinnacle Chemie GmbH, registered in Hamburg, is 100% owned by Quarry Hill General Trading LLC (Sharjah)."
+"url": "https://businessdirectory.example/granite-capital-ltd-2",
+"published": "2024-04-06",
+"text": "Granite Capital Ltd, registered in Road Town, is 100% owned by Liu Li (born 17.07.1966)."
 },
 {
 "id": "W00098",
-"url": "https://archive-directory.example/eastwind",
-"published": "2025-02-04",
-"text": "Eastwind Commodities AG, registered in Zug, is 100% owned by Dmitry Belyaev (born 1973)."
+"url": "https://offshore-leaks.example/westbrook-general-trading-llc-0",
+"published": "2024-07-24",
+"text": "Westbrook General Trading LLC, registered in Sharjah, is 75% owned by Selçuk Güneş (born 14.08.1967)."
 },
 {
 "id": "W00099",
-"url": "https://companies-register.example/nimbus-nl",
-"published": "2025-05-25",
-"text": "Nimbus Shipping B.V., registered in Rotterdam, is 100% owned by Tatjana Jakowlew (born 16.12.1975)."
+"url": "https://offshore-leaks.example/westbrook-general-trading-llc-1",
+"published": "2024-06-13",
+"text": "Westbrook General Trading LLC, registered in Sharjah, is 75% owned by Selçuk Güneş (born 1967)."
 },
 {
 "id": "W00100",
-"url": "https://companies-register.example/aurora-cn",
-"published": "2023-12-06",
-"text": "Aurora Trading Co., Ltd., registered in Shenzhen, is 100% owned by Emily Fletcher (born 1977)."
+"url": "https://opencorporates-mirror.example/umber-capital-ltd-0",
+"published": "2023-03-23",
+"text": "Umber Capital Ltd, registered in Road Town, is 100% owned by Mariam Al-Qasimi (born 30.08.1953)."
 },
 {
 "id": "W00101",
-"url": "https://companies-register.example/polaris-tr",
-"published": "2024-04-27",
-"text": "Polaris Lojistik A.Ş., registered in Izmir, is 100% owned by Stefan Muller (born 31.10.1953)."
+"url": "https://offshore-leaks.example/umber-capital-ltd-1",
+"published": "2023-05-07",
+"text": "Umber Capital Ltd, registered in Road Town, is 100% owned by Mariam Al-Qasimi (born 30.08.1953)."
 },
 {
 "id": "W00102",
-"url": "https://companies-register.example/sapphire-vg",
-"published": "2023-08-24",
-"text": "Sapphire Holdings Ltd, registered in Road Town, is 100% owned by Mariam Al Qassimi (born 24.07.1958)."
+"url": "https://opencorporates-mirror.example/umber-capital-ltd-2",
+"published": "2023-08-18",
+"text": "Umber Capital Ltd, registered in Road Town, is 100% owned by Mariam Al Qassimi (born 30.08.1953)."
 },
 {
 "id": "W00103",
-"url": "https://companies-register.example/valiant-tr",
-"published": "2024-08-12",
-"text": "Valiant Lojistik A.Ş., registered in Istanbul, is 100% owned by Xiu Ying Yang (born 1989)."
+"url": "https://offshore-leaks.example/polaris-capital-ltd-0",
+"published": "2025-03-11",
+"text": "Polaris Capital Ltd, registered in Road Town, is 49% owned by Muhammad Al-Mansouri (born 1967)."
 },
 {
 "id": "W00104",
-"url": "https://companies-register.example/westbrook-ae",
-"published": "2024-10-27",
-"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Jelena Beljajew (born 1969)."
+"url": "https://opencorporates-mirror.example/foxglove-investments-llc-0",
+"published": "2024-02-12",
+"text": "Foxglove Investments LLC, registered in Dubai, is 100% owned by William Bennett (born 31.08.1972)."
 },
 {
 "id": "W00105",
-"url": "https://companies-register.example/rheintal-cn",
-"published": "2023-08-30",
-"text": "Rheintal Manufacturing Co., Ltd., registered in Shenzhen, is 100% owned by Nour Al Hashemi (born 1978)."
+"url": "https://offshore-leaks.example/foxglove-investments-llc-1",
+"published": "2025-12-01",
+"text": "Foxglove Investments LLC, registered in Dubai, is 100% owned by William Bennett (born 1972)."
 },
 {
 "id": "W00106",
-"url": "https://companies-register.example/falcon crest-ch",
-"published": "2023-05-04",
-"text": "Falcon Crest Engineering AG, registered in Lugano, is 100% owned by Jörg Wagner (born 1982)."
+"url": "https://offshore-leaks.example/driftwood-general-trading-llc-0",
+"published": "2024-11-16",
+"text": "Driftwood General Trading LLC, registered in Sharjah, is 100% owned by Birgit Groß (born 1969)."
 },
 {
 "id": "W00107",
-"url": "https://companies-register.example/quarry hill-cy",
-"published": "2025-02-02",
-"text": "Quarry Hill Shipping Ltd, registered in Limassol, is 100% owned by Chen Jing (born 1984)."
+"url": "https://offshore-leaks.example/driftwood-holdings-llc-0",
+"published": "2023-04-13",
+"text": "Driftwood Holdings LLC, registered in Sharjah, is 70% owned by Stefan Wagner (born 1965)."
 },
 {
 "id": "W00108",
-"url": "https://companies-register.example/elbe-nl",
-"published": "2025-01-21",
-"text": "Elbe Logistics B.V., registered in Amsterdam, is 100% owned by Charlotte Walker (born 04.05.1953)."
+"url": "https://offshore-leaks.example/driftwood-holdings-llc-1",
+"published": "2025-11-16",
+"text": "Driftwood Holdings LLC, registered in Sharjah, is 70% owned by Stefan Wagner (born 1965)."
 },
 {
 "id": "W00109",
-"url": "https://companies-register.example/kingfisher-gb",
-"published": "2023-06-28",
-"text": "Kingfisher Engineering Ltd, registered in London, is 100% owned by Joerg Krueger (born 04.01.1962)."
+"url": "https://opencorporates-mirror.example/kestrel-shipping-ltd-0",
+"published": "2023-07-28",
+"text": "Kestrel Shipping Ltd, registered in Nicosia, is 100% owned by Jun Zhou (born 26.03.1959)."
 },
 {
 "id": "W00110",
-"url": "https://companies-register.example/silverline-vg",
-"published": "2023-03-12",
-"text": "Silverline Holdings Ltd, registered in Road Town, is 100% owned by Li Jun (born 1970)."
+"url": "https://opencorporates-mirror.example/kestrel-shipping-ltd-1",
+"published": "2025-07-24",
+"text": "Kestrel Shipping Ltd, registered in Nicosia, is 100% owned by Jun Zhou (born 26.03.1959)."
 },
 {
 "id": "W00111",
-"url": "https://companies-register.example/harbourview-de",
-"published": "2024-07-13",
-"text": "Harbourview Verpackung GmbH, registered in Hamburg, is 100% owned by Matthias Hoffmann (born 17.07.1977)."
+"url": "https://offshore-leaks.example/zephyr-holdings-ltd-0",
+"published": "2023-03-11",
+"text": "Zephyr Holdings Ltd, registered in Road Town, is 100% owned by Juri Schtscherbakow (born 1950)."
 },
 {
 "id": "W00112",
-"url": "https://companies-register.example/falcon crest-gb",
-"published": "2023-03-26",
-"text": "Falcon Crest Logistics Ltd, registered in Manchester, is 100% owned by Anna Hoffmann (born 19.01.1975)."
+"url": "https://offshore-leaks.example/zephyr-holdings-ltd-1",
+"published": "2023-07-18",
+"text": "Zephyr Holdings Ltd, registered in Road Town, is 100% owned by Yuriy Shcherbakov (born 30.12.1950)."
 },
 {
 "id": "W00113",
-"url": "https://companies-register.example/falcon crest-gb",
-"published": "2023-06-29",
-"text": "Falcon Crest Logistics Ltd, registered in Manchester, is 100% owned by Lucy Fletcher (born 1963)."
+"url": "https://offshore-leaks.example/zephyr-holdings-ltd-2",
+"published": "2026-03-26",
+"text": "Zephyr Holdings Ltd, registered in Road Town, is 100% owned by Yuriy Yuryevich Shcherbakov (born 30.12.1950)."
 },
 {
 "id": "W00114",
-"url": "https://companies-register.example/brightwater-ae",
-"published": "2023-06-12",
-"text": "Brightwater Investments LLC, registered in Sharjah, is 100% owned by Lucy Price (born 16.02.1971)."
+"url": "https://opencorporates-mirror.example/quarry-hill-general-trading-llc-0",
+"published": "2023-01-22",
+"text": "Quarry Hill General Trading LLC, registered in Sharjah, is 100% owned by Trident Investments Ltd (Limassol)."
 },
 {
 "id": "W00115",
-"url": "https://companies-register.example/falcon crest-ch",
-"published": "2025-05-14",
-"text": "Falcon Crest Engineering AG, registered in Lugano, is 100% owned by Julia Schaefer (born 1962)."
+"url": "https://offshore-leaks.example/quarry-hill-general-trading-llc-1",
+"published": "2026-06-28",
+"text": "Quarry Hill General Trading LLC, registered in Sharjah, is 100% owned by Trident Investments Ltd (Limassol)."
 },
 {
 "id": "W00116",
-"url": "https://companies-register.example/elbe-nl",
-"published": "2023-12-29",
-"text": "Elbe Logistics B.V., registered in Amsterdam, is 100% owned by Dmitriy Dmitriyevich Belyayev (born 1970)."
+"url": "https://offshore-leaks.example/westbrook-investments-llc-0",
+"published": "2025-11-04",
+"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Ahmed Al-Farsi (born 1974)."
 },
 {
 "id": "W00117",
-"url": "https://companies-register.example/aurora-cn",
-"published": "2024-01-29",
-"text": "Aurora Trading Co., Ltd., registered in Shenzhen, is 100% owned by James Fletcher (born 1953)."
+"url": "https://opencorporates-mirror.example/kestrel-holdings-ltd-0",
+"published": "2025-04-04",
+"text": "Kestrel Holdings Ltd, registered in Limassol, is 100% owned by Aurora Trading B.V. (Amsterdam)."
 },
 {
 "id": "W00118",
-"url": "https://companies-register.example/redstone-ae",
-"published": "2023-09-29",
-"text": "Redstone Holdings LLC, registered in Dubai, is 100% owned by Çağrı Öztürk (born 1988)."
+"url": "https://opencorporates-mirror.example/kestrel-holdings-ltd-1",
+"published": "2026-02-28",
+"text": "Kestrel Holdings Ltd, registered in Limassol, is 100% owned by Aurora Trading B.V. (Amsterdam)."
 },
 {
 "id": "W00119",
-"url": "https://companies-register.example/polaris-tr",
-"published": "2023-12-21",
-"text": "Polaris Lojistik A.Ş., registered in Izmir, is 100% owned by Stefan Köhler (born 1984)."
+"url": "https://offshore-leaks.example/kestrel-holdings-ltd-2",
+"published": "2024-11-23",
+"text": "Kestrel Holdings Ltd, registered in Limassol, is 100% owned by Aurora Trading B.V. (Amsterdam)."
 },
 {
 "id": "W00120",
-"url": "https://companies-register.example/silverline-vg",
-"published": "2023-03-21",
-"text": "Silverline Holdings Ltd, registered in Road Town, is 100% owned by Lucy Cooper (born 23.03.1982)."
+"url": "https://opencorporates-mirror.example/zephyr-shipping-ltd-0",
+"published": "2023-08-04",
+"text": "Zephyr Shipping Ltd, registered in Nicosia, is 100% owned by Hannah Walker (born 1951)."
 },
 {
 "id": "W00121",
-"url": "https://companies-register.example/harbourview-de",
-"published": "2025-02-16",
-"text": "Harbourview Verpackung GmbH, registered in Hamburg, is 100% owned by Lena Groß (born 22.05.1982)."
+"url": "https://businessdirectory.example/zephyr-shipping-ltd-1",
+"published": "2024-04-03",
+"text": "Zephyr Shipping Ltd, registered in Nicosia, is 100% owned by Hannah Walker (born 1951)."
 },
 {
 "id": "W00122",
-"url": "https://companies-register.example/ironbridge-ae",
-"published": "2024-02-27",
-"text": "Ironbridge Investments LLC, registered in Sharjah, is 100% owned by Stefan Wagner (born 1951)."
+"url": "https://businessdirectory.example/marlin-investments-llc-0",
+"published": "2023-05-25",
+"text": "Marlin Investments LLC, registered in Dubai, is 30% owned by Klaus Boehm (born 1966)."
 },
 {
 "id": "W00123",
-"url": "https://companies-register.example/bluewater-vg",
-"published": "2023-09-08",
-"text": "Bluewater Investments Ltd, registered in Road Town, is 100% owned by Lena Fuchs (born 13.11.1950)."
+"url": "https://offshore-leaks.example/marlin-investments-llc-1",
+"published": "2025-07-26",
+"text": "Marlin Investments LLC, registered in Dubai, is 30% owned by Klaus Böhm (born 1966)."
 },
 {
 "id": "W00124",
-"url": "https://companies-register.example/seefeld-gb",
-"published": "2023-08-05",
-"text": "Seefeld Components Ltd, registered in Manchester, is 100% owned by Mohammed Al-Mansouri (born 28.12.1967)."
+"url": "https://offshore-leaks.example/pinnacle-investments-llc-0",
+"published": "2023-03-20",
+"text": "Pinnacle Investments LLC, registered in Sharjah, is 75% owned by Omar Khoury (born 31.03.1981)."
 },
 {
 "id": "W00125",
-"url": "https://companies-register.example/rheintal-cn",
-"published": "2024-06-15",
-"text": "Rheintal Manufacturing Co., Ltd., registered in Shenzhen, is 100% owned by Xiu Ying Yang (born 21.04.1989)."
+"url": "https://businessdirectory.example/pinnacle-investments-llc-1",
+"published": "2026-01-06",
+"text": "Pinnacle Investments LLC, registered in Sharjah, is 75% owned by Omar Khoury (born 1981)."
 },
 {
 "id": "W00126",
-"url": "https://companies-register.example/silverline-vg",
-"published": "2023-11-14",
-"text": "Silverline Holdings Ltd, registered in Road Town, is 100% owned by Vladimir Shcherbakov (born 09.11.1962)."
+"url": "https://opencorporates-mirror.example/ashford-shipping-ltd-0",
+"published": "2023-04-19",
+"text": "Ashford Shipping Ltd, registered in Limassol, is 40% owned by Charlotte Price (born 1981)."
 },
 {
 "id": "W00127",
-"url": "https://companies-register.example/quarry hill-cy",
-"published": "2023-05-20",
-"text": "Quarry Hill Shipping Ltd, registered in Limassol, is 100% owned by Andrey Semyonov (born 1976)."
+"url": "https://archive-directory.example/zephyr",
+"published": "2024-07-09",
+"text": "Zephyr Maschinenbau GmbH, registered in Hamburg, is 100% owned by Ironbridge Holdings LLC (Sharjah)."
 },
 {
 "id": "W00128",
+"url": "https://archive-directory.example/lindenhof",
+"published": "2024-01-05",
+"text": "Lindenhof Logistics B.V., registered in Rotterdam, is 49% owned by Jewgeni Kowaljow (born 1969)."
+},
+{
+"id": "W00129",
+"url": "https://archive-directory.example/ironbridge",
+"published": "2023-07-03",
+"text": "Ironbridge Chemie GmbH, registered in Bremen, is 25% owned by Xu Li (born 1950)."
+},
+{
+"id": "W00130",
+"url": "https://archive-directory.example/elbe",
+"published": "2023-08-27",
+"text": "Elbe Chemie GmbH, registered in Leipzig, is 100% owned by Nimbus Investments Ltd (Road Town)."
+},
+{
+"id": "W00131",
+"url": "https://archive-directory.example/aurora",
+"published": "2024-03-27",
+"text": "Aurora Trading Co., Ltd., registered in Shenzhen, is 100% owned by Katrin Kohler (born 1981)."
+},
+{
+"id": "W00132",
+"url": "https://archive-directory.example/kingfisher",
+"published": "2023-11-15",
+"text": "Kingfisher Trading AG, registered in Lugano, is 50% owned by Zhang Wei (born 1988)."
+},
+{
+"id": "W00133",
+"url": "https://archive-directory.example/granite",
+"published": "2025-01-27",
+"text": "Granite Shipping B.V., registered in Rotterdam, is 100% owned by Andrey Orlov (born 22.06.1962)."
+},
+{
+"id": "W00134",
+"url": "https://archive-directory.example/umber",
+"published": "2023-12-13",
+"text": "Umber Trading Ltd, registered in Leeds, is 100% owned by Silverline Holdings Ltd (Limassol)."
+},
+{
+"id": "W00135",
+"url": "https://archive-directory.example/oakridge",
+"published": "2023-07-13",
+"text": "Oakridge Manufacturing Co., Ltd., registered in Ningbo, is 100% owned by Cobalt Engineering AG (Zug)."
+},
+{
+"id": "W00136",
+"url": "https://archive-directory.example/pinnacle",
+"published": "2025-11-01",
+"text": "Pinnacle Maschinenbau GmbH, registered in Frankfurt am Main, is 100% owned by Corvus Logistics B.V. (Amsterdam)."
+},
+{
+"id": "W00137",
+"url": "https://archive-directory.example/foxglove",
+"published": "2023-07-18",
+"text": "Foxglove Components B.V., registered in Amsterdam, is 51% owned by Valiant General Trading LLC (Dubai)."
+},
+{
+"id": "W00138",
+"url": "https://archive-directory.example/quarry hill",
+"published": "2024-08-16",
+"text": "Quarry Hill Logistik GmbH, registered in Frankfurt am Main, is 20% owned by Yuriy Zhukov (born 1972)."
+},
+{
+"id": "W00139",
+"url": "https://archive-directory.example/larch",
+"published": "2026-01-18",
+"text": "Larch Engineering AG, registered in Geneva, is 75% owned by Corvus Logistics B.V. (Amsterdam)."
+},
+{
+"id": "W00140",
+"url": "https://archive-directory.example/aurora",
+"published": "2024-08-17",
+"text": "Aurora Engineering Ltd, registered in Leeds, is 100% owned by Lindenhof Investments LLC (Sharjah)."
+},
+{
+"id": "W00141",
+"url": "https://archive-directory.example/kestrel",
+"published": "2023-10-07",
+"text": "Kestrel Logistics Ltd, registered in Manchester, is 25% owned by Edward Smith (born 1989)."
+},
+{
+"id": "W00142",
+"url": "https://archive-directory.example/helios",
+"published": "2024-01-14",
+"text": "Helios Chemie GmbH, registered in Stuttgart, is 100% owned by Marlin Engineering AG (Lugano)."
+},
+{
+"id": "W00143",
+"url": "https://archive-directory.example/aurora",
+"published": "2024-06-16",
+"text": "Aurora Chemie GmbH, registered in Frankfurt am Main, is 100% owned by Kestrel Holdings Ltd (Limassol)."
+},
+{
+"id": "W00144",
+"url": "https://archive-directory.example/vega",
+"published": "2026-03-02",
+"text": "Vega Chemie GmbH, registered in Hamburg, is 100% owned by Ironbridge Investments Ltd (Limassol)."
+},
+{
+"id": "W00145",
+"url": "https://archive-directory.example/meridian",
+"published": "2024-06-04",
+"text": "Meridian Manufacturing Co., Ltd., registered in Shenzhen, is 100% owned by Julia Fuchs (born 1976)."
+},
+{
+"id": "W00146",
+"url": "https://archive-directory.example/silverline",
+"published": "2024-08-05",
+"text": "Silverline Logistics Ltd, registered in Manchester, is 40% owned by Gülşen Demir (born 1963)."
+},
+{
+"id": "W00147",
+"url": "https://archive-directory.example/trident",
+"published": "2024-06-20",
+"text": "Trident Trading Co., Ltd., registered in Ningbo, is 100% owned by Polaris Capital Ltd (Road Town)."
+},
+{
+"id": "W00148",
+"url": "https://archive-directory.example/driftwood",
+"published": "2022-10-19",
+"text": "Driftwood Verpackung GmbH, registered in Bremen, is 100% owned by Umber Capital Ltd (Road Town)."
+},
+{
+"id": "W00149",
+"url": "https://archive-directory.example/corvus",
+"published": "2025-09-16",
+"text": "Corvus Verpackung GmbH, registered in Bremen, is 40% owned by Mei Li (born 1957)."
+},
+{
+"id": "W00150",
+"url": "https://archive-directory.example/pinnacle",
+"published": "2025-02-19",
+"text": "Pinnacle Chemie GmbH, registered in Hamburg, is 100% owned by Quarry Hill General Trading LLC (Sharjah)."
+},
+{
+"id": "W00151",
+"url": "https://archive-directory.example/trident",
+"published": "2024-02-08",
+"text": "Trident Manufacturing Co., Ltd., registered in Ningbo, is 100% owned by Yan Wu (born 1960)."
+},
+{
+"id": "W00152",
+"url": "https://companies-register.example/meridian-gb",
+"published": "2024-09-25",
+"text": "Meridian Engineering Ltd, registered in Leeds, is 100% owned by Katrin Köhler (born 17.06.1981)."
+},
+{
+"id": "W00153",
+"url": "https://companies-register.example/bluewater-vg",
+"published": "2024-08-04",
+"text": "Bluewater Investments Ltd, registered in Road Town, is 100% owned by Abdullah Al-Mansouri (born 15.03.1959)."
+},
+{
+"id": "W00154",
+"url": "https://companies-register.example/polaris-tr",
+"published": "2023-05-31",
+"text": "Polaris Lojistik A.Ş., registered in Izmir, is 100% owned by Zhou Lei (born 1961)."
+},
+{
+"id": "W00155",
+"url": "https://companies-register.example/falcon crest-gb",
+"published": "2025-02-08",
+"text": "Falcon Crest Logistics Ltd, registered in Manchester, is 100% owned by Vladimir Vladimirovich Yakovlev (born 1968)."
+},
+{
+"id": "W00156",
+"url": "https://companies-register.example/elbe-nl",
+"published": "2025-03-17",
+"text": "Elbe Logistics B.V., registered in Amsterdam, is 100% owned by Uwe Schäfer (born 1967)."
+},
+{
+"id": "W00157",
+"url": "https://companies-register.example/harbourview-de",
+"published": "2023-08-11",
+"text": "Harbourview Verpackung GmbH, registered in Hamburg, is 100% owned by Juergen Gross (born 03.09.1960)."
+},
+{
+"id": "W00158",
+"url": "https://companies-register.example/driftwood-cy",
+"published": "2023-05-05",
+"text": "Driftwood Holdings Ltd, registered in Nicosia, is 100% owned by Charlotte Hughes (born 1984)."
+},
+{
+"id": "W00159",
+"url": "https://companies-register.example/westbrook-ae",
+"published": "2023-05-06",
+"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Klaus Weiss (born 08.09.1977)."
+},
+{
+"id": "W00160",
+"url": "https://companies-register.example/falcon crest-gb",
+"published": "2023-05-19",
+"text": "Falcon Crest Logistics Ltd, registered in Manchester, is 100% owned by Zhang Qiang (born 04.12.1961)."
+},
+{
+"id": "W00161",
+"url": "https://companies-register.example/valiant-tr",
+"published": "2023-11-25",
+"text": "Valiant Lojistik A.Ş., registered in Istanbul, is 100% owned by Andrey Andreyevich Shcherbakov (born 28.11.1977)."
+},
+{
+"id": "W00162",
 "url": "https://companies-register.example/brightwater-ae",
-"published": "2024-06-12",
-"text": "Brightwater Investments LLC, registered in Sharjah, is 100% owned by Mehmet Güneş (born 11.01.1975)."
+"published": "2025-02-23",
+"text": "Brightwater Investments LLC, registered in Sharjah, is 100% owned by Jörg Hoffmann (born 09.08.1968)."
+},
+{
+"id": "W00163",
+"url": "https://companies-register.example/ironbridge-ae",
+"published": "2023-12-11",
+"text": "Ironbridge Investments LLC, registered in Sharjah, is 100% owned by Nour Saleh (born 1986)."
+},
+{
+"id": "W00164",
+"url": "https://companies-register.example/kingfisher-gb",
+"published": "2023-03-20",
+"text": "Kingfisher Engineering Ltd, registered in London, is 100% owned by Sarah Taylor (born 22.07.1953)."
+},
+{
+"id": "W00165",
+"url": "https://companies-register.example/valiant-tr",
+"published": "2024-01-14",
+"text": "Valiant Lojistik A.Ş., registered in Istanbul, is 100% owned by Mei Zhao (born 1973)."
+},
+{
+"id": "W00166",
+"url": "https://companies-register.example/westbrook-ae",
+"published": "2024-06-04",
+"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Şükrü Demir (born 18.05.1978)."
+},
+{
+"id": "W00167",
+"url": "https://companies-register.example/sapphire-vg",
+"published": "2024-11-20",
+"text": "Sapphire Holdings Ltd, registered in Road Town, is 100% owned by Julia Bohm (born 27.10.1981)."
+},
+{
+"id": "W00168",
+"url": "https://companies-register.example/polaris-tr",
+"published": "2023-04-07",
+"text": "Polaris Lojistik A.Ş., registered in Izmir, is 100% owned by Mikhail Volkov (born 1961)."
+},
+{
+"id": "W00169",
+"url": "https://companies-register.example/nimbus-nl",
+"published": "2023-11-13",
+"text": "Nimbus Shipping B.V., registered in Rotterdam, is 100% owned by Li Lei (born 18.07.1981)."
+},
+{
+"id": "W00170",
+"url": "https://companies-register.example/westbrook-ae",
+"published": "2023-09-05",
+"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Li Liu (born 1982)."
+},
+{
+"id": "W00171",
+"url": "https://companies-register.example/foxglove-vg",
+"published": "2024-12-25",
+"text": "Foxglove Investments Ltd, registered in Road Town, is 100% owned by William Taylor (born 1971)."
+},
+{
+"id": "W00172",
+"url": "https://companies-register.example/sapphire-vg",
+"published": "2024-03-21",
+"text": "Sapphire Holdings Ltd, registered in Road Town, is 100% owned by Ming Liu (born 1969)."
+},
+{
+"id": "W00173",
+"url": "https://companies-register.example/polaris-tr",
+"published": "2024-09-19",
+"text": "Polaris Lojistik A.Ş., registered in Izmir, is 100% owned by Yang Mei (born 1987)."
+},
+{
+"id": "W00174",
+"url": "https://companies-register.example/harbourview-de",
+"published": "2023-04-07",
+"text": "Harbourview Verpackung GmbH, registered in Hamburg, is 100% owned by Dmitry Orlov (born 16.04.1987)."
+},
+{
+"id": "W00175",
+"url": "https://companies-register.example/westbrook-ae",
+"published": "2024-09-24",
+"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Natalya Volkov (born 1966)."
+},
+{
+"id": "W00176",
+"url": "https://companies-register.example/elbe-nl",
+"published": "2023-05-02",
+"text": "Elbe Logistics B.V., registered in Amsterdam, is 100% owned by Klaus Böhm (born 1971)."
+},
+{
+"id": "W00177",
+"url": "https://companies-register.example/harbourview-de",
+"published": "2024-02-24",
+"text": "Harbourview Verpackung GmbH, registered in Hamburg, is 100% owned by Chen Fang (born 1963)."
+},
+{
+"id": "W00178",
+"url": "https://companies-register.example/driftwood-cy",
+"published": "2023-02-07",
+"text": "Driftwood Holdings Ltd, registered in Nicosia, is 100% owned by Richard Walker (born 1978)."
+},
+{
+"id": "W00179",
+"url": "https://companies-register.example/brightwater-ae",
+"published": "2025-04-06",
+"text": "Brightwater Investments LLC, registered in Sharjah, is 100% owned by Ahmed Alrashid (born 06.05.1986)."
+},
+{
+"id": "W00180",
+"url": "https://companies-register.example/polaris-tr",
+"published": "2025-03-29",
+"text": "Polaris Lojistik A.Ş., registered in Izmir, is 100% owned by Mariam Al-Rashid (born 30.05.1960)."
+},
+{
+"id": "W00181",
+"url": "https://companies-register.example/westbrook-ae",
+"published": "2023-07-17",
+"text": "Westbrook Investments LLC, registered in Dubai, is 100% owned by Natalja Schtscherbakow (born 1981)."
 }
 ]

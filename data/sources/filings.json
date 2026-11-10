@@ -29,6 +29,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00001-s0",
 "pct": 100.0
 }
@@ -64,6 +65,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00002-s0",
 "pct": 100.0
 }
@@ -99,6 +101,7 @@
 "name": "Polaris Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00003-s0",
 "pct": 100.0
 }
@@ -127,6 +130,7 @@
 "name": "Marlin Engineering AG",
 "regno": "CHE-269.512.810",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00004-s0",
 "pct": 100.0
 }
@@ -155,6 +159,7 @@
 "name": "Marlin Engineering AG",
 "regno": "CHE-269.512.810",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00005-s0",
 "pct": 100.0
 }
@@ -211,6 +216,7 @@
 "name": "Baltic Star Shipping Ltd",
 "regno": "HE 144403",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00007-s0",
 "pct": 100.0
 }
@@ -263,6 +269,7 @@
 "name": "VALIANT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00009-s0",
 "band": "50-75%"
 },
@@ -299,6 +306,7 @@
 "name": "VALIANT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00010-s0",
 "band": "50-75%"
 },
@@ -465,6 +473,7 @@
 "name": "Pinnacle Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00014-s1",
 "pct": 20.0
 }
@@ -493,6 +502,7 @@
 "name": "Polaris Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00015-s0",
 "pct": 100.0
 }
@@ -521,6 +531,7 @@
 "name": "Polaris Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00016-s0",
 "pct": 100.0
 }
@@ -549,6 +560,7 @@
 "name": "Trident Shipping B.V.",
 "regno": "78770879",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00017-s0",
 "pct": 51.0
 },
@@ -592,6 +604,7 @@
 "name": "IRONBRIDGE HOLDINGS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00018-s0",
 "band": "75-100%"
 }
@@ -620,6 +633,7 @@
 "name": "Lindenhof Shipping Ltd",
 "regno": "HE 487508",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00019-s0",
 "pct": 75.0
 },
@@ -736,6 +750,7 @@
 "name": "Kingfisher Logistics B.V.",
 "regno": "75693122",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00023-s1",
 "pct": 50.0
 }
@@ -771,6 +786,7 @@
 "name": "MARLIN ENGINEERING AG",
 "regno": "CHE-269.512.810",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00024-s0",
 "band": "75-100%"
 }
@@ -817,6 +833,7 @@
 "name": "TRIDENT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00026-s0",
 "band": "75-100%"
 }
@@ -845,6 +862,7 @@
 "name": "TRIDENT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00027-s0",
 "band": "75-100%"
 }
@@ -909,6 +927,7 @@
 "name": "Quarry Hill Engineering AG",
 "regno": "CHE-577.955.993",
 "country": "CH",
+"city": "Zug",
 "ref": "F00030-s0",
 "pct": 90.0
 },
@@ -945,6 +964,7 @@
 "name": "Quarry Hill Engineering AG",
 "regno": "CHE-577.955.993",
 "country": "CH",
+"city": "Zug",
 "ref": "F00031-s0",
 "pct": 90.0
 },
@@ -981,6 +1001,7 @@
 "name": "Kestrel Holdings Ltd",
 "regno": "HE 132188",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00032-s0",
 "pct": 100.0
 }
@@ -1009,6 +1030,7 @@
 "name": "Pinnacle Commodities AG",
 "regno": "CHE-684.286.909",
 "country": "CH",
+"city": "Geneva",
 "ref": "F00033-s0",
 "pct": 100.0
 }
@@ -1410,6 +1432,7 @@
 "name": "Aurora Trading B.V.",
 "regno": "11715105",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00047-s0",
 "pct": 100.0
 }
@@ -1443,6 +1466,7 @@
 "name": "Aurora Trading B.V.",
 "regno": "11715105",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00048-s0",
 "pct": 100.0
 }
@@ -1478,6 +1502,7 @@
 "name": "Umber Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00049-s0",
 "pct": 100.0
 }
@@ -1513,6 +1538,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00050-s0",
 "pct": 100.0
 }
@@ -1541,6 +1567,7 @@
 "name": "NIMBUS INVESTMENTS LTD",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00051-s0",
 "band": "75-100%"
 }
@@ -1569,6 +1596,7 @@
 "name": "Ironbridge Investments Ltd",
 "regno": "HE 123780",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00052-s0",
 "pct": 100.0
 }
@@ -1640,6 +1668,7 @@
 "name": "BLUEWATER ENGINEERING AG",
 "regno": "CHE-471.283.155",
 "country": "CH",
+"city": "Geneva",
 "ref": "F00054-s0",
 "band": "50-75%"
 },
@@ -1676,6 +1705,7 @@
 "name": "BLUEWATER ENGINEERING AG",
 "regno": "CHE-471.283.155",
 "country": "CH",
+"city": "Geneva",
 "ref": "F00055-s0",
 "band": "50-75%"
 },
@@ -1784,6 +1814,7 @@
 "name": "WRENFIELD INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00058-s0",
 "band": "50-75%"
 },
@@ -1827,6 +1858,7 @@
 "name": "Northgate Investments Ltd",
 "regno": "HE 420272",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00059-s0",
 "pct": 100.0
 }
@@ -1862,6 +1894,7 @@
 "name": "Helios Investments Ltd",
 "regno": "HE 197390",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00060-s0",
 "pct": 51.0
 },
@@ -1942,6 +1975,7 @@
 "name": "NIMBUS SHIPPING LTD",
 "regno": "HE 269659",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00062-s1",
 "band": "75-100%"
 }
@@ -1977,6 +2011,7 @@
 "name": "Pinnacle Commodities AG",
 "regno": "CHE-684.286.909",
 "country": "CH",
+"city": "Geneva",
 "ref": "F00063-s0",
 "pct": 100.0
 }
@@ -2012,6 +2047,7 @@
 "name": "Seefeld Components B.V.",
 "regno": "34426131",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00064-s0",
 "pct": 100.0
 }
@@ -2047,6 +2083,7 @@
 "name": "Seefeld Components B.V.",
 "regno": "34426131",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00065-s0",
 "pct": 100.0
 }
@@ -2075,6 +2112,7 @@
 "name": "Nimbus Shipping Ltd",
 "regno": "HE 269659",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00066-s0",
 "pct": 100.0
 }
@@ -2110,6 +2148,7 @@
 "name": "Quarry Hill General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00067-s0",
 "pct": 100.0
 }
@@ -2145,6 +2184,7 @@
 "name": "Bluewater Engineering AG",
 "regno": "CHE-471.283.155",
 "country": "CH",
+"city": "Geneva",
 "ref": "F00068-s0",
 "pct": 100.0
 }
@@ -2173,6 +2213,7 @@
 "name": "Cobalt Engineering AG",
 "regno": "CHE-513.725.307",
 "country": "CH",
+"city": "Zug",
 "ref": "F00069-s0",
 "pct": 75.0
 },
@@ -2209,6 +2250,7 @@
 "name": "Granite Holdings Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00070-s0",
 "pct": 100.0
 }
@@ -2280,6 +2322,7 @@
 "name": "SILVERLINE HOLDINGS LTD",
 "regno": "HE 295975",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00073-s0",
 "band": "50-75%"
 },
@@ -2323,6 +2366,7 @@
 "name": "Atlas Shipping B.V.",
 "regno": "52241867",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00074-s0",
 "pct": 100.0
 }
@@ -2358,6 +2402,7 @@
 "name": "Bluewater Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00075-s0",
 "pct": 100.0
 }
@@ -2385,6 +2430,7 @@
 "name": "Trident Shipping B.V.",
 "regno": "78770879",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00076-s0",
 "pct": 100.0
 }
@@ -2412,6 +2458,7 @@
 "name": "Pinnacle Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00077-s0",
 "pct": 51.0
 },
@@ -2446,6 +2493,7 @@
 "name": "Emberly Trading AG",
 "regno": "CHE-259.558.131",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00078-s0",
 "pct": 51.0
 },
@@ -2480,6 +2528,7 @@
 "name": "Emberly Trading AG",
 "regno": "CHE-259.558.131",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00079-s0",
 "pct": 51.0
 },
@@ -2515,6 +2564,7 @@
 "name": "SILVERLINE GENERAL TRADING LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00080-s0",
 "band": "75-100%"
 }
@@ -2548,6 +2598,7 @@
 "name": "Marlin Engineering AG",
 "regno": "CHE-269.512.810",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00081-s0",
 "pct": 60.0
 },
@@ -2588,6 +2639,7 @@
 "name": "Marlin Engineering AG",
 "regno": "CHE-269.512.810",
 "country": "CH",
+"city": "Lugano",
 "ref": "F00082-s0",
 "pct": 60.0
 },
@@ -2779,6 +2831,7 @@
 "name": "POLARIS CAPITAL LTD",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00089-s0",
 "band": "75-100%"
 }
@@ -2806,6 +2859,7 @@
 "name": "Valiant General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00090-s0",
 "pct": 51.0
 },
@@ -2847,6 +2901,7 @@
 "name": "Nordwind General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00091-s1",
 "pct": 51.0
 }
@@ -2880,6 +2935,7 @@
 "name": "Driftwood Holdings LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00092-s0",
 "pct": 100.0
 }
@@ -2908,6 +2964,7 @@
 "name": "WRENFIELD INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00093-s0",
 "band": "75-100%"
 }
@@ -3043,6 +3100,7 @@
 "name": "Pinnacle Components B.V.",
 "regno": "44430235",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00097-s0",
 "pct": 100.0
 }
@@ -3078,6 +3136,7 @@
 "name": "Pinnacle Components B.V.",
 "regno": "44430235",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00098-s0",
 "pct": 100.0
 }
@@ -3113,6 +3172,7 @@
 "name": "Emberly Holdings LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00099-s0",
 "pct": 100.0
 }
@@ -3202,6 +3262,7 @@
 "name": "Northgate Logistics B.V.",
 "regno": "70909506",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00102-s0",
 "pct": 51.0
 },
@@ -3242,6 +3303,7 @@
 "name": "Northgate Logistics B.V.",
 "regno": "70909506",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00103-s0",
 "pct": 51.0
 },
@@ -3277,6 +3339,7 @@
 "name": "Nimbus Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00104-s0",
 "pct": 100.0
 }
@@ -3305,6 +3368,7 @@
 "name": "Nimbus Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00105-s0",
 "pct": 100.0
 }
@@ -3340,6 +3404,7 @@
 "name": "Seefeld Components B.V.",
 "regno": "34426131",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00106-s0",
 "pct": 60.0
 },
@@ -3383,6 +3448,7 @@
 "name": "Seefeld Components B.V.",
 "regno": "34426131",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00107-s0",
 "pct": 60.0
 },
@@ -3497,6 +3563,7 @@
 "name": "SILVERLINE HOLDINGS LTD",
 "regno": "HE 295975",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00110-s0",
 "band": "75-100%"
 }
@@ -3525,6 +3592,7 @@
 "name": "SILVERLINE HOLDINGS LTD",
 "regno": "HE 295975",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00111-s0",
 "band": "75-100%"
 }
@@ -3553,6 +3621,7 @@
 "name": "CRESCENT HOLDINGS LTD",
 "regno": "HE 126046",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00112-s0",
 "band": "75-100%"
 }
@@ -3677,6 +3746,7 @@
 "name": "WESTBROOK INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00116-s0",
 "band": "75-100%"
 }
@@ -3790,6 +3860,7 @@
 "name": "Westbrook Investments Ltd",
 "regno": "HE 165224",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00120-s0",
 "pct": 100.0
 }
@@ -3825,6 +3896,7 @@
 "name": "Westbrook Investments Ltd",
 "regno": "HE 165224",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00121-s0",
 "pct": 100.0
 }
@@ -3860,6 +3932,7 @@
 "name": "LINDENHOF INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00122-s0",
 "band": "75-100%"
 }
@@ -3895,6 +3968,7 @@
 "name": "ASHFORD SHIPPING LTD",
 "regno": "HE 345590",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00123-s0",
 "band": "75-100%"
 }
@@ -3975,6 +4049,7 @@
 "name": "Ironbridge Investments Ltd",
 "regno": "HE 123780",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00126-s0",
 "pct": 100.0
 }
@@ -4003,6 +4078,7 @@
 "name": "Brightwater Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00127-s0",
 "pct": 100.0
 }
@@ -4145,6 +4221,7 @@
 "name": "Brightwater Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00131-s1",
 "pct": 50.0
 }
@@ -4173,6 +4250,7 @@
 "name": "Oakridge Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00132-s0",
 "pct": 100.0
 }
@@ -4201,6 +4279,7 @@
 "name": "Oakridge Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00133-s0",
 "pct": 100.0
 }
@@ -4321,6 +4400,7 @@
 "name": "Nimbus Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00138-s0",
 "pct": 100.0
 }
@@ -4405,6 +4485,7 @@
 "name": "Crescent Holdings Ltd",
 "regno": "HE 126046",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00141-s0",
 "pct": 100.0
 }
@@ -4433,6 +4514,7 @@
 "name": "Crescent Holdings Ltd",
 "regno": "HE 126046",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00142-s0",
 "pct": 100.0
 }
@@ -4503,6 +4585,7 @@
 "name": "Oakridge Holdings Ltd",
 "regno": "HE 118434",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00144-s0",
 "pct": 51.0
 },
@@ -4537,6 +4620,7 @@
 "name": "Oakridge Holdings Ltd",
 "regno": "HE 118434",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00145-s0",
 "pct": 51.0
 },
@@ -4572,6 +4656,7 @@
 "name": "Redstone Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00146-s0",
 "pct": 90.0
 },
@@ -4608,6 +4693,7 @@
 "name": "Nordwind General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00147-s0",
 "pct": 75.0
 },
@@ -4685,6 +4771,7 @@
 "name": "Quarry Hill Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00149-s0",
 "pct": 100.0
 }
@@ -4802,6 +4889,7 @@
 "name": "Silverline Holdings Ltd",
 "regno": "HE 295975",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00153-s0",
 "pct": 100.0
 }
@@ -4829,6 +4917,7 @@
 "name": "Baltic Star Investments Ltd",
 "regno": "HE 429106",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00154-s0",
 "pct": 100.0
 }
@@ -4923,6 +5012,7 @@
 "name": "TRIDENT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00157-s0",
 "band": "75-100%"
 }
@@ -4958,6 +5048,7 @@
 "name": "Ironbridge Holdings LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00158-s0",
 "pct": 100.0
 }
@@ -5028,6 +5119,7 @@
 "name": "Foxglove Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00160-s0",
 "pct": 100.0
 }
@@ -5063,6 +5155,7 @@
 "name": "Foxglove Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00161-s0",
 "pct": 100.0
 }
@@ -5091,6 +5184,7 @@
 "name": "Pinnacle Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00162-s0",
 "pct": 75.0
 },
@@ -5127,6 +5221,7 @@
 "name": "Pinnacle Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00163-s0",
 "pct": 75.0
 },
@@ -5199,6 +5294,7 @@
 "name": "ZEPHYR INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00165-s0",
 "band": "75-100%"
 }
@@ -5227,6 +5323,7 @@
 "name": "Polaris Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00166-s0",
 "pct": 90.0
 },
@@ -5263,6 +5360,7 @@
 "name": "Polaris Capital Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00167-s0",
 "pct": 90.0
 },
@@ -5514,6 +5612,7 @@
 "name": "Kestrel Shipping Ltd",
 "regno": "HE 233490",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00174-s0",
 "pct": 51.0
 },
@@ -5556,6 +5655,7 @@
 "name": "Foxglove Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00175-s0",
 "pct": 100.0
 }
@@ -5591,6 +5691,7 @@
 "name": "Foxglove Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00176-s0",
 "pct": 100.0
 }
@@ -5619,6 +5720,7 @@
 "name": "Kingfisher Logistics B.V.",
 "regno": "75693122",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00177-s0",
 "pct": 100.0
 }
@@ -5647,6 +5749,7 @@
 "name": "Kingfisher Logistics B.V.",
 "regno": "75693122",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00178-s0",
 "pct": 100.0
 }
@@ -5674,6 +5777,7 @@
 "name": "Marlin Investments Ltd",
 "regno": "HE 385426",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00179-s0",
 "pct": 100.0
 }
@@ -5702,6 +5806,7 @@
 "name": "Seefeld Components B.V.",
 "regno": "34426131",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00180-s0",
 "pct": 100.0
 }
@@ -5748,6 +5853,7 @@
 "name": "Northgate Investments Ltd",
 "regno": "HE 420272",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00182-s0",
 "pct": 100.0
 }
@@ -5776,6 +5882,7 @@
 "name": "Northgate Investments Ltd",
 "regno": "HE 420272",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00183-s0",
 "pct": 100.0
 }
@@ -5804,6 +5911,7 @@
 "name": "Aurora Commodities AG",
 "regno": "CHE-599.838.914",
 "country": "CH",
+"city": "Geneva",
 "ref": "F00184-s0",
 "pct": 100.0
 }
@@ -5886,6 +5994,7 @@
 "name": "ZEPHYR SHIPPING LTD",
 "regno": "HE 313130",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00188-s0",
 "band": "50-75%"
 },
@@ -5922,6 +6031,7 @@
 "name": "ZEPHYR SHIPPING LTD",
 "regno": "HE 313130",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00189-s0",
 "band": "50-75%"
 },
@@ -5930,6 +6040,7 @@
 "name": "SEEFELD COMPONENTS B.V.",
 "regno": "34426131",
 "country": "NL",
+"city": "Rotterdam",
 "ref": "F00189-s1",
 "band": "25-50%"
 }
@@ -5958,6 +6069,7 @@
 "name": "Nimbus Shipping Ltd",
 "regno": "HE 269659",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00190-s0",
 "pct": 75.0
 },
@@ -5994,6 +6106,7 @@
 "name": "Nimbus Shipping Ltd",
 "regno": "HE 269659",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00191-s0",
 "pct": 75.0
 },
@@ -6192,6 +6305,7 @@
 "name": "TRIDENT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00196-s0",
 "band": "75-100%"
 },
@@ -6235,6 +6349,7 @@
 "name": "TRIDENT INVESTMENTS LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00197-s0",
 "band": "75-100%"
 },
@@ -6243,6 +6358,7 @@
 "name": "COBALT ENGINEERING AG",
 "regno": "CHE-513.725.307",
 "country": "CH",
+"city": "Zug",
 "ref": "F00197-s1",
 "band": "25-50%"
 }
@@ -6278,6 +6394,7 @@
 "name": "Valiant General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00198-s0",
 "pct": 60.0
 },
@@ -6314,6 +6431,7 @@
 "name": "Quarry Hill Engineering AG",
 "regno": "CHE-577.955.993",
 "country": "CH",
+"city": "Zug",
 "ref": "F00199-s0",
 "pct": 75.0
 },
@@ -6350,6 +6468,7 @@
 "name": "Quarry Hill Engineering AG",
 "regno": "CHE-577.955.993",
 "country": "CH",
+"city": "Zug",
 "ref": "F00200-s0",
 "pct": 75.0
 },
@@ -6358,6 +6477,7 @@
 "name": "Atlas Trading B.V.",
 "regno": "82310345",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00200-s1",
 "pct": 25.0
 }
@@ -6487,6 +6607,7 @@
 "name": "Sapphire Holdings Ltd",
 "regno": "HE 333396",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00203-s1",
 "pct": 40.0
 }
@@ -6558,6 +6679,7 @@
 "name": "Ashford Shipping Ltd",
 "regno": "HE 345590",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00205-s0",
 "pct": 100.0
 }
@@ -6784,6 +6906,7 @@
 "name": "Bluewater Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00212-s0",
 "pct": 100.0
 }
@@ -6811,6 +6934,7 @@
 "name": "Bluewater Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00213-s0",
 "pct": 100.0
 }
@@ -6895,6 +7019,7 @@
 "name": "Pinnacle Holdings Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00216-s0",
 "pct": 100.0
 }
@@ -6923,6 +7048,7 @@
 "name": "Pinnacle Holdings Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00217-s0",
 "pct": 100.0
 }
@@ -6984,6 +7110,7 @@
 "name": "Foxglove Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00219-s0",
 "pct": 100.0
 }
@@ -7017,6 +7144,7 @@
 "name": "Foxglove Investments LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00220-s0",
 "pct": 100.0
 }
@@ -7052,6 +7180,7 @@
 "name": "BALTIC STAR SHIPPING LTD",
 "regno": "HE 144403",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00221-s0",
 "band": "75-100%"
 }
@@ -7087,6 +7216,7 @@
 "name": "BALTIC STAR SHIPPING LTD",
 "regno": "HE 144403",
 "country": "CY",
+"city": "Limassol",
 "ref": "F00222-s0",
 "band": "75-100%"
 }
@@ -7240,6 +7370,7 @@
 "name": "Nimbus Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00227-s0",
 "pct": 90.0
 },
@@ -7352,6 +7483,7 @@
 "name": "Brightwater Investments Ltd",
 "regno": null,
 "country": "VG",
+"city": "Road Town",
 "ref": "F00230-s0",
 "pct": 100.0
 }
@@ -7431,6 +7563,7 @@
 "name": "Elbe Holdings Ltd",
 "regno": "HE 158555",
 "country": "CY",
+"city": "Nicosia",
 "ref": "F00233-s0",
 "pct": 100.0
 }
@@ -7522,6 +7655,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00236-s0",
 "pct": 75.0
 },
@@ -7556,6 +7690,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00237-s0",
 "pct": 75.0
 },
@@ -7597,6 +7732,7 @@
 "name": "Silverline General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Dubai",
 "ref": "F00238-s1",
 "pct": 75.0
 }
@@ -8010,6 +8146,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00254-s0",
 "pct": 100.0
 }
@@ -8043,6 +8180,7 @@
 "name": "Corvus Logistics B.V.",
 "regno": "42297169",
 "country": "NL",
+"city": "Amsterdam",
 "ref": "F00255-s0",
 "pct": 100.0
 }
@@ -8942,6 +9080,7 @@
 "name": "Quarry Hill General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00293-s0",
 "pct": 100.0
 }
@@ -8969,6 +9108,7 @@
 "name": "Quarry Hill General Trading LLC",
 "regno": null,
 "country": "AE",
+"city": "Sharjah",
 "ref": "F00294-s0",
 "pct": 100.0
 }

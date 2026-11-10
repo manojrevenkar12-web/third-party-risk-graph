@@ -1,13 +1,13 @@
 {
  "heldout": "the supplier batch marked heldout in data/sources/suppliers.json, every source dated after dev_cutoff, and every question with split heldout",
  "sha256": {
-  "data/sources/documents.json": "b4714f7a54782b6b5aee114c685c09d3d3d2a6189d9ea020f7a42711746fdb8b",
-  "data/sources/filings.json": "e7e93e33a130d80a75c96828402dacb7b81c7051fd3a679df62dd0826ac722aa",
+  "data/sources/documents.json": "bf5c4cec2ca348da5d508331a0d5d3b4fda549f9c7c5dfeeb43b7286cc2d1342",
+  "data/sources/filings.json": "32956ab4fe967458097a2940df314bea0dc3fc92395f21d74b704444dd271ece",
   "data/sources/peps.json": "a4bd19ae16d355323864bb39cb8b20c52eabc8254cf97de6508b8bb0a04ea349",
-  "data/sources/sanctions.json": "2763ebd5f4b6c1a2417cc82b40ef26a5d343cdedfc47320744d7ab3e01245fb2",
+  "data/sources/sanctions.json": "c08f035d23c7dd448ca717074dac15ab799db9c49b1889846a15d426177836ca",
   "data/sources/suppliers.json": "b73d485fd21ff95f37a686906108f309ea15b35334ac33f2928bc627bae0d8ac",
-  "data/sources/web.json": "8f2ff12e25bab8c2340d3c9945d868de0850322c3ebf22a7290a42c8f7ac5200",
-  "data/truth/questions.json": "d2a1df65b4d1d111c6f17403bb98ef8b39cea9bbcd9969866f46183a331bc85b",
-  "data/truth/truth.json": "14d2e2d72eb80f48833c73f0f05eea11b1a46e6534c0afc8af6194bd993803a1"
+  "data/sources/web.json": "1cff57ab6ada130b3c2b95829b001fa9103b391c1221c7e19adda67ed995679f",
+  "data/truth/questions.json": "16db622b6c45acce5dacd28ff30e64a15eb7a14a845f71293c17a6447bcf4d7e",
+  "data/truth/truth.json": "5ec2a4bbe7d317d6f9c5860c262a68d3ca0aec1f47c98160dfb60619585b238b"
  }
 }

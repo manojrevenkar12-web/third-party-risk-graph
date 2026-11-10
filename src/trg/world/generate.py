@@ -250,7 +250,7 @@ def registry_name(b: Builder, eid: str, country: str, r) -> dict:
     if eid.startswith("C"):
         c = b.companies[eid]
         return {"kind": "company", "name": c["name"].upper() if country == "GB" else c["name"],
-                "regno": c["regno"], "country": c["country"]}
+                "regno": c["regno"], "country": c["country"], "city": c["city"]}
     p = b.people[eid]
     g, f = p["given"], p["family"]
     if country == "DE":
@@ -453,7 +453,7 @@ def documents(b: Builder) -> tuple[list, dict]:
 def web_pages(b: Builder) -> tuple[list, dict]:
     """Pages about holdings in registries that publish nothing: the only place their owners appear."""
     cfg, r = b.cfg["web"], rng_for(b.cfg["seed"], "web")
-    opaque = set(b.cfg["companies"]["opaque"])
+    opaque = set(b.cfg["companies"]["opaque"]) | set(b.cfg["companies"]["partial"]) | PARTIAL_DEFAULT
     pages, truth = [], {}
 
     def add(url, published, text, facts, kind):
