@@ -374,10 +374,13 @@ OPEN_DE = ["Die Staatsanwaltschaft ermittelt gegen {x} wegen {t}.", "Gegen {x} w
            "Die Behörden verhängten ein Bußgeld gegen {x} wegen {t}."]
 
 
-def person_ctx(b, p, de=False):
+def person_ctx(b, p, de=False, at=None):
+    """The person's age when the article was published, as newspapers give it."""
     q = b.people[p]
-    year = q["dob"][:4]
-    return f", {2026 - int(year)}," if not de else f" ({2026 - int(year)})"
+    born = dt.date.fromisoformat(q["dob"])
+    when = dt.date.fromisoformat(iso(at)) if at is not None else dt.date(2026, 1, 1)
+    age = when.year - born.year - ((when.month, when.day) < (born.month, born.day))
+    return f", {age}," if not de else f" ({age})"
 
 
 def company_ctx(b, c, de=False):
@@ -396,10 +399,10 @@ def documents(b: Builder) -> tuple[list, dict]:
                      "source": r.choice(["Reuters", "Handelsblatt", "FT", "OCCRP", "Der Spiegel", "Lloyd's List", "local press"])})
         truth[did] = {"facts": facts, "namesake": namesake}
 
-    def mention(e, de):
+    def mention(e, de, at=None):
         if e.startswith("P"):
             v = r.choice(b.people[e]["variants"]) if not de or b.people[e]["culture"] != "ru" else b.people[e]["variants"][-2]
-            return v + person_ctx(b, e, de)
+            return v + person_ctx(b, e, de, at)
         c = b.companies[e]
         nm = r.choice([c["name"], f"{c['stem']} {c['sector']}"])
         return nm + company_ctx(b, e, de)
@@ -407,11 +410,11 @@ def documents(b: Builder) -> tuple[list, dict]:
     for ev in b.events:
         for k in range(r.randint(*cfg["per_event"])):
             de = r.random() < cfg["german_share"]
-            d = ev["date"] + k * r.randint(3, 60)
-            x = mention(ev["entity"], de)
+            d = min(ev["date"] + k * r.randint(3, 60), b.end)
+            x = mention(ev["entity"], de, d)
             t = r.choice((TOPIC_DE if de else TOPIC_EN)[ev["topic"]])
             text = r.choice(OPEN_DE if de else OPEN_EN).format(x=x, t=t)
-            add(min(d, b.end), "de" if de else "en", text,
+            add(d, "de" if de else "en", text,
                 [{"type": "adverse", "subject": ev["entity"], "topic": ev["topic"], "event": ev["id"]}])
     # namesakes: an article about someone or something with the same name, elsewhere
     pairs = [(c["id"], c["namesake_of"]) for c in b.companies.values() if c.get("namesake_of")]
@@ -423,16 +426,18 @@ def documents(b: Builder) -> tuple[list, dict]:
         ns, _orig = r.choice(pairs)
         de = r.random() < cfg["german_share"]
         topic = r.choice(b.cfg["risk"]["topics"])
-        x = mention(ns, de)
+        d = b.start + r.randint(0, b.end - b.start)
+        x = mention(ns, de, d)
         t = r.choice((TOPIC_DE if de else TOPIC_EN)[topic])
-        add(b.start + r.randint(0, b.end - b.start), "de" if de else "en",
+        add(d, "de" if de else "en",
             r.choice(OPEN_DE if de else OPEN_EN).format(x=x, t=t),
             [{"type": "adverse", "subject": ns, "topic": topic, "event": None}], namesake=True)
     # ownership changes reported in the press
     changes = [o for o in b.owns if o["valid_from"] >= b.start]
     for o in r.sample(changes, min(cfg["ownership_articles"], len(changes))):
         de = r.random() < cfg["german_share"]
-        buyer, target = mention(o["owner"], de), mention(o["owned"], de)
+        pub = o["valid_from"] + r.randint(1, 40)
+        buyer, target = mention(o["owner"], de, pub), mention(o["owned"], de, pub)
         month = dt.date.fromisoformat(iso(o["valid_from"]))
         c_buy = b.companies[o["owner"]]["country"] if o["owner"].startswith("C") else b.people[o["owner"]]["nationality"]
         if de:
@@ -440,7 +445,7 @@ def documents(b: Builder) -> tuple[list, dict]:
                     f"{o['pct']:.0f} Prozent an {target} übernommen.")
         else:
             text = f"In {month.strftime('%B %Y')}, {buyer} from {COUNTRY.get(c_buy, c_buy)} acquired a {o['pct']:.0f}% stake in {target}."
-        add(o["valid_from"] + r.randint(1, 40), "de" if de else "en", text,
+        add(pub, "de" if de else "en", text,
             [{"type": "ownership", "subject": o["owned"], "owner": o["owner"], "pct": o["pct"], "from": o["valid_from"]}])
     return docs, truth
 
