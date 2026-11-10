@@ -1,0 +1,9319 @@
+[
+{
+"id": "F00001",
+"country": "DE",
+"regno": "HRB 28720",
+"company": "Pinnacle Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "Krüger, Jörg",
+"born": "15.12.1969",
+"city": "Bremen",
+"ref": "F00001-o0"
+},
+{
+"kind": "person",
+"name": "Fletcher, Olivia",
+"born": "10.02.1971",
+"city": "Hamburg",
+"ref": "F00001-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00001-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00002",
+"country": "DE",
+"regno": "HRB 28720",
+"company": "Pinnacle Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-09-23",
+"filed": "2023-10-08",
+"officers": [
+{
+"kind": "person",
+"name": "Krüger, Jörg",
+"born": "15.12.1969",
+"city": "Bremen",
+"ref": "F00002-o0"
+},
+{
+"kind": "person",
+"name": "Al-Farsi, Mariam",
+"born": "24.03.1955",
+"city": "Bremen",
+"ref": "F00002-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00002-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00003",
+"country": "DE",
+"regno": "HRB 28720",
+"company": "Pinnacle Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2025-12-02",
+"filed": "2025-12-25",
+"officers": [
+{
+"kind": "person",
+"name": "Krüger, Jörg",
+"born": "15.12.1969",
+"city": "Bremen",
+"ref": "F00003-o0"
+},
+{
+"kind": "person",
+"name": "Al-Farsi, Mariam",
+"born": "24.03.1955",
+"city": "Bremen",
+"ref": "F00003-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Polaris Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00003-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00004",
+"country": "DE",
+"regno": "HRB 45741",
+"company": "Helios Chemie GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "Belyayev, Natalya",
+"born": "29.05.1955",
+"city": "Stuttgart",
+"ref": "F00004-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Marlin Engineering AG",
+"regno": "CHE-269.512.810",
+"country": "CH",
+"ref": "F00004-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00005",
+"country": "DE",
+"regno": "HRB 45741",
+"company": "Helios Chemie GmbH",
+"city": "Stuttgart",
+"effective": "2024-01-13",
+"filed": "2024-01-30",
+"officers": [
+{
+"kind": "person",
+"name": "Zhao, Qiang",
+"born": "05.08.1953",
+"city": "Stuttgart",
+"ref": "F00005-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Marlin Engineering AG",
+"regno": "CHE-269.512.810",
+"country": "CH",
+"ref": "F00005-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00006",
+"country": "DE",
+"regno": "HRB 45741",
+"company": "Helios Chemie GmbH",
+"city": "Stuttgart",
+"effective": "2024-05-25",
+"filed": "2024-06-10",
+"officers": [
+{
+"kind": "person",
+"name": "Zhao, Qiang",
+"born": "05.08.1953",
+"city": "Frankfurt am Main",
+"ref": "F00006-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Böhm, Julia",
+"born": "27.10.1981",
+"city": "Hamburg",
+"ref": "F00006-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00007",
+"country": "DE",
+"regno": "HRB 78885",
+"company": "Granite Logistik GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-12",
+"officers": [
+{
+"kind": "person",
+"name": "Wright, Lucy",
+"born": "17.12.1951",
+"city": "Bremen",
+"ref": "F00007-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Baltic Star Shipping Ltd",
+"regno": "HE 144403",
+"country": "CY",
+"ref": "F00007-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00008",
+"country": "CN",
+"regno": "914439220338325327",
+"company": "Valiant Manufacturing Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "BARIŞ KILIÇ",
+"nationality": "TR",
+"ref": "F00008-o0"
+},
+{
+"kind": "person",
+"name": "LENA FUCHS",
+"nationality": "DE",
+"ref": "F00008-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00009",
+"country": "GB",
+"regno": "12191328",
+"company": "BALTIC STAR LOGISTICS LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "NASSER, Mohammed",
+"born": "October 1971",
+"nationality": "AE",
+"ref": "F00009-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "VALIANT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00009-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "GRIGORYEV, Yelena",
+"born": "May 1986",
+"nationality": "RU",
+"ref": "F00009-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00010",
+"country": "GB",
+"regno": "12191328",
+"company": "BALTIC STAR LOGISTICS LTD",
+"city": "London",
+"effective": "2024-05-24",
+"filed": "2024-06-02",
+"officers": [
+{
+"kind": "person",
+"name": "BECKER, Stefan",
+"born": "August 1974",
+"nationality": "DE",
+"ref": "F00010-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "VALIANT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00010-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "GRIGORYEV, Yelena",
+"born": "May 1986",
+"nationality": "RU",
+"ref": "F00010-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00011",
+"country": "DE",
+"regno": "HRB 16500",
+"company": "Sterling Verpackung GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "Orlov, Dmitriy",
+"born": "02.07.1958",
+"city": "Stuttgart",
+"ref": "F00011-o0"
+},
+{
+"kind": "person",
+"name": "Bennett, Robert",
+"born": "21.09.1974",
+"city": "Hamburg",
+"ref": "F00011-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Khoury, Khalid",
+"born": "01.11.1988",
+"city": "Leipzig",
+"ref": "F00011-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Hughes, James",
+"born": "23.09.1957",
+"city": "Bremen",
+"ref": "F00011-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00012",
+"country": "DE",
+"regno": "HRB 16500",
+"company": "Sterling Verpackung GmbH",
+"city": "Leipzig",
+"effective": "2023-03-22",
+"filed": "2023-03-31",
+"officers": [
+{
+"kind": "person",
+"name": "Bennett, Robert",
+"born": "21.09.1974",
+"city": "Frankfurt am Main",
+"ref": "F00012-o0"
+},
+{
+"kind": "person",
+"name": "Öztürk, Gülşen",
+"born": "13.02.1960",
+"city": "Stuttgart",
+"ref": "F00012-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Khoury, Khalid",
+"born": "01.11.1988",
+"city": "Leipzig",
+"ref": "F00012-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Hughes, James",
+"born": "23.09.1957",
+"city": "Hamburg",
+"ref": "F00012-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00013",
+"country": "DE",
+"regno": "HRB 74865",
+"company": "Elbe Verpackung GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Jun",
+"born": "21.10.1952",
+"city": "Bremen",
+"ref": "F00013-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Groß, Birgit",
+"born": "23.03.1969",
+"city": "Hamburg",
+"ref": "F00013-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Zhang, Jing",
+"born": "09.08.1954",
+"city": "Stuttgart",
+"ref": "F00013-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00014",
+"country": "DE",
+"regno": "HRB 74865",
+"company": "Elbe Verpackung GmbH",
+"city": "Stuttgart",
+"effective": "2023-05-31",
+"filed": "2023-06-07",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Jun",
+"born": "21.10.1952",
+"city": "Stuttgart",
+"ref": "F00014-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Groß, Birgit",
+"born": "23.03.1969",
+"city": "Stuttgart",
+"ref": "F00014-s0",
+"pct": 80.0
+},
+{
+"kind": "company",
+"name": "Pinnacle Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00014-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00015",
+"country": "DE",
+"regno": "HRB 56815",
+"company": "Rheintal Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Nasser, Mohammed",
+"born": "30.10.1971",
+"city": "Stuttgart",
+"ref": "F00015-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Polaris Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00015-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00016",
+"country": "DE",
+"regno": "HRB 56815",
+"company": "Rheintal Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2024-12-09",
+"filed": "2024-12-12",
+"officers": [
+{
+"kind": "person",
+"name": "Schäfer, Jürgen",
+"born": "30.06.1965",
+"city": "Hamburg",
+"ref": "F00016-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Polaris Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00016-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00017",
+"country": "DE",
+"regno": "HRB 20276",
+"company": "Eastwind Chemie GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "Hoffmann, Jürgen",
+"born": "28.05.1975",
+"city": "Frankfurt am Main",
+"ref": "F00017-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Trident Shipping B.V.",
+"regno": "78770879",
+"country": "NL",
+"ref": "F00017-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Chen, Fang",
+"born": "02.10.1963",
+"city": "Hamburg",
+"ref": "F00017-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00018",
+"country": "GB",
+"regno": "03253244",
+"company": "RHEINTAL PACKAGING LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "XU, Wei",
+"born": "January 1964",
+"nationality": "CN",
+"ref": "F00018-o0"
+},
+{
+"kind": "person",
+"name": "LEBEDEV, Andrey Andreyevich",
+"born": "January 1973",
+"nationality": "RU",
+"ref": "F00018-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "IRONBRIDGE HOLDINGS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00018-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00019",
+"country": "DE",
+"regno": "HRB 45848",
+"company": "Wrenfield Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "Kovalyov, Yevgeniy",
+"born": "19.06.1954",
+"city": "Frankfurt am Main",
+"ref": "F00019-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Lindenhof Shipping Ltd",
+"regno": "HE 487508",
+"country": "CY",
+"ref": "F00019-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Saleh, Nour",
+"born": "03.02.1986",
+"city": "Stuttgart",
+"ref": "F00019-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00020",
+"country": "CN",
+"regno": "917574608648512028",
+"company": "Harbourview Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "EMILY TURNER",
+"nationality": "GB",
+"ref": "F00020-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00021",
+"country": "CN",
+"regno": "917574608648512028",
+"company": "Harbourview Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2025-11-10",
+"filed": "2025-11-23",
+"officers": [
+{
+"kind": "person",
+"name": "DMITRIY ORLOV",
+"nationality": "CY",
+"ref": "F00021-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00022",
+"country": "DE",
+"regno": "HRB 65053",
+"company": "Redstone Verpackung GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Aleksandr",
+"born": "20.06.1984",
+"city": "Stuttgart",
+"ref": "F00022-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Wu, Yan",
+"born": "16.07.1965",
+"city": "Stuttgart",
+"ref": "F00022-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Wagner, Lena",
+"born": "16.02.1954",
+"city": "Bremen",
+"ref": "F00022-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00023",
+"country": "DE",
+"regno": "HRB 65053",
+"company": "Redstone Verpackung GmbH",
+"city": "Stuttgart",
+"effective": "2023-03-19",
+"filed": "2023-04-11",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Aleksandr",
+"born": "20.06.1984",
+"city": "Stuttgart",
+"ref": "F00023-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Wu, Yan",
+"born": "16.07.1965",
+"city": "Frankfurt am Main",
+"ref": "F00023-s0",
+"pct": 50.0
+},
+{
+"kind": "company",
+"name": "Kingfisher Logistics B.V.",
+"regno": "75693122",
+"country": "NL",
+"ref": "F00023-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00024",
+"country": "GB",
+"regno": "12053823",
+"company": "ATLAS COMPONENTS LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "ORLOV, Andrey Andreyevich",
+"born": "August 1973",
+"nationality": "RU",
+"ref": "F00024-o0"
+},
+{
+"kind": "person",
+"name": "LIU, Mei",
+"born": "April 1963",
+"nationality": "GB",
+"ref": "F00024-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "MARLIN ENGINEERING AG",
+"regno": "CHE-269.512.810",
+"country": "CH",
+"ref": "F00024-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00025",
+"country": "CN",
+"regno": "914166229842450681",
+"company": "Highmoor Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "KLAUS BOEHM",
+"nationality": "DE",
+"ref": "F00025-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00026",
+"country": "GB",
+"regno": "07125999",
+"company": "DRIFTWOOD ENGINEERING LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "FUCHS, Katrin",
+"born": "October 1974",
+"nationality": "DE",
+"ref": "F00026-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "TRIDENT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00026-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00027",
+"country": "GB",
+"regno": "07125999",
+"company": "DRIFTWOOD ENGINEERING LTD",
+"city": "Manchester",
+"effective": "2026-02-24",
+"filed": "2026-02-28",
+"officers": [
+{
+"kind": "person",
+"name": "KOVALYOV, Tatyana",
+"born": "March 1976",
+"nationality": "RU",
+"ref": "F00027-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "TRIDENT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00027-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00028",
+"country": "TR",
+"regno": "168809",
+"company": "Westbrook Lojistik A.Ş.",
+"city": "Izmir",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "EMILY BENNETT",
+"nationality": "GB",
+"ref": "F00028-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00029",
+"country": "TR",
+"regno": "168809",
+"company": "Westbrook Lojistik A.Ş.",
+"city": "Izmir",
+"effective": "2025-07-05",
+"filed": "2025-07-12",
+"officers": [
+{
+"kind": "person",
+"name": "EMILY BENNETT",
+"nationality": "GB",
+"ref": "F00029-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00030",
+"country": "DE",
+"regno": "HRB 94004",
+"company": "Rheintal Elektronik GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "Schmidt, Sabine",
+"born": "02.09.1988",
+"city": "Stuttgart",
+"ref": "F00030-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill Engineering AG",
+"regno": "CHE-577.955.993",
+"country": "CH",
+"ref": "F00030-s0",
+"pct": 90.0
+},
+{
+"kind": "person",
+"name": "Walker, James",
+"born": "11.09.1957",
+"city": "Stuttgart",
+"ref": "F00030-s1",
+"pct": 10.0
+}
+]
+},
+{
+"id": "F00031",
+"country": "DE",
+"regno": "HRB 94004",
+"company": "Rheintal Elektronik GmbH",
+"city": "Hamburg",
+"effective": "2026-04-11",
+"filed": "2026-04-28",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Hao",
+"born": "25.02.1983",
+"city": "Stuttgart",
+"ref": "F00031-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill Engineering AG",
+"regno": "CHE-577.955.993",
+"country": "CH",
+"ref": "F00031-s0",
+"pct": 90.0
+},
+{
+"kind": "person",
+"name": "Walker, James",
+"born": "11.09.1957",
+"city": "Hamburg",
+"ref": "F00031-s1",
+"pct": 10.0
+}
+]
+},
+{
+"id": "F00032",
+"country": "DE",
+"regno": "HRB 38866",
+"company": "Aurora Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "Li, Mei",
+"born": "11.10.1957",
+"city": "Leipzig",
+"ref": "F00032-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Kestrel Holdings Ltd",
+"regno": "HE 132188",
+"country": "CY",
+"ref": "F00032-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00033",
+"country": "DE",
+"regno": "HRB 38866",
+"company": "Aurora Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2024-09-22",
+"filed": "2024-09-27",
+"officers": [
+{
+"kind": "person",
+"name": "Li, Mei",
+"born": "11.10.1957",
+"city": "Leipzig",
+"ref": "F00033-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Commodities AG",
+"regno": "CHE-684.286.909",
+"country": "CH",
+"ref": "F00033-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00034",
+"country": "CH",
+"regno": "CHE-683.781.202",
+"company": "Kingfisher Trading AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-12",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Farsi, Ahmed",
+"nationality": "AE",
+"ref": "F00034-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Zhang, Wei",
+"nationality": "CN",
+"ref": "F00034-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Yılmaz, Murat",
+"nationality": "TR",
+"ref": "F00034-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00035",
+"country": "CH",
+"regno": "CHE-683.781.202",
+"company": "Kingfisher Trading AG",
+"city": "Lugano",
+"effective": "2024-04-22",
+"filed": "2024-05-03",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Farsi, Ahmed",
+"nationality": "AE",
+"ref": "F00035-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Yılmaz, Murat",
+"nationality": "TR",
+"ref": "F00035-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Wagner, Lena",
+"nationality": "DE",
+"ref": "F00035-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00036",
+"country": "DE",
+"regno": "HRB 71900",
+"company": "Brightwater Verpackung GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "Yakovlev, Tatyana",
+"born": "04.08.1986",
+"city": "Stuttgart",
+"ref": "F00036-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Fletcher, Lucy",
+"born": "07.12.1963",
+"city": "Frankfurt am Main",
+"ref": "F00036-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Hoffmann, Jörg",
+"born": "05.07.1987",
+"city": "Stuttgart",
+"ref": "F00036-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00037",
+"country": "DE",
+"regno": "HRB 71900",
+"company": "Brightwater Verpackung GmbH",
+"city": "Frankfurt am Main",
+"effective": "2024-05-02",
+"filed": "2024-05-18",
+"officers": [
+{
+"kind": "person",
+"name": "Köhler, Katrin",
+"born": "21.11.1982",
+"city": "Frankfurt am Main",
+"ref": "F00037-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Fletcher, Lucy",
+"born": "07.12.1963",
+"city": "Hamburg",
+"ref": "F00037-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Hoffmann, Jörg",
+"born": "05.07.1987",
+"city": "Hamburg",
+"ref": "F00037-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00038",
+"country": "CN",
+"regno": "914585256998110833",
+"company": "Trident Trading Co., Ltd.",
+"city": "Ningbo",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "ABDULLAH SALEH",
+"nationality": "AE",
+"ref": "F00038-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00039",
+"country": "CN",
+"regno": "914585256998110833",
+"company": "Trident Trading Co., Ltd.",
+"city": "Ningbo",
+"effective": "2024-12-06",
+"filed": "2024-12-17",
+"officers": [
+{
+"kind": "person",
+"name": "ABDULLAH SALEH",
+"nationality": "AE",
+"ref": "F00039-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00040",
+"country": "CN",
+"regno": "914573843974999489",
+"company": "Redstone Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "JOERG FUCHS",
+"nationality": "CY",
+"ref": "F00040-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00041",
+"country": "CN",
+"regno": "914573843974999489",
+"company": "Redstone Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2025-11-05",
+"filed": "2025-11-11",
+"officers": [
+{
+"kind": "person",
+"name": "JOERG FUCHS",
+"nationality": "CY",
+"ref": "F00041-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00042",
+"country": "DE",
+"regno": "HRB 55978",
+"company": "Eastwind Verpackung GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "Walker, Richard",
+"born": "08.06.1954",
+"city": "Stuttgart",
+"ref": "F00042-o0"
+},
+{
+"kind": "person",
+"name": "Liu, Wei",
+"born": "24.05.1960",
+"city": "Bremen",
+"ref": "F00042-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Clarke, James",
+"born": "10.06.1971",
+"city": "Stuttgart",
+"ref": "F00042-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Güneş, Mehmet",
+"born": "11.01.1975",
+"city": "Stuttgart",
+"ref": "F00042-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00043",
+"country": "DE",
+"regno": "HRB 55978",
+"company": "Eastwind Verpackung GmbH",
+"city": "Hamburg",
+"effective": "2024-07-21",
+"filed": "2024-07-30",
+"officers": [
+{
+"kind": "person",
+"name": "Walker, Richard",
+"born": "08.06.1954",
+"city": "Bremen",
+"ref": "F00043-o0"
+},
+{
+"kind": "person",
+"name": "Zhukov, Yuriy",
+"born": "03.08.1972",
+"city": "Leipzig",
+"ref": "F00043-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Clarke, James",
+"born": "10.06.1971",
+"city": "Hamburg",
+"ref": "F00043-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Güneş, Mehmet",
+"born": "11.01.1975",
+"city": "Stuttgart",
+"ref": "F00043-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00044",
+"country": "GB",
+"regno": "10774856",
+"company": "BALTIC STAR PACKAGING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "DOGAN, Ozlem",
+"born": "June 1981",
+"nationality": "TR",
+"ref": "F00044-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "PRICE, Charlotte",
+"born": "April 1986",
+"nationality": "GB",
+"ref": "F00044-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "AL-FARSI, Youssef",
+"born": "January 1974",
+"nationality": "CY",
+"ref": "F00044-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00045",
+"country": "CN",
+"regno": "912523070407819165",
+"company": "Lindenhof Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "NATALYA SEMYONOV",
+"nationality": "RU",
+"ref": "F00045-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00046",
+"country": "CN",
+"regno": "912523070407819165",
+"company": "Lindenhof Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-11-22",
+"filed": "2023-12-11",
+"officers": [
+{
+"kind": "person",
+"name": "HANNAH COOPER",
+"nationality": "GB",
+"ref": "F00046-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00047",
+"country": "CH",
+"regno": "CHE-221.568.458",
+"company": "Meridian Commodities AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "Belyayev, Tatyana",
+"nationality": "RU",
+"ref": "F00047-o0"
+},
+{
+"kind": "person",
+"name": "Al-Farsi, Omar",
+"nationality": "AE",
+"ref": "F00047-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Aurora Trading B.V.",
+"regno": "11715105",
+"country": "NL",
+"ref": "F00047-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00048",
+"country": "CH",
+"regno": "CHE-221.568.458",
+"company": "Meridian Commodities AG",
+"city": "Lugano",
+"effective": "2025-10-15",
+"filed": "2025-10-30",
+"officers": [
+{
+"kind": "person",
+"name": "Belyayev, Tatyana",
+"nationality": "RU",
+"ref": "F00048-o0"
+},
+{
+"kind": "person",
+"name": "Müller, Stefan",
+"nationality": "DE",
+"ref": "F00048-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Aurora Trading B.V.",
+"regno": "11715105",
+"country": "NL",
+"ref": "F00048-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00049",
+"country": "DE",
+"regno": "HRB 62083",
+"company": "Driftwood Verpackung GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Natalya",
+"born": "04.01.1988",
+"city": "Stuttgart",
+"ref": "F00049-o0"
+},
+{
+"kind": "person",
+"name": "Volkov, Yelena",
+"born": "27.05.1979",
+"city": "Leipzig",
+"ref": "F00049-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Umber Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00049-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00050",
+"country": "DE",
+"regno": "HRB 62083",
+"company": "Driftwood Verpackung GmbH",
+"city": "Bremen",
+"effective": "2023-03-26",
+"filed": "2023-03-29",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Natalya",
+"born": "04.01.1988",
+"city": "Hamburg",
+"ref": "F00050-o0"
+},
+{
+"kind": "person",
+"name": "Volkov, Yelena",
+"born": "27.05.1979",
+"city": "Frankfurt am Main",
+"ref": "F00050-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00050-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00051",
+"country": "GB",
+"regno": "09231743",
+"company": "MARLIN PACKAGING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "BOHM, Julia",
+"born": "October 1956",
+"nationality": "DE",
+"ref": "F00051-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "NIMBUS INVESTMENTS LTD",
+"regno": null,
+"country": "VG",
+"ref": "F00051-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00052",
+"country": "DE",
+"regno": "HRB 69192",
+"company": "Wrenfield Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "Groß, Jürgen",
+"born": "03.09.1960",
+"city": "Stuttgart",
+"ref": "F00052-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Ironbridge Investments Ltd",
+"regno": "HE 123780",
+"country": "CY",
+"ref": "F00052-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00053",
+"country": "GB",
+"regno": "01621858",
+"company": "REDSTONE PACKAGING LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "KOHLER, Stefan",
+"born": "October 1984",
+"nationality": "DE",
+"ref": "F00053-o0"
+},
+{
+"kind": "person",
+"name": "SEMYONOV, Sergey Sergeyevich",
+"born": "March 1956",
+"nationality": "RU",
+"ref": "F00053-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "KHOURY, Ahmed",
+"born": "August 1964",
+"nationality": "AE",
+"ref": "F00053-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "KOVALYOV, Yevgeniy",
+"born": "October 1969",
+"nationality": "RU",
+"ref": "F00053-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00054",
+"country": "GB",
+"regno": "12095512",
+"company": "EASTWIND TRADING LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "WU, Yan",
+"born": "July 1965",
+"nationality": "CN",
+"ref": "F00054-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "BLUEWATER ENGINEERING AG",
+"regno": "CHE-471.283.155",
+"country": "CH",
+"ref": "F00054-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "AYDIN, Gulsen",
+"born": "January 1989",
+"nationality": "TR",
+"ref": "F00054-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00055",
+"country": "GB",
+"regno": "12095512",
+"company": "EASTWIND TRADING LTD",
+"city": "Manchester",
+"effective": "2026-01-02",
+"filed": "2026-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "WEISS, Matthias",
+"born": "January 1950",
+"nationality": "DE",
+"ref": "F00055-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "BLUEWATER ENGINEERING AG",
+"regno": "CHE-471.283.155",
+"country": "CH",
+"ref": "F00055-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "AYDIN, Gulsen",
+"born": "January 1989",
+"nationality": "TR",
+"ref": "F00055-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00056",
+"country": "GB",
+"regno": "12095512",
+"company": "EASTWIND TRADING LTD",
+"city": "Manchester",
+"effective": "2026-05-23",
+"filed": "2026-06-12",
+"officers": [
+{
+"kind": "person",
+"name": "WEISS, Matthias",
+"born": "January 1950",
+"nationality": "DE",
+"ref": "F00056-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "AYDIN, Gulsen",
+"born": "January 1989",
+"nationality": "TR",
+"ref": "F00056-s0",
+"band": "25-50%"
+},
+{
+"kind": "person",
+"name": "KOHLER, Katrin",
+"born": "June 1958",
+"nationality": "DE",
+"ref": "F00056-s1",
+"band": "50-75%"
+}
+]
+},
+{
+"id": "F00057",
+"country": "DE",
+"regno": "HRB 94131",
+"company": "Corvus Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Böhm, Katrin",
+"born": "17.11.1959",
+"city": "Hamburg",
+"ref": "F00057-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Zhukov, Aleksandr",
+"born": "25.04.1960",
+"city": "Frankfurt am Main",
+"ref": "F00057-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Wang, Mei",
+"born": "03.02.1974",
+"city": "Frankfurt am Main",
+"ref": "F00057-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00058",
+"country": "GB",
+"regno": "11657927",
+"company": "SEEFELD TRADING LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "KRUGER, Stefan",
+"born": "January 1984",
+"nationality": "DE",
+"ref": "F00058-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "WRENFIELD INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00058-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "AL-FARSI, Ahmed",
+"born": "April 1956",
+"nationality": "AE",
+"ref": "F00058-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00059",
+"country": "DE",
+"regno": "HRB 44695",
+"company": "Falcon Crest Verpackung GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-18",
+"officers": [
+{
+"kind": "person",
+"name": "Shcherbakov, Mikhail",
+"born": "26.10.1966",
+"city": "Hamburg",
+"ref": "F00059-o0"
+},
+{
+"kind": "person",
+"name": "Böhm, Birgit",
+"born": "30.01.1950",
+"city": "Leipzig",
+"ref": "F00059-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Northgate Investments Ltd",
+"regno": "HE 420272",
+"country": "CY",
+"ref": "F00059-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00060",
+"country": "DE",
+"regno": "HRB 48486",
+"company": "Alder Chemie GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "Belyayev, Dmitriy",
+"born": "08.08.1970",
+"city": "Hamburg",
+"ref": "F00060-o0"
+},
+{
+"kind": "person",
+"name": "Köhler, Katrin",
+"born": "07.06.1958",
+"city": "Stuttgart",
+"ref": "F00060-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Helios Investments Ltd",
+"regno": "HE 197390",
+"country": "CY",
+"ref": "F00060-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Haddad, Mariam",
+"born": "11.10.1977",
+"city": "Hamburg",
+"ref": "F00060-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00061",
+"country": "GB",
+"regno": "13809151",
+"company": "POLARIS PACKAGING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "ARSLAN, Gulsen",
+"born": "April 1958",
+"nationality": "DE",
+"ref": "F00061-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "KOHLER, Birgit",
+"born": "November 1950",
+"nationality": "DE",
+"ref": "F00061-s0",
+"band": "75-100%"
+},
+{
+"kind": "person",
+"name": "HOFFMANN, Jorg",
+"born": "July 1987",
+"nationality": "DE",
+"ref": "F00061-s1",
+"band": "under 25%"
+}
+]
+},
+{
+"id": "F00062",
+"country": "GB",
+"regno": "13809151",
+"company": "POLARIS PACKAGING LTD",
+"city": "London",
+"effective": "2026-05-07",
+"filed": "2026-05-10",
+"officers": [
+{
+"kind": "person",
+"name": "ARSLAN, Gulsen",
+"born": "April 1958",
+"nationality": "DE",
+"ref": "F00062-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "HOFFMANN, Jorg",
+"born": "July 1987",
+"nationality": "DE",
+"ref": "F00062-s0",
+"band": "under 25%"
+},
+{
+"kind": "company",
+"name": "NIMBUS SHIPPING LTD",
+"regno": "HE 269659",
+"country": "CY",
+"ref": "F00062-s1",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00063",
+"country": "DE",
+"regno": "HRB 19980",
+"company": "Redstone Logistik GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Andrey",
+"born": "19.03.1976",
+"city": "Frankfurt am Main",
+"ref": "F00063-o0"
+},
+{
+"kind": "person",
+"name": "Arslan, Gülşen",
+"born": "08.04.1958",
+"city": "Stuttgart",
+"ref": "F00063-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Commodities AG",
+"regno": "CHE-684.286.909",
+"country": "CH",
+"ref": "F00063-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00064",
+"country": "DE",
+"regno": "HRB 19980",
+"company": "Redstone Logistik GmbH",
+"city": "Leipzig",
+"effective": "2024-03-21",
+"filed": "2024-04-12",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Andrey",
+"born": "19.03.1976",
+"city": "Leipzig",
+"ref": "F00064-o0"
+},
+{
+"kind": "person",
+"name": "Arslan, Gülşen",
+"born": "08.04.1958",
+"city": "Hamburg",
+"ref": "F00064-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Seefeld Components B.V.",
+"regno": "34426131",
+"country": "NL",
+"ref": "F00064-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00065",
+"country": "DE",
+"regno": "HRB 19980",
+"company": "Redstone Logistik GmbH",
+"city": "Leipzig",
+"effective": "2024-06-19",
+"filed": "2024-07-10",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Andrey",
+"born": "19.03.1976",
+"city": "Hamburg",
+"ref": "F00065-o0"
+},
+{
+"kind": "person",
+"name": "Saleh, Omar",
+"born": "18.10.1973",
+"city": "Bremen",
+"ref": "F00065-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Seefeld Components B.V.",
+"regno": "34426131",
+"country": "NL",
+"ref": "F00065-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00066",
+"country": "DE",
+"regno": "HRB 26267",
+"company": "Umber Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "Orlov, Andrey",
+"born": "22.06.1962",
+"city": "Leipzig",
+"ref": "F00066-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Shipping Ltd",
+"regno": "HE 269659",
+"country": "CY",
+"ref": "F00066-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00067",
+"country": "DE",
+"regno": "HRB 40745",
+"company": "Pinnacle Chemie GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "Shcherbakov, Natalya",
+"born": "02.01.1981",
+"city": "Leipzig",
+"ref": "F00067-o0"
+},
+{
+"kind": "person",
+"name": "Shcherbakov, Vladimir",
+"born": "01.07.1985",
+"city": "Stuttgart",
+"ref": "F00067-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00067-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00068",
+"country": "DE",
+"regno": "HRB 40745",
+"company": "Pinnacle Chemie GmbH",
+"city": "Hamburg",
+"effective": "2025-07-13",
+"filed": "2025-08-04",
+"officers": [
+{
+"kind": "person",
+"name": "Shcherbakov, Natalya",
+"born": "02.01.1981",
+"city": "Bremen",
+"ref": "F00068-o0"
+},
+{
+"kind": "person",
+"name": "Shcherbakov, Vladimir",
+"born": "01.07.1985",
+"city": "Stuttgart",
+"ref": "F00068-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Bluewater Engineering AG",
+"regno": "CHE-471.283.155",
+"country": "CH",
+"ref": "F00068-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00069",
+"country": "DE",
+"regno": "HRB 45393",
+"company": "Cobalt Handel GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Cooper, Edward",
+"born": "12.06.1952",
+"city": "Bremen",
+"ref": "F00069-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Cobalt Engineering AG",
+"regno": "CHE-513.725.307",
+"country": "CH",
+"ref": "F00069-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Volkov, Mikhail",
+"born": "14.04.1973",
+"city": "Stuttgart",
+"ref": "F00069-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00070",
+"country": "DE",
+"regno": "HRB 56604",
+"company": "Meridian Maschinenbau GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "Krüger, Jörg",
+"born": "23.04.1956",
+"city": "Frankfurt am Main",
+"ref": "F00070-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Granite Holdings Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00070-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00071",
+"country": "CN",
+"regno": "914736234247396642",
+"company": "Trident Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "NATALYA VOLKOV",
+"nationality": "RU",
+"ref": "F00071-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00072",
+"country": "CN",
+"regno": "914736234247396642",
+"company": "Trident Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2024-03-10",
+"filed": "2024-03-18",
+"officers": [
+{
+"kind": "person",
+"name": "NATALYA VOLKOV",
+"nationality": "RU",
+"ref": "F00072-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00073",
+"country": "GB",
+"regno": "02524120",
+"company": "PINNACLE LOGISTICS LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "BENNETT, Robert",
+"born": "September 1974",
+"nationality": "GB",
+"ref": "F00073-o0"
+},
+{
+"kind": "person",
+"name": "VOLKOV, Mikhail Mikhaylovich",
+"born": "April 1973",
+"nationality": "RU",
+"ref": "F00073-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "SILVERLINE HOLDINGS LTD",
+"regno": "HE 295975",
+"country": "CY",
+"ref": "F00073-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "SCHMIDT, Julia",
+"born": "March 1952",
+"nationality": "DE",
+"ref": "F00073-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00074",
+"country": "DE",
+"regno": "HRB 63597",
+"company": "Eastwind Handel GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "Nasser, Abdullah",
+"born": "10.09.1971",
+"city": "Leipzig",
+"ref": "F00074-o0"
+},
+{
+"kind": "person",
+"name": "Böhm, Katrin",
+"born": "17.11.1959",
+"city": "Hamburg",
+"ref": "F00074-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Atlas Shipping B.V.",
+"regno": "52241867",
+"country": "NL",
+"ref": "F00074-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00075",
+"country": "DE",
+"regno": "HRB 63597",
+"company": "Eastwind Handel GmbH",
+"city": "Leipzig",
+"effective": "2024-07-06",
+"filed": "2024-07-27",
+"officers": [
+{
+"kind": "person",
+"name": "Nasser, Abdullah",
+"born": "10.09.1971",
+"city": "Stuttgart",
+"ref": "F00075-o0"
+},
+{
+"kind": "person",
+"name": "Böhm, Katrin",
+"born": "17.11.1959",
+"city": "Bremen",
+"ref": "F00075-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Bluewater Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00075-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00076",
+"country": "CH",
+"regno": "CHE-976.250.402",
+"company": "Driftwood Engineering AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Andrey",
+"nationality": "RU",
+"ref": "F00076-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Trident Shipping B.V.",
+"regno": "78770879",
+"country": "NL",
+"ref": "F00076-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00077",
+"country": "CH",
+"regno": "CHE-977.286.991",
+"company": "Sapphire Trading AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "Zhou, Wei",
+"nationality": "CN",
+"ref": "F00077-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00077-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Wagner, Stefan",
+"nationality": "DE",
+"ref": "F00077-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00078",
+"country": "NL",
+"regno": "75942488",
+"company": "Lindenhof Logistics B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "D. Volkov",
+"born": "1981-11-17",
+"ref": "F00078-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Emberly Trading AG",
+"regno": "CHE-259.558.131",
+"country": "CH",
+"ref": "F00078-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Y. Kovalyov",
+"born": "1969-10-06",
+"ref": "F00078-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00079",
+"country": "NL",
+"regno": "75942488",
+"company": "Lindenhof Logistics B.V.",
+"city": "Rotterdam",
+"effective": "2024-06-20",
+"filed": "2024-06-23",
+"officers": [
+{
+"kind": "person",
+"name": "D. Volkov",
+"born": "1981-11-17",
+"ref": "F00079-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Emberly Trading AG",
+"regno": "CHE-259.558.131",
+"country": "CH",
+"ref": "F00079-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "H. Al-Mansouri",
+"born": "1984-02-03",
+"ref": "F00079-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00080",
+"country": "GB",
+"regno": "06647381",
+"company": "MARLIN LOGISTICS LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "HADDAD, Mohammed",
+"born": "January 1989",
+"nationality": "AE",
+"ref": "F00080-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "SILVERLINE GENERAL TRADING LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00080-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00081",
+"country": "CH",
+"regno": "CHE-442.578.379",
+"company": "Umber Trading AG",
+"city": "Zug",
+"effective": "2023-01-01",
+"filed": "2023-01-21",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Wei",
+"nationality": "CN",
+"ref": "F00081-o0"
+},
+{
+"kind": "person",
+"name": "Böhm, Katrin",
+"nationality": "DE",
+"ref": "F00081-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Marlin Engineering AG",
+"regno": "CHE-269.512.810",
+"country": "CH",
+"ref": "F00081-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Walker, Charlotte",
+"nationality": "GB",
+"ref": "F00081-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00082",
+"country": "CH",
+"regno": "CHE-442.578.379",
+"company": "Umber Trading AG",
+"city": "Zug",
+"effective": "2023-07-22",
+"filed": "2023-08-15",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Wei",
+"nationality": "CN",
+"ref": "F00082-o0"
+},
+{
+"kind": "person",
+"name": "Orlov, Sergey",
+"nationality": "RU",
+"ref": "F00082-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Marlin Engineering AG",
+"regno": "CHE-269.512.810",
+"country": "CH",
+"ref": "F00082-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Walker, Charlotte",
+"nationality": "GB",
+"ref": "F00082-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00083",
+"country": "DE",
+"regno": "HRB 73477",
+"company": "Kingfisher Verpackung GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-21",
+"officers": [
+{
+"kind": "person",
+"name": "Schäfer, Uwe",
+"born": "18.09.1967",
+"city": "Hamburg",
+"ref": "F00083-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Arslan, Gülşen",
+"born": "08.04.1958",
+"city": "Bremen",
+"ref": "F00083-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00084",
+"country": "CN",
+"regno": "912040659501344104",
+"company": "Aurora Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "DMITRIY VOLKOV",
+"nationality": "CH",
+"ref": "F00084-o0"
+},
+{
+"kind": "person",
+"name": "YAN WU",
+"nationality": "CN",
+"ref": "F00084-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00085",
+"country": "CN",
+"regno": "912040659501344104",
+"company": "Aurora Trading Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2024-12-27",
+"filed": "2025-01-02",
+"officers": [
+{
+"kind": "person",
+"name": "DMITRIY VOLKOV",
+"nationality": "CH",
+"ref": "F00085-o0"
+},
+{
+"kind": "person",
+"name": "YAN WU",
+"nationality": "CN",
+"ref": "F00085-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00086",
+"country": "TR",
+"regno": "747799",
+"company": "Atlas Ticaret A.Ş.",
+"city": "Istanbul",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "MEHMET DEMIR",
+"nationality": "TR",
+"ref": "F00086-o0"
+},
+{
+"kind": "person",
+"name": "CHARLOTTE PRICE",
+"nationality": "GB",
+"ref": "F00086-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00087",
+"country": "DE",
+"regno": "HRB 72002",
+"company": "Bluewater Maschinenbau GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Hao",
+"born": "25.02.1983",
+"city": "Bremen",
+"ref": "F00087-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Zhang, Yan",
+"born": "22.10.1970",
+"city": "Hamburg",
+"ref": "F00087-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00088",
+"country": "DE",
+"regno": "HRB 72002",
+"company": "Bluewater Maschinenbau GmbH",
+"city": "Hamburg",
+"effective": "2025-07-22",
+"filed": "2025-08-16",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Farsi, Youssef",
+"born": "07.01.1974",
+"city": "Frankfurt am Main",
+"ref": "F00088-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Zhang, Yan",
+"born": "22.10.1970",
+"city": "Bremen",
+"ref": "F00088-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00089",
+"country": "GB",
+"regno": "02260602",
+"company": "STERLING COMPONENTS LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "AL-FARSI, Youssef",
+"born": "January 1974",
+"nationality": "CY",
+"ref": "F00089-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "POLARIS CAPITAL LTD",
+"regno": null,
+"country": "VG",
+"ref": "F00089-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00090",
+"country": "NL",
+"regno": "82273142",
+"company": "Foxglove Components B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "A. Shcherbakov",
+"born": "1972-02-06",
+"ref": "F00090-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Valiant General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00090-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "D. Zhukov",
+"born": "1956-03-24",
+"ref": "F00090-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00091",
+"country": "NL",
+"regno": "82273142",
+"company": "Foxglove Components B.V.",
+"city": "Amsterdam",
+"effective": "2024-01-04",
+"filed": "2024-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "A. Shcherbakov",
+"born": "1972-02-06",
+"ref": "F00091-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "D. Zhukov",
+"born": "1956-03-24",
+"ref": "F00091-s0",
+"pct": 49.0
+},
+{
+"kind": "company",
+"name": "Nordwind General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00091-s1",
+"pct": 51.0
+}
+]
+},
+{
+"id": "F00092",
+"country": "CH",
+"regno": "CHE-984.417.303",
+"company": "Northgate Commodities AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Li",
+"nationality": "CN",
+"ref": "F00092-o0"
+},
+{
+"kind": "person",
+"name": "Müller, Anna",
+"nationality": "DE",
+"ref": "F00092-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Driftwood Holdings LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00092-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00093",
+"country": "GB",
+"regno": "09422289",
+"company": "GRANITE TRADING LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "DEMIR, Ayse",
+"born": "January 1983",
+"nationality": "CH",
+"ref": "F00093-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "WRENFIELD INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00093-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00094",
+"country": "GB",
+"regno": "03971613",
+"company": "CORVUS TRADING LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "GROSS, Katrin",
+"born": "September 1950",
+"nationality": "DE",
+"ref": "F00094-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "AL-RASHID, Mariam",
+"born": "May 1960",
+"nationality": "CH",
+"ref": "F00094-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "HUANG, Jing",
+"born": "June 1965",
+"nationality": "CN",
+"ref": "F00094-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00095",
+"country": "CH",
+"regno": "CHE-601.783.589",
+"company": "Ironbridge Trading AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "Krüger, Jürgen",
+"nationality": "DE",
+"ref": "F00095-o0"
+},
+{
+"kind": "person",
+"name": "Yang, Mei",
+"nationality": "CN",
+"ref": "F00095-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Müller, Anna",
+"nationality": "DE",
+"ref": "F00095-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00096",
+"country": "CH",
+"regno": "CHE-601.783.589",
+"company": "Ironbridge Trading AG",
+"city": "Geneva",
+"effective": "2026-01-29",
+"filed": "2026-02-16",
+"officers": [
+{
+"kind": "person",
+"name": "Yang, Mei",
+"nationality": "CN",
+"ref": "F00096-o0"
+},
+{
+"kind": "person",
+"name": "Wang, Mei",
+"nationality": "CN",
+"ref": "F00096-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Müller, Anna",
+"nationality": "DE",
+"ref": "F00096-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00097",
+"country": "DE",
+"regno": "HRB 93893",
+"company": "Falcon Crest Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "Çelik, İlker",
+"born": "20.02.1985",
+"city": "Leipzig",
+"ref": "F00097-o0"
+},
+{
+"kind": "person",
+"name": "Wu, Hao",
+"born": "01.09.1972",
+"city": "Leipzig",
+"ref": "F00097-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Components B.V.",
+"regno": "44430235",
+"country": "NL",
+"ref": "F00097-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00098",
+"country": "DE",
+"regno": "HRB 93893",
+"company": "Falcon Crest Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2025-09-08",
+"filed": "2025-10-02",
+"officers": [
+{
+"kind": "person",
+"name": "Wu, Hao",
+"born": "01.09.1972",
+"city": "Leipzig",
+"ref": "F00098-o0"
+},
+{
+"kind": "person",
+"name": "Zhao, Mei",
+"born": "11.09.1973",
+"city": "Hamburg",
+"ref": "F00098-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Components B.V.",
+"regno": "44430235",
+"country": "NL",
+"ref": "F00098-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00099",
+"country": "DE",
+"regno": "HRB 89960",
+"company": "Trident Maschinenbau GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "Demir, Ayşe",
+"born": "13.10.1968",
+"city": "Hamburg",
+"ref": "F00099-o0"
+},
+{
+"kind": "person",
+"name": "Aydın, İlker",
+"born": "28.02.1962",
+"city": "Leipzig",
+"ref": "F00099-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Emberly Holdings LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00099-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00100",
+"country": "DE",
+"regno": "HRB 75599",
+"company": "Bluewater Logistik GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-18",
+"officers": [
+{
+"kind": "person",
+"name": "Smith, Edward",
+"born": "12.01.1984",
+"city": "Frankfurt am Main",
+"ref": "F00100-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Wagner, Stefan",
+"born": "01.05.1969",
+"city": "Stuttgart",
+"ref": "F00100-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00101",
+"country": "DE",
+"regno": "HRB 75599",
+"company": "Bluewater Logistik GmbH",
+"city": "Hamburg",
+"effective": "2025-07-28",
+"filed": "2025-08-11",
+"officers": [
+{
+"kind": "person",
+"name": "Müller, Jürgen",
+"born": "08.11.1952",
+"city": "Frankfurt am Main",
+"ref": "F00101-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Wagner, Stefan",
+"born": "01.05.1969",
+"city": "Stuttgart",
+"ref": "F00101-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00102",
+"country": "CH",
+"regno": "CHE-821.345.545",
+"company": "Kingfisher Engineering AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Amiri, Omar",
+"nationality": "AE",
+"ref": "F00102-o0"
+},
+{
+"kind": "person",
+"name": "Güneş, Barış",
+"nationality": "DE",
+"ref": "F00102-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Northgate Logistics B.V.",
+"regno": "70909506",
+"country": "NL",
+"ref": "F00102-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Fletcher, Thomas",
+"nationality": "AE",
+"ref": "F00102-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00103",
+"country": "CH",
+"regno": "CHE-821.345.545",
+"company": "Kingfisher Engineering AG",
+"city": "Geneva",
+"effective": "2024-07-04",
+"filed": "2024-07-18",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Amiri, Omar",
+"nationality": "AE",
+"ref": "F00103-o0"
+},
+{
+"kind": "person",
+"name": "Turner, Sarah",
+"nationality": "DE",
+"ref": "F00103-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Northgate Logistics B.V.",
+"regno": "70909506",
+"country": "NL",
+"ref": "F00103-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Fletcher, Thomas",
+"nationality": "AE",
+"ref": "F00103-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00104",
+"country": "DE",
+"regno": "HRB 15433",
+"company": "Redstone Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Mansouri, Hassan",
+"born": "03.02.1984",
+"city": "Frankfurt am Main",
+"ref": "F00104-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00104-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00105",
+"country": "DE",
+"regno": "HRB 15433",
+"company": "Redstone Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-10-13",
+"filed": "2023-10-25",
+"officers": [
+{
+"kind": "person",
+"name": "Price, Lucy",
+"born": "19.06.1952",
+"city": "Frankfurt am Main",
+"ref": "F00105-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00105-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00106",
+"country": "DE",
+"regno": "HRB 61840",
+"company": "Lindenhof Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Oleg",
+"born": "07.03.1977",
+"city": "Hamburg",
+"ref": "F00106-o0"
+},
+{
+"kind": "person",
+"name": "Groß, Jürgen",
+"born": "03.09.1960",
+"city": "Bremen",
+"ref": "F00106-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Seefeld Components B.V.",
+"regno": "34426131",
+"country": "NL",
+"ref": "F00106-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Khoury, Nour",
+"born": "15.02.1971",
+"city": "Stuttgart",
+"ref": "F00106-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00107",
+"country": "DE",
+"regno": "HRB 61840",
+"company": "Lindenhof Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-07-11",
+"filed": "2023-07-23",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Oleg",
+"born": "07.03.1977",
+"city": "Bremen",
+"ref": "F00107-o0"
+},
+{
+"kind": "person",
+"name": "Orlov, Dmitriy",
+"born": "17.06.1969",
+"city": "Bremen",
+"ref": "F00107-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Seefeld Components B.V.",
+"regno": "34426131",
+"country": "NL",
+"ref": "F00107-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Khoury, Nour",
+"born": "15.02.1971",
+"city": "Stuttgart",
+"ref": "F00107-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00108",
+"country": "NL",
+"regno": "89620395",
+"company": "Umber Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "S. Turner",
+"born": "1957-07-05",
+"ref": "F00108-o0"
+},
+{
+"kind": "person",
+"name": "F. Chen",
+"born": "1963-10-02",
+"ref": "F00108-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "W. Zhou",
+"born": "1957-10-07",
+"ref": "F00108-s0",
+"pct": 74.0
+},
+{
+"kind": "person",
+"name": "H. Al-Mansouri",
+"born": "1981-12-29",
+"ref": "F00108-s1",
+"pct": 26.0
+}
+]
+},
+{
+"id": "F00109",
+"country": "NL",
+"regno": "89620395",
+"company": "Umber Trading B.V.",
+"city": "Amsterdam",
+"effective": "2025-07-10",
+"filed": "2025-07-17",
+"officers": [
+{
+"kind": "person",
+"name": "F. Chen",
+"born": "1963-10-02",
+"ref": "F00109-o0"
+},
+{
+"kind": "person",
+"name": "D. Grigoryev",
+"born": "1981-04-23",
+"ref": "F00109-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "W. Zhou",
+"born": "1957-10-07",
+"ref": "F00109-s0",
+"pct": 74.0
+},
+{
+"kind": "person",
+"name": "H. Al-Mansouri",
+"born": "1981-12-29",
+"ref": "F00109-s1",
+"pct": 26.0
+}
+]
+},
+{
+"id": "F00110",
+"country": "GB",
+"regno": "11621453",
+"company": "UMBER TRADING LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-25",
+"officers": [
+{
+"kind": "person",
+"name": "LI, Mei",
+"born": "October 1957",
+"nationality": "CH",
+"ref": "F00110-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "SILVERLINE HOLDINGS LTD",
+"regno": "HE 295975",
+"country": "CY",
+"ref": "F00110-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00111",
+"country": "GB",
+"regno": "11621453",
+"company": "UMBER TRADING LTD",
+"city": "Leeds",
+"effective": "2023-03-22",
+"filed": "2023-04-15",
+"officers": [
+{
+"kind": "person",
+"name": "SALEH, Nour",
+"born": "February 1986",
+"nationality": "AE",
+"ref": "F00111-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "SILVERLINE HOLDINGS LTD",
+"regno": "HE 295975",
+"country": "CY",
+"ref": "F00111-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00112",
+"country": "GB",
+"regno": "11621453",
+"company": "UMBER TRADING LTD",
+"city": "Leeds",
+"effective": "2024-09-08",
+"filed": "2024-09-14",
+"officers": [
+{
+"kind": "person",
+"name": "SALEH, Nour",
+"born": "February 1986",
+"nationality": "AE",
+"ref": "F00112-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "CRESCENT HOLDINGS LTD",
+"regno": "HE 126046",
+"country": "CY",
+"ref": "F00112-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00113",
+"country": "GB",
+"regno": "02783405",
+"company": "TAMARIND COMPONENTS LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "DEMIR, Ayse",
+"born": "January 1983",
+"nationality": "CH",
+"ref": "F00113-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "SHCHERBAKOV, Vladimir Vladimirovich",
+"born": "July 1985",
+"nationality": "CY",
+"ref": "F00113-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "BELYAYEV, Yelena",
+"born": "February 1969",
+"nationality": "RU",
+"ref": "F00113-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00114",
+"country": "TR",
+"regno": "710406",
+"company": "Lindenhof Ticaret A.Ş.",
+"city": "Istanbul",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "JUN LIU",
+"nationality": "CN",
+"ref": "F00114-o0"
+},
+{
+"kind": "person",
+"name": "CHARLOTTE WALKER",
+"nationality": "GB",
+"ref": "F00114-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00115",
+"country": "DE",
+"regno": "HRB 61533",
+"company": "Atlas Elektronik GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "Fuchs, Jörg",
+"born": "19.02.1973",
+"city": "Stuttgart",
+"ref": "F00115-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Hamdan, Ahmed",
+"born": "19.06.1989",
+"city": "Bremen",
+"ref": "F00115-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Price, Thomas",
+"born": "30.03.1961",
+"city": "Stuttgart",
+"ref": "F00115-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00116",
+"country": "GB",
+"regno": "08127639",
+"company": "GOLDCREST LOGISTICS LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "NASSER, Abdullah",
+"born": "September 1971",
+"nationality": "AE",
+"ref": "F00116-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "WESTBROOK INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00116-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00117",
+"country": "NL",
+"regno": "10558515",
+"company": "Helios Trading B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "O. Fletcher",
+"born": "1959-11-18",
+"ref": "F00117-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "K. Groß",
+"born": "1959-09-16",
+"ref": "F00117-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00118",
+"country": "NL",
+"regno": "10558515",
+"company": "Helios Trading B.V.",
+"city": "Rotterdam",
+"effective": "2023-06-20",
+"filed": "2023-07-07",
+"officers": [
+{
+"kind": "person",
+"name": "O. Fletcher",
+"born": "1959-11-18",
+"ref": "F00118-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "C. Bennett",
+"born": "1978-07-28",
+"ref": "F00118-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00119",
+"country": "NL",
+"regno": "10558515",
+"company": "Helios Trading B.V.",
+"city": "Rotterdam",
+"effective": "2025-03-03",
+"filed": "2025-03-15",
+"officers": [
+{
+"kind": "person",
+"name": "H. Smith",
+"born": "1974-04-05",
+"ref": "F00119-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "C. Bennett",
+"born": "1978-07-28",
+"ref": "F00119-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00120",
+"country": "DE",
+"regno": "HRB 13489",
+"company": "Driftwood Elektronik GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "Kaya, Özlem",
+"born": "04.07.1970",
+"city": "Frankfurt am Main",
+"ref": "F00120-o0"
+},
+{
+"kind": "person",
+"name": "Semyonov, Aleksandr",
+"born": "06.01.1966",
+"city": "Frankfurt am Main",
+"ref": "F00120-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Westbrook Investments Ltd",
+"regno": "HE 165224",
+"country": "CY",
+"ref": "F00120-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00121",
+"country": "DE",
+"regno": "HRB 13489",
+"company": "Driftwood Elektronik GmbH",
+"city": "Hamburg",
+"effective": "2025-05-10",
+"filed": "2025-05-28",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Aleksandr",
+"born": "06.01.1966",
+"city": "Stuttgart",
+"ref": "F00121-o0"
+},
+{
+"kind": "person",
+"name": "Zhou, Yan",
+"born": "01.07.1962",
+"city": "Leipzig",
+"ref": "F00121-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Westbrook Investments Ltd",
+"regno": "HE 165224",
+"country": "CY",
+"ref": "F00121-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00122",
+"country": "GB",
+"regno": "08585084",
+"company": "AURORA ENGINEERING LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "KHOURY, Abdullah",
+"born": "May 1956",
+"nationality": "AE",
+"ref": "F00122-o0"
+},
+{
+"kind": "person",
+"name": "WRIGHT, Lucy",
+"born": "December 1951",
+"nationality": "GB",
+"ref": "F00122-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "LINDENHOF INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00122-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00123",
+"country": "GB",
+"regno": "08585084",
+"company": "AURORA ENGINEERING LTD",
+"city": "Leeds",
+"effective": "2025-02-04",
+"filed": "2025-02-26",
+"officers": [
+{
+"kind": "person",
+"name": "KHOURY, Abdullah",
+"born": "May 1956",
+"nationality": "AE",
+"ref": "F00123-o0"
+},
+{
+"kind": "person",
+"name": "WRIGHT, Lucy",
+"born": "December 1951",
+"nationality": "GB",
+"ref": "F00123-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "ASHFORD SHIPPING LTD",
+"regno": "HE 345590",
+"country": "CY",
+"ref": "F00123-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00124",
+"country": "NL",
+"regno": "57961965",
+"company": "Granite Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-18",
+"officers": [
+{
+"kind": "person",
+"name": "T. Nasser",
+"born": "1964-02-14",
+"ref": "F00124-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "A. Orlov",
+"born": "1962-06-22",
+"ref": "F00124-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00125",
+"country": "NL",
+"regno": "57961965",
+"company": "Granite Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2025-09-26",
+"filed": "2025-10-10",
+"officers": [
+{
+"kind": "person",
+"name": "T. Nasser",
+"born": "1964-02-14",
+"ref": "F00125-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "W. Zhou",
+"born": "1957-10-07",
+"ref": "F00125-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00126",
+"country": "DE",
+"regno": "HRB 54830",
+"company": "Vega Chemie GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-04",
+"officers": [
+{
+"kind": "person",
+"name": "Fletcher, Olivia",
+"born": "10.02.1971",
+"city": "Bremen",
+"ref": "F00126-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Ironbridge Investments Ltd",
+"regno": "HE 123780",
+"country": "CY",
+"ref": "F00126-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00127",
+"country": "DE",
+"regno": "HRB 54830",
+"company": "Vega Chemie GmbH",
+"city": "Hamburg",
+"effective": "2026-05-31",
+"filed": "2026-06-20",
+"officers": [
+{
+"kind": "person",
+"name": "Fletcher, Olivia",
+"born": "10.02.1971",
+"city": "Bremen",
+"ref": "F00127-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Brightwater Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00127-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00128",
+"country": "DE",
+"regno": "HRB 19872",
+"company": "Goldcrest Handel GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "Aydın, İlker",
+"born": "28.02.1962",
+"city": "Leipzig",
+"ref": "F00128-o0"
+},
+{
+"kind": "person",
+"name": "Al-Mansouri, Youssef",
+"born": "24.08.1979",
+"city": "Frankfurt am Main",
+"ref": "F00128-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Schmidt, Stefan",
+"born": "31.03.1964",
+"city": "Stuttgart",
+"ref": "F00128-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00129",
+"country": "DE",
+"regno": "HRB 19872",
+"company": "Goldcrest Handel GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-07-12",
+"filed": "2023-08-05",
+"officers": [
+{
+"kind": "person",
+"name": "Aydın, İlker",
+"born": "28.02.1962",
+"city": "Leipzig",
+"ref": "F00129-o0"
+},
+{
+"kind": "person",
+"name": "Fuchs, Julia",
+"born": "04.07.1976",
+"city": "Frankfurt am Main",
+"ref": "F00129-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Schmidt, Stefan",
+"born": "31.03.1964",
+"city": "Bremen",
+"ref": "F00129-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00130",
+"country": "DE",
+"regno": "HRB 27592",
+"company": "Quarry Hill Verpackung GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "Harrison, James",
+"born": "11.11.1975",
+"city": "Bremen",
+"ref": "F00130-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Kaya, Ayşe",
+"born": "13.07.1954",
+"city": "Stuttgart",
+"ref": "F00130-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Müller, Jürgen",
+"born": "05.03.1987",
+"city": "Leipzig",
+"ref": "F00130-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00131",
+"country": "DE",
+"regno": "HRB 27592",
+"company": "Quarry Hill Verpackung GmbH",
+"city": "Leipzig",
+"effective": "2024-01-12",
+"filed": "2024-02-05",
+"officers": [
+{
+"kind": "person",
+"name": "Harrison, James",
+"born": "11.11.1975",
+"city": "Hamburg",
+"ref": "F00131-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Müller, Jürgen",
+"born": "05.03.1987",
+"city": "Hamburg",
+"ref": "F00131-s0",
+"pct": 50.0
+},
+{
+"kind": "company",
+"name": "Brightwater Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00131-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00132",
+"country": "DE",
+"regno": "HRB 57681",
+"company": "Orion Handel GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-17",
+"officers": [
+{
+"kind": "person",
+"name": "Hughes, Thomas",
+"born": "02.04.1981",
+"city": "Bremen",
+"ref": "F00132-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Oakridge Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00132-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00133",
+"country": "DE",
+"regno": "HRB 57681",
+"company": "Orion Handel GmbH",
+"city": "Bremen",
+"effective": "2025-08-11",
+"filed": "2025-09-04",
+"officers": [
+{
+"kind": "person",
+"name": "Wagner, Stefan",
+"born": "01.05.1969",
+"city": "Stuttgart",
+"ref": "F00133-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Oakridge Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00133-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00134",
+"country": "CN",
+"regno": "916918214750494447",
+"company": "Meridian Manufacturing Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2023-01-01",
+"filed": "2023-01-21",
+"officers": [
+{
+"kind": "person",
+"name": "YAN WU",
+"nationality": "CN",
+"ref": "F00134-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00135",
+"country": "CN",
+"regno": "916918214750494447",
+"company": "Meridian Manufacturing Co., Ltd.",
+"city": "Shenzhen",
+"effective": "2024-08-02",
+"filed": "2024-08-13",
+"officers": [
+{
+"kind": "person",
+"name": "YAN WU",
+"nationality": "CN",
+"ref": "F00135-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00136",
+"country": "DE",
+"regno": "HRB 60862",
+"company": "Eastwind Elektronik GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Li",
+"born": "23.06.1984",
+"city": "Bremen",
+"ref": "F00136-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Schmidt, Klaus",
+"born": "17.01.1974",
+"city": "Stuttgart",
+"ref": "F00136-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00137",
+"country": "DE",
+"regno": "HRB 60862",
+"company": "Eastwind Elektronik GmbH",
+"city": "Hamburg",
+"effective": "2024-06-07",
+"filed": "2024-06-15",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Li",
+"born": "23.06.1984",
+"city": "Bremen",
+"ref": "F00137-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Müller, Stefan",
+"born": "31.10.1953",
+"city": "Frankfurt am Main",
+"ref": "F00137-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00138",
+"country": "DE",
+"regno": "HRB 83088",
+"company": "Elbe Chemie GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "Schmidt, Julia",
+"born": "03.03.1952",
+"city": "Stuttgart",
+"ref": "F00138-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00138-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00139",
+"country": "DE",
+"regno": "HRB 83088",
+"company": "Elbe Chemie GmbH",
+"city": "Leipzig",
+"effective": "2024-02-03",
+"filed": "2024-02-25",
+"officers": [
+{
+"kind": "person",
+"name": "Schmidt, Julia",
+"born": "03.03.1952",
+"city": "Frankfurt am Main",
+"ref": "F00139-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Arslan, Ayşe",
+"born": "16.12.1966",
+"city": "Stuttgart",
+"ref": "F00139-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00140",
+"country": "DE",
+"regno": "HRB 83088",
+"company": "Elbe Chemie GmbH",
+"city": "Leipzig",
+"effective": "2025-08-03",
+"filed": "2025-08-28",
+"officers": [
+{
+"kind": "person",
+"name": "Bennett, Robert",
+"born": "21.09.1974",
+"city": "Frankfurt am Main",
+"ref": "F00140-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Arslan, Ayşe",
+"born": "16.12.1966",
+"city": "Frankfurt am Main",
+"ref": "F00140-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00141",
+"country": "DE",
+"regno": "HRB 29349",
+"company": "Highmoor Elektronik GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "Zhang, Qiang",
+"born": "04.12.1961",
+"city": "Bremen",
+"ref": "F00141-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Crescent Holdings Ltd",
+"regno": "HE 126046",
+"country": "CY",
+"ref": "F00141-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00142",
+"country": "DE",
+"regno": "HRB 29349",
+"company": "Highmoor Elektronik GmbH",
+"city": "Leipzig",
+"effective": "2026-02-14",
+"filed": "2026-02-27",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Hashimi, Nour",
+"born": "10.06.1978",
+"city": "Stuttgart",
+"ref": "F00142-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Crescent Holdings Ltd",
+"regno": "HE 126046",
+"country": "CY",
+"ref": "F00142-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00143",
+"country": "GB",
+"regno": "10841937",
+"company": "POLARIS COMPONENTS LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-12",
+"officers": [
+{
+"kind": "person",
+"name": "SCHMIDT, Stefan",
+"born": "August 1953",
+"nationality": "CY",
+"ref": "F00143-o0"
+},
+{
+"kind": "person",
+"name": "SHCHERBAKOV, Yuriy Yuryevich",
+"born": "May 1962",
+"nationality": "RU",
+"ref": "F00143-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "KHOURY, Omar",
+"born": "January 1957",
+"nationality": "AE",
+"ref": "F00143-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "WALKER, Charlotte",
+"born": "May 1953",
+"nationality": "GB",
+"ref": "F00143-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00144",
+"country": "CH",
+"regno": "CHE-352.329.163",
+"company": "Baltic Star Commodities AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Belyayev, Tatyana",
+"nationality": "RU",
+"ref": "F00144-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Oakridge Holdings Ltd",
+"regno": "HE 118434",
+"country": "CY",
+"ref": "F00144-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Xu, Li",
+"nationality": "CN",
+"ref": "F00144-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00145",
+"country": "CH",
+"regno": "CHE-352.329.163",
+"company": "Baltic Star Commodities AG",
+"city": "Geneva",
+"effective": "2024-05-29",
+"filed": "2024-06-14",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Ming",
+"nationality": "CN",
+"ref": "F00145-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Oakridge Holdings Ltd",
+"regno": "HE 118434",
+"country": "CY",
+"ref": "F00145-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Xu, Li",
+"nationality": "CN",
+"ref": "F00145-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00146",
+"country": "DE",
+"regno": "HRB 76143",
+"company": "Sterling Maschinenbau GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "Wagner, Klaus",
+"born": "07.11.1955",
+"city": "Leipzig",
+"ref": "F00146-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Redstone Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00146-s0",
+"pct": 90.0
+},
+{
+"kind": "person",
+"name": "Schmidt, Sabine",
+"born": "02.09.1988",
+"city": "Leipzig",
+"ref": "F00146-s1",
+"pct": 10.0
+}
+]
+},
+{
+"id": "F00147",
+"country": "DE",
+"regno": "HRB 16710",
+"company": "Eastwind Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-21",
+"officers": [
+{
+"kind": "person",
+"name": "Zhou, Jun",
+"born": "26.03.1959",
+"city": "Leipzig",
+"ref": "F00147-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nordwind General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00147-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Orlov, Natalya",
+"born": "10.10.1960",
+"city": "Stuttgart",
+"ref": "F00147-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00148",
+"country": "DE",
+"regno": "HRB 16710",
+"company": "Eastwind Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-12-08",
+"filed": "2023-12-31",
+"officers": [
+{
+"kind": "person",
+"name": "Zhou, Jun",
+"born": "26.03.1959",
+"city": "Bremen",
+"ref": "F00148-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Orlov, Natalya",
+"born": "10.10.1960",
+"city": "Hamburg",
+"ref": "F00148-s0",
+"pct": 25.0
+},
+{
+"kind": "person",
+"name": "Volkov, Vladimir",
+"born": "26.11.1955",
+"city": "Frankfurt am Main",
+"ref": "F00148-s1",
+"pct": 75.0
+}
+]
+},
+{
+"id": "F00149",
+"country": "NL",
+"regno": "49066439",
+"company": "Larch Trading B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "Y. Zhang",
+"born": "1970-10-22",
+"ref": "F00149-o0"
+},
+{
+"kind": "person",
+"name": "E. Turner",
+"born": "1967-11-27",
+"ref": "F00149-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00149-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00150",
+"country": "NL",
+"regno": "16234220",
+"company": "Driftwood Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "T. Yakovlev",
+"born": "1986-08-04",
+"ref": "F00150-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "L. Wagner",
+"born": "1954-02-16",
+"ref": "F00150-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00151",
+"country": "NL",
+"regno": "84217395",
+"company": "Foxglove Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "J. Krüger",
+"born": "1969-12-15",
+"ref": "F00151-o0"
+},
+{
+"kind": "person",
+"name": "B. Schäfer",
+"born": "1963-01-10",
+"ref": "F00151-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "S. Semyonov",
+"born": "1956-03-15",
+"ref": "F00151-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00152",
+"country": "NL",
+"regno": "84217395",
+"company": "Foxglove Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2023-07-12",
+"filed": "2023-07-30",
+"officers": [
+{
+"kind": "person",
+"name": "J. Krüger",
+"born": "1969-12-15",
+"ref": "F00152-o0"
+},
+{
+"kind": "person",
+"name": "R. Walker",
+"born": "1954-06-08",
+"ref": "F00152-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "S. Semyonov",
+"born": "1956-03-15",
+"ref": "F00152-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00153",
+"country": "NL",
+"regno": "82239158",
+"company": "Larch Components B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "K. Fuchs",
+"born": "1974-10-11",
+"ref": "F00153-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Silverline Holdings Ltd",
+"regno": "HE 295975",
+"country": "CY",
+"ref": "F00153-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00154",
+"country": "NL",
+"regno": "82239158",
+"company": "Larch Components B.V.",
+"city": "Amsterdam",
+"effective": "2025-06-06",
+"filed": "2025-06-22",
+"officers": [
+{
+"kind": "person",
+"name": "K. Fuchs",
+"born": "1974-10-11",
+"ref": "F00154-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Baltic Star Investments Ltd",
+"regno": "HE 429106",
+"country": "CY",
+"ref": "F00154-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00155",
+"country": "CH",
+"regno": "CHE-742.676.885",
+"company": "Redstone Trading AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "Fuchs, Katrin",
+"nationality": "DE",
+"ref": "F00155-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Müller, Stefan",
+"nationality": "DE",
+"ref": "F00155-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Volkov, Andrey",
+"nationality": "RU",
+"ref": "F00155-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00156",
+"country": "CH",
+"regno": "CHE-742.676.885",
+"company": "Redstone Trading AG",
+"city": "Lugano",
+"effective": "2024-06-26",
+"filed": "2024-07-05",
+"officers": [
+{
+"kind": "person",
+"name": "Hoffmann, Lena",
+"nationality": "DE",
+"ref": "F00156-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Müller, Stefan",
+"nationality": "DE",
+"ref": "F00156-s0",
+"pct": 50.0
+},
+{
+"kind": "person",
+"name": "Volkov, Andrey",
+"nationality": "RU",
+"ref": "F00156-s1",
+"pct": 50.0
+}
+]
+},
+{
+"id": "F00157",
+"country": "GB",
+"regno": "04698024",
+"company": "STERLING CHEMICALS LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "LIU, Hao",
+"born": "February 1983",
+"nationality": "CN",
+"ref": "F00157-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "TRIDENT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00157-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00158",
+"country": "DE",
+"regno": "HRB 99048",
+"company": "Zephyr Maschinenbau GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "Bennett, Robert",
+"born": "21.09.1974",
+"city": "Leipzig",
+"ref": "F00158-o0"
+},
+{
+"kind": "person",
+"name": "Wagner, Jörg",
+"born": "06.08.1982",
+"city": "Frankfurt am Main",
+"ref": "F00158-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Ironbridge Holdings LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00158-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00159",
+"country": "DE",
+"regno": "HRB 99048",
+"company": "Zephyr Maschinenbau GmbH",
+"city": "Hamburg",
+"effective": "2024-10-04",
+"filed": "2024-10-25",
+"officers": [
+{
+"kind": "person",
+"name": "Bennett, Robert",
+"born": "21.09.1974",
+"city": "Leipzig",
+"ref": "F00159-o0"
+},
+{
+"kind": "person",
+"name": "Wagner, Jörg",
+"born": "06.08.1982",
+"city": "Leipzig",
+"ref": "F00159-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Price, Lucy",
+"born": "08.01.1952",
+"city": "Stuttgart",
+"ref": "F00159-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00160",
+"country": "DE",
+"regno": "HRB 55663",
+"company": "Elbe Handel GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "Chen, Jing",
+"born": "26.06.1969",
+"city": "Bremen",
+"ref": "F00160-o0"
+},
+{
+"kind": "person",
+"name": "Sun, Li",
+"born": "23.06.1984",
+"city": "Hamburg",
+"ref": "F00160-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Foxglove Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00160-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00161",
+"country": "DE",
+"regno": "HRB 55663",
+"company": "Elbe Handel GmbH",
+"city": "Leipzig",
+"effective": "2026-01-01",
+"filed": "2026-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Li",
+"born": "23.06.1984",
+"city": "Leipzig",
+"ref": "F00161-o0"
+},
+{
+"kind": "person",
+"name": "Li, Jing",
+"born": "25.08.1979",
+"city": "Frankfurt am Main",
+"ref": "F00161-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Foxglove Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00161-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00162",
+"country": "DE",
+"regno": "HRB 18264",
+"company": "Alder Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-17",
+"officers": [
+{
+"kind": "person",
+"name": "Demir, Barış",
+"born": "05.05.1974",
+"city": "Bremen",
+"ref": "F00162-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00162-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Groß, Katrin",
+"born": "19.09.1950",
+"city": "Frankfurt am Main",
+"ref": "F00162-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00163",
+"country": "DE",
+"regno": "HRB 18264",
+"company": "Alder Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-11-08",
+"filed": "2023-11-30",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Mikhail",
+"born": "18.04.1961",
+"city": "Bremen",
+"ref": "F00163-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00163-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Groß, Katrin",
+"born": "19.09.1950",
+"city": "Hamburg",
+"ref": "F00163-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00164",
+"country": "DE",
+"regno": "HRB 18264",
+"company": "Alder Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2025-02-08",
+"filed": "2025-02-17",
+"officers": [
+{
+"kind": "person",
+"name": "Volkov, Mikhail",
+"born": "18.04.1961",
+"city": "Bremen",
+"ref": "F00164-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Groß, Katrin",
+"born": "19.09.1950",
+"city": "Bremen",
+"ref": "F00164-s0",
+"pct": 25.0
+},
+{
+"kind": "person",
+"name": "Bennett, Sarah",
+"born": "28.12.1986",
+"city": "Leipzig",
+"ref": "F00164-s1",
+"pct": 75.0
+}
+]
+},
+{
+"id": "F00165",
+"country": "GB",
+"regno": "14884336",
+"company": "KINGFISHER TRADING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "BELYAYEV, Tatyana",
+"born": "August 1975",
+"nationality": "RU",
+"ref": "F00165-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "ZEPHYR INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00165-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00166",
+"country": "DE",
+"regno": "HRB 57448",
+"company": "Crescent Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Mei",
+"born": "18.04.1963",
+"city": "Bremen",
+"ref": "F00166-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Polaris Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00166-s0",
+"pct": 90.0
+},
+{
+"kind": "person",
+"name": "Yakovlev, Yelena",
+"born": "18.07.1966",
+"city": "Bremen",
+"ref": "F00166-s1",
+"pct": 10.0
+}
+]
+},
+{
+"id": "F00167",
+"country": "DE",
+"regno": "HRB 57448",
+"company": "Crescent Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-07-30",
+"filed": "2023-08-10",
+"officers": [
+{
+"kind": "person",
+"name": "Grigoryev, Dmitriy",
+"born": "23.04.1981",
+"city": "Hamburg",
+"ref": "F00167-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Polaris Capital Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00167-s0",
+"pct": 90.0
+},
+{
+"kind": "person",
+"name": "Yakovlev, Yelena",
+"born": "18.07.1966",
+"city": "Hamburg",
+"ref": "F00167-s1",
+"pct": 10.0
+}
+]
+},
+{
+"id": "F00168",
+"country": "DE",
+"regno": "HRB 21725",
+"company": "Orion Chemie GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "Zhukov, Yuriy",
+"born": "03.08.1972",
+"city": "Frankfurt am Main",
+"ref": "F00168-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Yang, Xiu Ying",
+"born": "21.04.1989",
+"city": "Leipzig",
+"ref": "F00168-s0",
+"pct": 74.0
+},
+{
+"kind": "person",
+"name": "Koç, Çağrı",
+"born": "13.03.1963",
+"city": "Frankfurt am Main",
+"ref": "F00168-s1",
+"pct": 26.0
+}
+]
+},
+{
+"id": "F00169",
+"country": "DE",
+"regno": "HRB 21725",
+"company": "Orion Chemie GmbH",
+"city": "Hamburg",
+"effective": "2023-08-19",
+"filed": "2023-09-13",
+"officers": [
+{
+"kind": "person",
+"name": "Groß, Birgit",
+"born": "23.03.1969",
+"city": "Hamburg",
+"ref": "F00169-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Yang, Xiu Ying",
+"born": "21.04.1989",
+"city": "Frankfurt am Main",
+"ref": "F00169-s0",
+"pct": 74.0
+},
+{
+"kind": "person",
+"name": "Koç, Çağrı",
+"born": "13.03.1963",
+"city": "Frankfurt am Main",
+"ref": "F00169-s1",
+"pct": 26.0
+}
+]
+},
+{
+"id": "F00170",
+"country": "DE",
+"regno": "HRB 77984",
+"company": "Corvus Chemie GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Liu, Hao",
+"born": "25.02.1983",
+"city": "Bremen",
+"ref": "F00170-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Khoury, Omar",
+"born": "09.01.1957",
+"city": "Stuttgart",
+"ref": "F00170-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Yakovlev, Yelena",
+"born": "18.07.1966",
+"city": "Stuttgart",
+"ref": "F00170-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00171",
+"country": "DE",
+"regno": "HRB 77984",
+"company": "Corvus Chemie GmbH",
+"city": "Bremen",
+"effective": "2023-05-01",
+"filed": "2023-05-14",
+"officers": [
+{
+"kind": "person",
+"name": "Haddad, Mohammed",
+"born": "09.01.1989",
+"city": "Frankfurt am Main",
+"ref": "F00171-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Khoury, Omar",
+"born": "09.01.1957",
+"city": "Stuttgart",
+"ref": "F00171-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Yakovlev, Yelena",
+"born": "18.07.1966",
+"city": "Stuttgart",
+"ref": "F00171-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00172",
+"country": "CH",
+"regno": "CHE-233.609.941",
+"company": "Cobalt Trading AG",
+"city": "Zug",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Becker, Jörg",
+"nationality": "DE",
+"ref": "F00172-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Sun, Wei",
+"nationality": "CN",
+"ref": "F00172-s0",
+"pct": 74.0
+},
+{
+"kind": "person",
+"name": "Kuznetsov, Dmitriy",
+"nationality": "RU",
+"ref": "F00172-s1",
+"pct": 26.0
+}
+]
+},
+{
+"id": "F00173",
+"country": "CH",
+"regno": "CHE-233.609.941",
+"company": "Cobalt Trading AG",
+"city": "Zug",
+"effective": "2024-09-09",
+"filed": "2024-09-19",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Mei",
+"nationality": "CN",
+"ref": "F00173-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Sun, Wei",
+"nationality": "CN",
+"ref": "F00173-s0",
+"pct": 74.0
+},
+{
+"kind": "person",
+"name": "Kuznetsov, Dmitriy",
+"nationality": "RU",
+"ref": "F00173-s1",
+"pct": 26.0
+}
+]
+},
+{
+"id": "F00174",
+"country": "NL",
+"regno": "32123348",
+"company": "Ironbridge Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "L. Price",
+"born": "1952-06-19",
+"ref": "F00174-o0"
+},
+{
+"kind": "person",
+"name": "L. Liu",
+"born": "1966-07-17",
+"ref": "F00174-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Kestrel Shipping Ltd",
+"regno": "HE 233490",
+"country": "CY",
+"ref": "F00174-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "C. Price",
+"born": "1986-04-12",
+"ref": "F00174-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00175",
+"country": "DE",
+"regno": "HRB 50001",
+"company": "Atlas Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-25",
+"officers": [
+{
+"kind": "person",
+"name": "Taylor, Hannah",
+"born": "07.06.1954",
+"city": "Frankfurt am Main",
+"ref": "F00175-o0"
+},
+{
+"kind": "person",
+"name": "Groß, Katrin",
+"born": "27.08.1971",
+"city": "Bremen",
+"ref": "F00175-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Foxglove Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00175-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00176",
+"country": "DE",
+"regno": "HRB 50001",
+"company": "Atlas Maschinenbau GmbH",
+"city": "Frankfurt am Main",
+"effective": "2025-10-17",
+"filed": "2025-11-10",
+"officers": [
+{
+"kind": "person",
+"name": "Groß, Katrin",
+"born": "27.08.1971",
+"city": "Bremen",
+"ref": "F00176-o0"
+},
+{
+"kind": "person",
+"name": "Becker, Katrin",
+"born": "10.10.1963",
+"city": "Hamburg",
+"ref": "F00176-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Foxglove Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00176-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00177",
+"country": "DE",
+"regno": "HRB 78848",
+"company": "Zephyr Chemie GmbH",
+"city": "Hamburg",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "Sun, Wei",
+"born": "21.06.1953",
+"city": "Bremen",
+"ref": "F00177-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Kingfisher Logistics B.V.",
+"regno": "75693122",
+"country": "NL",
+"ref": "F00177-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00178",
+"country": "DE",
+"regno": "HRB 78848",
+"company": "Zephyr Chemie GmbH",
+"city": "Hamburg",
+"effective": "2024-07-14",
+"filed": "2024-07-17",
+"officers": [
+{
+"kind": "person",
+"name": "Khoury, Abdullah",
+"born": "24.05.1956",
+"city": "Leipzig",
+"ref": "F00178-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Kingfisher Logistics B.V.",
+"regno": "75693122",
+"country": "NL",
+"ref": "F00178-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00179",
+"country": "NL",
+"regno": "66155750",
+"company": "Lindenhof Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "E. Turner",
+"born": "1957-06-06",
+"ref": "F00179-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Marlin Investments Ltd",
+"regno": "HE 385426",
+"country": "CY",
+"ref": "F00179-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00180",
+"country": "DE",
+"regno": "HRB 45680",
+"company": "Emberly Handel GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "Shcherbakov, Vladimir",
+"born": "17.04.1985",
+"city": "Stuttgart",
+"ref": "F00180-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Seefeld Components B.V.",
+"regno": "34426131",
+"country": "NL",
+"ref": "F00180-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00181",
+"country": "CN",
+"regno": "917611675542931575",
+"company": "Cobalt Trading Co., Ltd.",
+"city": "Ningbo",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "MARIAM AL-AMIRI",
+"nationality": "AE",
+"ref": "F00181-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00182",
+"country": "DE",
+"regno": "HRB 16627",
+"company": "Kestrel Elektronik GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "Groß, Lena",
+"born": "22.05.1982",
+"city": "Frankfurt am Main",
+"ref": "F00182-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Northgate Investments Ltd",
+"regno": "HE 420272",
+"country": "CY",
+"ref": "F00182-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00183",
+"country": "DE",
+"regno": "HRB 16627",
+"company": "Kestrel Elektronik GmbH",
+"city": "Bremen",
+"effective": "2023-06-18",
+"filed": "2023-06-24",
+"officers": [
+{
+"kind": "person",
+"name": "Chen, Jing",
+"born": "29.07.1984",
+"city": "Bremen",
+"ref": "F00183-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Northgate Investments Ltd",
+"regno": "HE 420272",
+"country": "CY",
+"ref": "F00183-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00184",
+"country": "DE",
+"regno": "HRB 16627",
+"company": "Kestrel Elektronik GmbH",
+"city": "Bremen",
+"effective": "2023-09-12",
+"filed": "2023-10-06",
+"officers": [
+{
+"kind": "person",
+"name": "Chen, Jing",
+"born": "29.07.1984",
+"city": "Stuttgart",
+"ref": "F00184-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Aurora Commodities AG",
+"regno": "CHE-599.838.914",
+"country": "CH",
+"ref": "F00184-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00185",
+"country": "CN",
+"regno": "915896094200578433",
+"company": "Oakridge Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "SABINE SCHMIDT",
+"nationality": "DE",
+"ref": "F00185-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00186",
+"country": "CN",
+"regno": "915896094200578433",
+"company": "Oakridge Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2023-08-07",
+"filed": "2023-08-10",
+"officers": [
+{
+"kind": "person",
+"name": "LI CHEN",
+"nationality": "CN",
+"ref": "F00186-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00187",
+"country": "CN",
+"regno": "915896094200578433",
+"company": "Oakridge Manufacturing Co., Ltd.",
+"city": "Ningbo",
+"effective": "2024-03-12",
+"filed": "2024-03-27",
+"officers": [
+{
+"kind": "person",
+"name": "LI CHEN",
+"nationality": "CN",
+"ref": "F00187-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00188",
+"country": "GB",
+"regno": "13422090",
+"company": "SILVERLINE LOGISTICS LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "HUGHES, Thomas",
+"born": "April 1981",
+"nationality": "GB",
+"ref": "F00188-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "ZEPHYR SHIPPING LTD",
+"regno": "HE 313130",
+"country": "CY",
+"ref": "F00188-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "DEMIR, Gulsen",
+"born": "November 1963",
+"nationality": "TR",
+"ref": "F00188-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00189",
+"country": "GB",
+"regno": "13422090",
+"company": "SILVERLINE LOGISTICS LTD",
+"city": "Manchester",
+"effective": "2024-11-08",
+"filed": "2024-11-22",
+"officers": [
+{
+"kind": "person",
+"name": "HUGHES, Thomas",
+"born": "April 1981",
+"nationality": "GB",
+"ref": "F00189-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "ZEPHYR SHIPPING LTD",
+"regno": "HE 313130",
+"country": "CY",
+"ref": "F00189-s0",
+"band": "50-75%"
+},
+{
+"kind": "company",
+"name": "SEEFELD COMPONENTS B.V.",
+"regno": "34426131",
+"country": "NL",
+"ref": "F00189-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00190",
+"country": "DE",
+"regno": "HRB 16465",
+"company": "Nordwind Handel GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "Grigoryev, Dmitriy",
+"born": "23.04.1981",
+"city": "Stuttgart",
+"ref": "F00190-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Shipping Ltd",
+"regno": "HE 269659",
+"country": "CY",
+"ref": "F00190-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Sokolov, Mikhail",
+"born": "20.07.1958",
+"city": "Stuttgart",
+"ref": "F00190-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00191",
+"country": "DE",
+"regno": "HRB 16465",
+"company": "Nordwind Handel GmbH",
+"city": "Bremen",
+"effective": "2023-07-13",
+"filed": "2023-07-22",
+"officers": [
+{
+"kind": "person",
+"name": "Khoury, Youssef",
+"born": "04.01.1952",
+"city": "Frankfurt am Main",
+"ref": "F00191-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Shipping Ltd",
+"regno": "HE 269659",
+"country": "CY",
+"ref": "F00191-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Sokolov, Mikhail",
+"born": "20.07.1958",
+"city": "Stuttgart",
+"ref": "F00191-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00192",
+"country": "NL",
+"regno": "26934595",
+"company": "Seefeld Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "L. Hoffmann",
+"born": "1959-10-20",
+"ref": "F00192-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "A. Arslan",
+"born": "1985-09-01",
+"ref": "F00192-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00193",
+"country": "DE",
+"regno": "HRB 97652",
+"company": "Quarry Hill Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "Yang, Yan",
+"born": "30.07.1955",
+"city": "Hamburg",
+"ref": "F00193-o0"
+},
+{
+"kind": "person",
+"name": "Price, Charlotte",
+"born": "29.04.1963",
+"city": "Leipzig",
+"ref": "F00193-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Doğan, İlker",
+"born": "20.10.1960",
+"city": "Leipzig",
+"ref": "F00193-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Zhukov, Yuriy",
+"born": "03.08.1972",
+"city": "Frankfurt am Main",
+"ref": "F00193-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00194",
+"country": "DE",
+"regno": "HRB 97652",
+"company": "Quarry Hill Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2024-06-01",
+"filed": "2024-06-07",
+"officers": [
+{
+"kind": "person",
+"name": "Yang, Yan",
+"born": "30.07.1955",
+"city": "Hamburg",
+"ref": "F00194-o0"
+},
+{
+"kind": "person",
+"name": "Zhang, Jing",
+"born": "09.08.1954",
+"city": "Hamburg",
+"ref": "F00194-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Doğan, İlker",
+"born": "20.10.1960",
+"city": "Stuttgart",
+"ref": "F00194-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Zhukov, Yuriy",
+"born": "03.08.1972",
+"city": "Stuttgart",
+"ref": "F00194-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00195",
+"country": "DE",
+"regno": "HRB 97652",
+"company": "Quarry Hill Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2024-11-29",
+"filed": "2024-12-23",
+"officers": [
+{
+"kind": "person",
+"name": "Yang, Yan",
+"born": "30.07.1955",
+"city": "Leipzig",
+"ref": "F00195-o0"
+},
+{
+"kind": "person",
+"name": "Zhang, Jing",
+"born": "09.08.1954",
+"city": "Stuttgart",
+"ref": "F00195-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Doğan, İlker",
+"born": "20.10.1960",
+"city": "Frankfurt am Main",
+"ref": "F00195-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Wagner, Katrin",
+"born": "21.08.1980",
+"city": "Frankfurt am Main",
+"ref": "F00195-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00196",
+"country": "GB",
+"regno": "06041178",
+"company": "KESTREL LOGISTICS LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-12",
+"officers": [
+{
+"kind": "person",
+"name": "ZHAO, Mei",
+"born": "September 1973",
+"nationality": "CN",
+"ref": "F00196-o0"
+},
+{
+"kind": "person",
+"name": "CHEN, Fang",
+"born": "June 1981",
+"nationality": "CN",
+"ref": "F00196-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "TRIDENT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00196-s0",
+"band": "75-100%"
+},
+{
+"kind": "person",
+"name": "SMITH, Edward",
+"born": "May 1989",
+"nationality": "GB",
+"ref": "F00196-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00197",
+"country": "GB",
+"regno": "06041178",
+"company": "KESTREL LOGISTICS LTD",
+"city": "Manchester",
+"effective": "2024-01-20",
+"filed": "2024-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "ZHAO, Mei",
+"born": "September 1973",
+"nationality": "CN",
+"ref": "F00197-o0"
+},
+{
+"kind": "person",
+"name": "CHEN, Fang",
+"born": "June 1981",
+"nationality": "CN",
+"ref": "F00197-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "TRIDENT INVESTMENTS LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00197-s0",
+"band": "75-100%"
+},
+{
+"kind": "company",
+"name": "COBALT ENGINEERING AG",
+"regno": "CHE-513.725.307",
+"country": "CH",
+"ref": "F00197-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00198",
+"country": "DE",
+"regno": "HRB 82841",
+"company": "Ironbridge Handel GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "Turner, Sarah",
+"born": "05.07.1957",
+"city": "Leipzig",
+"ref": "F00198-o0"
+},
+{
+"kind": "person",
+"name": "Arslan, Ayşe",
+"born": "01.09.1985",
+"city": "Frankfurt am Main",
+"ref": "F00198-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Valiant General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00198-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Fletcher, Robert",
+"born": "19.06.1974",
+"city": "Frankfurt am Main",
+"ref": "F00198-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00199",
+"country": "DE",
+"regno": "HRB 48355",
+"company": "Ironbridge Chemie GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Hoffmann, Sabine",
+"born": "11.05.1951",
+"city": "Bremen",
+"ref": "F00199-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill Engineering AG",
+"regno": "CHE-577.955.993",
+"country": "CH",
+"ref": "F00199-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Xu, Li",
+"born": "31.08.1950",
+"city": "Leipzig",
+"ref": "F00199-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00200",
+"country": "DE",
+"regno": "HRB 48355",
+"company": "Ironbridge Chemie GmbH",
+"city": "Bremen",
+"effective": "2023-11-06",
+"filed": "2023-11-30",
+"officers": [
+{
+"kind": "person",
+"name": "Hoffmann, Sabine",
+"born": "11.05.1951",
+"city": "Hamburg",
+"ref": "F00200-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill Engineering AG",
+"regno": "CHE-577.955.993",
+"country": "CH",
+"ref": "F00200-s0",
+"pct": 75.0
+},
+{
+"kind": "company",
+"name": "Atlas Trading B.V.",
+"regno": "82310345",
+"country": "NL",
+"ref": "F00200-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00201",
+"country": "DE",
+"regno": "HRB 89601",
+"company": "Corvus Verpackung GmbH",
+"city": "Bremen",
+"effective": "2023-01-01",
+"filed": "2023-01-17",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Natalya",
+"born": "14.08.1956",
+"city": "Frankfurt am Main",
+"ref": "F00201-o0"
+},
+{
+"kind": "person",
+"name": "Shcherbakov, Natalya",
+"born": "02.01.1981",
+"city": "Hamburg",
+"ref": "F00201-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Walker, Hannah",
+"born": "05.01.1951",
+"city": "Bremen",
+"ref": "F00201-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Li, Mei",
+"born": "11.10.1957",
+"city": "Frankfurt am Main",
+"ref": "F00201-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00202",
+"country": "DE",
+"regno": "HRB 89601",
+"company": "Corvus Verpackung GmbH",
+"city": "Bremen",
+"effective": "2024-05-16",
+"filed": "2024-06-10",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Natalya",
+"born": "14.08.1956",
+"city": "Stuttgart",
+"ref": "F00202-o0"
+},
+{
+"kind": "person",
+"name": "Orlov, Dmitriy",
+"born": "17.06.1969",
+"city": "Leipzig",
+"ref": "F00202-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Walker, Hannah",
+"born": "05.01.1951",
+"city": "Frankfurt am Main",
+"ref": "F00202-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "Li, Mei",
+"born": "11.10.1957",
+"city": "Frankfurt am Main",
+"ref": "F00202-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00203",
+"country": "DE",
+"regno": "HRB 89601",
+"company": "Corvus Verpackung GmbH",
+"city": "Bremen",
+"effective": "2026-02-06",
+"filed": "2026-02-11",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Natalya",
+"born": "14.08.1956",
+"city": "Leipzig",
+"ref": "F00203-o0"
+},
+{
+"kind": "person",
+"name": "Orlov, Dmitriy",
+"born": "17.06.1969",
+"city": "Stuttgart",
+"ref": "F00203-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Walker, Hannah",
+"born": "05.01.1951",
+"city": "Leipzig",
+"ref": "F00203-s0",
+"pct": 60.0
+},
+{
+"kind": "company",
+"name": "Sapphire Holdings Ltd",
+"regno": "HE 333396",
+"country": "CY",
+"ref": "F00203-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00204",
+"country": "GB",
+"regno": "09801549",
+"company": "GOLDCREST ENGINEERING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "AL-FARSI, Mariam",
+"born": "March 1955",
+"nationality": "AE",
+"ref": "F00204-o0"
+},
+{
+"kind": "person",
+"name": "KUZNETSOV, Yelena",
+"born": "November 1972",
+"nationality": "RU",
+"ref": "F00204-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "AL-QASIMI, Tariq",
+"born": "October 1984",
+"nationality": "AE",
+"ref": "F00204-s0",
+"band": "50-75%"
+},
+{
+"kind": "person",
+"name": "VOLKOV, Andrey Andreyevich",
+"born": "March 1980",
+"nationality": "RU",
+"ref": "F00204-s1",
+"band": "25-50%"
+}
+]
+},
+{
+"id": "F00205",
+"country": "DE",
+"regno": "HRB 78920",
+"company": "Atlas Logistik GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-04",
+"officers": [
+{
+"kind": "person",
+"name": "Zhang, Ming",
+"born": "05.01.1971",
+"city": "Hamburg",
+"ref": "F00205-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Ashford Shipping Ltd",
+"regno": "HE 345590",
+"country": "CY",
+"ref": "F00205-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00206",
+"country": "DE",
+"regno": "HRB 78920",
+"company": "Atlas Logistik GmbH",
+"city": "Stuttgart",
+"effective": "2023-07-06",
+"filed": "2023-07-14",
+"officers": [
+{
+"kind": "person",
+"name": "Zhang, Ming",
+"born": "05.01.1971",
+"city": "Stuttgart",
+"ref": "F00206-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Chen, Fang",
+"born": "02.10.1963",
+"city": "Hamburg",
+"ref": "F00206-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00207",
+"country": "DE",
+"regno": "HRB 78920",
+"company": "Atlas Logistik GmbH",
+"city": "Stuttgart",
+"effective": "2025-07-19",
+"filed": "2025-08-01",
+"officers": [
+{
+"kind": "person",
+"name": "Yang, Yan",
+"born": "30.07.1955",
+"city": "Stuttgart",
+"ref": "F00207-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Chen, Fang",
+"born": "02.10.1963",
+"city": "Bremen",
+"ref": "F00207-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00208",
+"country": "DE",
+"regno": "HRB 21489",
+"company": "Northgate Chemie GmbH",
+"city": "Leipzig",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Mansouri, Abdullah",
+"born": "15.03.1959",
+"city": "Leipzig",
+"ref": "F00208-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Haddad, Mohammed",
+"born": "09.01.1989",
+"city": "Hamburg",
+"ref": "F00208-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Liu, Mei",
+"born": "18.04.1963",
+"city": "Frankfurt am Main",
+"ref": "F00208-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00209",
+"country": "DE",
+"regno": "HRB 21489",
+"company": "Northgate Chemie GmbH",
+"city": "Leipzig",
+"effective": "2023-04-14",
+"filed": "2023-05-09",
+"officers": [
+{
+"kind": "person",
+"name": "Groß, Lena",
+"born": "22.05.1982",
+"city": "Bremen",
+"ref": "F00209-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Haddad, Mohammed",
+"born": "09.01.1989",
+"city": "Hamburg",
+"ref": "F00209-s0",
+"pct": 80.0
+},
+{
+"kind": "person",
+"name": "Liu, Mei",
+"born": "18.04.1963",
+"city": "Hamburg",
+"ref": "F00209-s1",
+"pct": 20.0
+}
+]
+},
+{
+"id": "F00210",
+"country": "DE",
+"regno": "HRB 28533",
+"company": "Cobalt Logistik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "Bennett, Sarah",
+"born": "28.12.1986",
+"city": "Hamburg",
+"ref": "F00210-o0"
+},
+{
+"kind": "person",
+"name": "Wagner, Katrin",
+"born": "21.08.1980",
+"city": "Leipzig",
+"ref": "F00210-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Böhm, Julia",
+"born": "25.10.1956",
+"city": "Bremen",
+"ref": "F00210-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00211",
+"country": "GB",
+"regno": "02607263",
+"company": "FOXGLOVE ENGINEERING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-25",
+"officers": [
+{
+"kind": "person",
+"name": "PRICE, Lucy",
+"born": "June 1952",
+"nationality": "GB",
+"ref": "F00211-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "FLETCHER, Emily",
+"born": "October 1950",
+"nationality": "GB",
+"ref": "F00211-s0",
+"band": "75-100%"
+},
+{
+"kind": "person",
+"name": "WEISS, Klaus",
+"born": "May 1980",
+"nationality": "DE",
+"ref": "F00211-s1",
+"band": "under 25%"
+}
+]
+},
+{
+"id": "F00212",
+"country": "NL",
+"regno": "28367378",
+"company": "Rheintal Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "B. Kılıç",
+"born": "1979-06-09",
+"ref": "F00212-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Bluewater Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00212-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00213",
+"country": "NL",
+"regno": "28367378",
+"company": "Rheintal Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2024-08-23",
+"filed": "2024-08-31",
+"officers": [
+{
+"kind": "person",
+"name": "R. Walker",
+"born": "1978-07-25",
+"ref": "F00213-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Bluewater Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00213-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00214",
+"country": "GB",
+"regno": "13378825",
+"company": "TAMARIND ENGINEERING LTD",
+"city": "London",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "AL-FARSI, Omar",
+"born": "January 1979",
+"nationality": "AE",
+"ref": "F00214-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "VOLKOV, Vladimir Vladimirovich",
+"born": "September 1989",
+"nationality": "RU",
+"ref": "F00214-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00215",
+"country": "DE",
+"regno": "HRB 88474",
+"company": "Harbourview Verpackung GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "Böhm, Klaus",
+"born": "04.09.1966",
+"city": "Frankfurt am Main",
+"ref": "F00215-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Shcherbakov, Vladimir",
+"born": "01.07.1985",
+"city": "Bremen",
+"ref": "F00215-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00216",
+"country": "DE",
+"regno": "HRB 34760",
+"company": "Umber Handel GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-21",
+"officers": [
+{
+"kind": "person",
+"name": "Böhm, Julia",
+"born": "11.12.1989",
+"city": "Leipzig",
+"ref": "F00216-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Holdings Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00216-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00217",
+"country": "DE",
+"regno": "HRB 34760",
+"company": "Umber Handel GmbH",
+"city": "Stuttgart",
+"effective": "2023-11-09",
+"filed": "2023-12-01",
+"officers": [
+{
+"kind": "person",
+"name": "Lebedev, Dmitriy",
+"born": "24.05.1987",
+"city": "Frankfurt am Main",
+"ref": "F00217-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Pinnacle Holdings Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00217-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00218",
+"country": "GB",
+"regno": "09396916",
+"company": "ELBE ENGINEERING LTD",
+"city": "Manchester",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "AL-MANSOURI, Abdullah",
+"born": "March 1959",
+"nationality": "AE",
+"ref": "F00218-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "HUANG, Xiu Ying",
+"born": "March 1967",
+"nationality": "CN",
+"ref": "F00218-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00219",
+"country": "NL",
+"regno": "84207257",
+"company": "Orion Logistics B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "N. Shcherbakov",
+"born": "1981-01-02",
+"ref": "F00219-o0"
+},
+{
+"kind": "person",
+"name": "A. Semyonov",
+"born": "1976-04-28",
+"ref": "F00219-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Foxglove Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00219-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00220",
+"country": "NL",
+"regno": "84207257",
+"company": "Orion Logistics B.V.",
+"city": "Rotterdam",
+"effective": "2023-03-12",
+"filed": "2023-03-31",
+"officers": [
+{
+"kind": "person",
+"name": "N. Shcherbakov",
+"born": "1981-01-02",
+"ref": "F00220-o0"
+},
+{
+"kind": "person",
+"name": "M. Volkov",
+"born": "1973-04-14",
+"ref": "F00220-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Foxglove Investments LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00220-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00221",
+"country": "GB",
+"regno": "10153624",
+"company": "EASTWIND LOGISTICS LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "ZHUKOV, Yuriy Yuryevich",
+"born": "August 1972",
+"nationality": "RU",
+"ref": "F00221-o0"
+},
+{
+"kind": "person",
+"name": "SHCHERBAKOV, Natalya",
+"born": "January 1981",
+"nationality": "RU",
+"ref": "F00221-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "BALTIC STAR SHIPPING LTD",
+"regno": "HE 144403",
+"country": "CY",
+"ref": "F00221-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00222",
+"country": "GB",
+"regno": "10153624",
+"company": "EASTWIND LOGISTICS LTD",
+"city": "Leeds",
+"effective": "2023-09-04",
+"filed": "2023-09-18",
+"officers": [
+{
+"kind": "person",
+"name": "SHCHERBAKOV, Natalya",
+"born": "January 1981",
+"nationality": "RU",
+"ref": "F00222-o0"
+},
+{
+"kind": "person",
+"name": "GRIGORYEV, Aleksandr Aleksandrovich",
+"born": "January 1979",
+"nationality": "RU",
+"ref": "F00222-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "BALTIC STAR SHIPPING LTD",
+"regno": "HE 144403",
+"country": "CY",
+"ref": "F00222-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00223",
+"country": "DE",
+"regno": "HRB 63428",
+"company": "Valiant Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "Cooper, Hannah",
+"born": "29.09.1973",
+"city": "Hamburg",
+"ref": "F00223-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Huang, Li",
+"born": "10.03.1965",
+"city": "Hamburg",
+"ref": "F00223-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00224",
+"country": "DE",
+"regno": "HRB 63428",
+"company": "Valiant Elektronik GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-09-03",
+"filed": "2023-09-14",
+"officers": [
+{
+"kind": "person",
+"name": "Semyonov, Sergey",
+"born": "15.03.1956",
+"city": "Leipzig",
+"ref": "F00224-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Huang, Li",
+"born": "10.03.1965",
+"city": "Stuttgart",
+"ref": "F00224-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00225",
+"country": "GB",
+"regno": "14937342",
+"company": "SILVERLINE COMPONENTS LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "VOLKOV, Yelena",
+"born": "May 1979",
+"nationality": "RU",
+"ref": "F00225-o0"
+},
+{
+"kind": "person",
+"name": "LIU, Hao",
+"born": "April 1951",
+"nationality": "CN",
+"ref": "F00225-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "ORLOV, Dmitriy Dmitriyevich",
+"born": "June 1969",
+"nationality": "CY",
+"ref": "F00225-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00226",
+"country": "GB",
+"regno": "14937342",
+"company": "SILVERLINE COMPONENTS LTD",
+"city": "Leeds",
+"effective": "2026-01-21",
+"filed": "2026-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "VOLKOV, Yelena",
+"born": "May 1979",
+"nationality": "RU",
+"ref": "F00226-o0"
+},
+{
+"kind": "person",
+"name": "PRICE, Lucy",
+"born": "February 1971",
+"nationality": "GB",
+"ref": "F00226-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "ORLOV, Dmitriy Dmitriyevich",
+"born": "June 1969",
+"nationality": "CY",
+"ref": "F00226-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00227",
+"country": "CH",
+"regno": "CHE-842.994.771",
+"company": "Zephyr Trading AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Müller, Jörg",
+"nationality": "DE",
+"ref": "F00227-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Nimbus Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00227-s0",
+"pct": 90.0
+},
+{
+"kind": "person",
+"name": "Kaya, Özlem",
+"nationality": "TR",
+"ref": "F00227-s1",
+"pct": 10.0
+}
+]
+},
+{
+"id": "F00228",
+"country": "GB",
+"regno": "01859354",
+"company": "WESTBROOK ENGINEERING LTD",
+"city": "Leeds",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "VOLKOV, Mikhail Mikhaylovich",
+"born": "April 1973",
+"nationality": "RU",
+"ref": "F00228-o0"
+},
+{
+"kind": "person",
+"name": "ZHANG, Wei",
+"born": "July 1988",
+"nationality": "CN",
+"ref": "F00228-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "MULLER, Sabine",
+"born": "August 1972",
+"nationality": "DE",
+"ref": "F00228-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00229",
+"country": "GB",
+"regno": "01859354",
+"company": "WESTBROOK ENGINEERING LTD",
+"city": "Leeds",
+"effective": "2025-03-17",
+"filed": "2025-04-02",
+"officers": [
+{
+"kind": "person",
+"name": "VOLKOV, Mikhail Mikhaylovich",
+"born": "April 1973",
+"nationality": "RU",
+"ref": "F00229-o0"
+},
+{
+"kind": "person",
+"name": "ZHANG, Wei",
+"born": "July 1988",
+"nationality": "CN",
+"ref": "F00229-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "HOFFMANN, Jorg",
+"born": "March 1980",
+"nationality": "DE",
+"ref": "F00229-s0",
+"band": "75-100%"
+}
+]
+},
+{
+"id": "F00230",
+"country": "DE",
+"regno": "HRB 34018",
+"company": "Marlin Chemie GmbH",
+"city": "Frankfurt am Main",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "Fuchs, Uwe",
+"born": "10.10.1963",
+"city": "Leipzig",
+"ref": "F00230-o0"
+},
+{
+"kind": "person",
+"name": "Hoffmann, Matthias",
+"born": "26.12.1987",
+"city": "Bremen",
+"ref": "F00230-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Brightwater Investments Ltd",
+"regno": null,
+"country": "VG",
+"ref": "F00230-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00231",
+"country": "CH",
+"regno": "CHE-797.110.226",
+"company": "Eastwind Commodities AG",
+"city": "Zug",
+"effective": "2023-01-01",
+"filed": "2023-01-05",
+"officers": [
+{
+"kind": "person",
+"name": "Chen, Li",
+"nationality": "CN",
+"ref": "F00231-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Belyayev, Dmitriy",
+"nationality": "CH",
+"ref": "F00231-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00232",
+"country": "CH",
+"regno": "CHE-797.110.226",
+"company": "Eastwind Commodities AG",
+"city": "Zug",
+"effective": "2025-06-11",
+"filed": "2025-06-23",
+"officers": [
+{
+"kind": "person",
+"name": "Chen, Li",
+"nationality": "CN",
+"ref": "F00232-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Al-Farsi, Omar",
+"nationality": "AE",
+"ref": "F00232-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00233",
+"country": "CH",
+"regno": "CHE-465.615.175",
+"company": "Umber Engineering AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-12",
+"officers": [
+{
+"kind": "person",
+"name": "Wu, Yan",
+"nationality": "CN",
+"ref": "F00233-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Elbe Holdings Ltd",
+"regno": "HE 158555",
+"country": "CY",
+"ref": "F00233-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00234",
+"country": "NL",
+"regno": "79615374",
+"company": "Emberly Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "Y. Zhukov",
+"born": "1972-08-03",
+"ref": "F00234-o0"
+},
+{
+"kind": "person",
+"name": "T. Nasser",
+"born": "1964-02-14",
+"ref": "F00234-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "K. Hoffmann",
+"born": "1960-03-25",
+"ref": "F00234-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00235",
+"country": "NL",
+"regno": "79615374",
+"company": "Emberly Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2024-09-22",
+"filed": "2024-10-17",
+"officers": [
+{
+"kind": "person",
+"name": "Y. Zhukov",
+"born": "1972-08-03",
+"ref": "F00235-o0"
+},
+{
+"kind": "person",
+"name": "D. Volkov",
+"born": "1976-05-16",
+"ref": "F00235-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "K. Hoffmann",
+"born": "1960-03-25",
+"ref": "F00235-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00236",
+"country": "CH",
+"regno": "CHE-552.232.288",
+"company": "Larch Engineering AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-21",
+"officers": [
+{
+"kind": "person",
+"name": "Shcherbakov, Yuriy",
+"nationality": "RU",
+"ref": "F00236-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00236-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Köhler, Katrin",
+"nationality": "DE",
+"ref": "F00236-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00237",
+"country": "CH",
+"regno": "CHE-552.232.288",
+"company": "Larch Engineering AG",
+"city": "Geneva",
+"effective": "2023-10-28",
+"filed": "2023-11-03",
+"officers": [
+{
+"kind": "person",
+"name": "Li, Yan",
+"nationality": "AE",
+"ref": "F00237-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00237-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "Köhler, Katrin",
+"nationality": "DE",
+"ref": "F00237-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00238",
+"country": "CH",
+"regno": "CHE-552.232.288",
+"company": "Larch Engineering AG",
+"city": "Geneva",
+"effective": "2026-03-15",
+"filed": "2026-04-03",
+"officers": [
+{
+"kind": "person",
+"name": "Li, Yan",
+"nationality": "AE",
+"ref": "F00238-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Köhler, Katrin",
+"nationality": "DE",
+"ref": "F00238-s0",
+"pct": 25.0
+},
+{
+"kind": "company",
+"name": "Silverline General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00238-s1",
+"pct": 75.0
+}
+]
+},
+{
+"id": "F00239",
+"country": "DE",
+"regno": "HRB 71640",
+"company": "Silverline Handel GmbH",
+"city": "Stuttgart",
+"effective": "2023-01-01",
+"filed": "2023-01-17",
+"officers": [
+{
+"kind": "person",
+"name": "Khoury, Nour",
+"born": "15.02.1971",
+"city": "Stuttgart",
+"ref": "F00239-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Groß, Julia",
+"born": "07.05.1971",
+"city": "Leipzig",
+"ref": "F00239-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00240",
+"country": "NL",
+"regno": "82310345",
+"company": "Atlas Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "L. Price",
+"born": "1952-01-08",
+"ref": "F00240-o0"
+},
+{
+"kind": "person",
+"name": "D. Orlov",
+"born": "1958-07-02",
+"ref": "F00240-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "C. Price",
+"born": "1963-04-29",
+"ref": "F00240-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00241",
+"country": "NL",
+"regno": "82310345",
+"company": "Atlas Trading B.V.",
+"city": "Amsterdam",
+"effective": "2024-03-10",
+"filed": "2024-03-22",
+"officers": [
+{
+"kind": "person",
+"name": "D. Orlov",
+"born": "1958-07-02",
+"ref": "F00241-o0"
+},
+{
+"kind": "person",
+"name": "F. Zhou",
+"born": "1959-11-12",
+"ref": "F00241-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "C. Price",
+"born": "1963-04-29",
+"ref": "F00241-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00242",
+"country": "NL",
+"regno": "34426131",
+"company": "Seefeld Components B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "J. Schmidt",
+"born": "1975-06-16",
+"ref": "F00242-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "C. Price",
+"born": "1986-04-12",
+"ref": "F00242-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "A. Nasser",
+"born": "1977-08-23",
+"ref": "F00242-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00243",
+"country": "NL",
+"regno": "34426131",
+"company": "Seefeld Components B.V.",
+"city": "Rotterdam",
+"effective": "2025-06-27",
+"filed": "2025-07-09",
+"officers": [
+{
+"kind": "person",
+"name": "X. Huang",
+"born": "1967-03-13",
+"ref": "F00243-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "C. Price",
+"born": "1986-04-12",
+"ref": "F00243-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "A. Nasser",
+"born": "1977-08-23",
+"ref": "F00243-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00244",
+"country": "NL",
+"regno": "52241867",
+"company": "Atlas Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "J. Becker",
+"born": "1951-10-05",
+"ref": "F00244-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Y. Al-Mansouri",
+"born": "1979-12-02",
+"ref": "F00244-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00245",
+"country": "NL",
+"regno": "52241867",
+"company": "Atlas Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2026-03-23",
+"filed": "2026-03-31",
+"officers": [
+{
+"kind": "person",
+"name": "E. Smith",
+"born": "1989-05-12",
+"ref": "F00245-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Y. Al-Mansouri",
+"born": "1979-12-02",
+"ref": "F00245-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00246",
+"country": "NL",
+"regno": "75693122",
+"company": "Kingfisher Logistics B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "S. Güneş",
+"born": "1967-08-14",
+"ref": "F00246-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "A. Orlov",
+"born": "1962-06-22",
+"ref": "F00246-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00247",
+"country": "CY",
+"regno": "HE 429106",
+"company": "Baltic Star Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "GUELŞEN AYDIN",
+"nationality": "TR",
+"ref": "F00247-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00248",
+"country": "CY",
+"regno": "HE 130624",
+"company": "Umber Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "TARIQ AL-QASIMI",
+"nationality": "AE",
+"ref": "F00248-o0"
+},
+{
+"kind": "person",
+"name": "JOERG WAGNER",
+"nationality": "DE",
+"ref": "F00248-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00249",
+"country": "CY",
+"regno": "HE 144403",
+"company": "Baltic Star Shipping Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-09",
+"officers": [
+{
+"kind": "person",
+"name": "WILLIAM WRIGHT",
+"nationality": "GB",
+"ref": "F00249-o0"
+},
+{
+"kind": "person",
+"name": "STEFAN MUELLER",
+"nationality": "DE",
+"ref": "F00249-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00250",
+"country": "CY",
+"regno": "HE 144403",
+"company": "Baltic Star Shipping Ltd",
+"city": "Limassol",
+"effective": "2024-11-02",
+"filed": "2024-11-05",
+"officers": [
+{
+"kind": "person",
+"name": "WILLIAM WRIGHT",
+"nationality": "GB",
+"ref": "F00250-o0"
+},
+{
+"kind": "person",
+"name": "JING CHEN",
+"nationality": "CN",
+"ref": "F00250-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00251",
+"country": "CY",
+"regno": "HE 313400",
+"company": "Westbrook Shipping Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "JING CHEN",
+"nationality": "CN",
+"ref": "F00251-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00252",
+"country": "CY",
+"regno": "HE 435101",
+"company": "Cobalt Holdings Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-14",
+"officers": [
+{
+"kind": "person",
+"name": "GUELŞEN OEZTUERK",
+"nationality": "AE",
+"ref": "F00252-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00253",
+"country": "CY",
+"regno": "HE 270297",
+"company": "Larch Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-04",
+"officers": [
+{
+"kind": "person",
+"name": "BIRGIT HOFFMANN",
+"nationality": "DE",
+"ref": "F00253-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00254",
+"country": "NL",
+"regno": "94148290",
+"company": "Falcon Crest Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "Y. Zhou",
+"born": "1955-11-13",
+"ref": "F00254-o0"
+},
+{
+"kind": "person",
+"name": "U. Krüger",
+"born": "1964-06-02",
+"ref": "F00254-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00254-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00255",
+"country": "NL",
+"regno": "94148290",
+"company": "Falcon Crest Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2024-05-21",
+"filed": "2024-05-26",
+"officers": [
+{
+"kind": "person",
+"name": "U. Krüger",
+"born": "1964-06-02",
+"ref": "F00255-o0"
+},
+{
+"kind": "person",
+"name": "T. Orlov",
+"born": "1982-11-02",
+"ref": "F00255-o1"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Corvus Logistics B.V.",
+"regno": "42297169",
+"country": "NL",
+"ref": "F00255-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00256",
+"country": "CH",
+"regno": "CHE-269.512.810",
+"company": "Marlin Engineering AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-06",
+"officers": [
+{
+"kind": "person",
+"name": "Smith, Hannah",
+"nationality": "GB",
+"ref": "F00256-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Kovalyov, Yevgeniy",
+"nationality": "RU",
+"ref": "F00256-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00257",
+"country": "NL",
+"regno": "11715105",
+"company": "Aurora Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "H. Haddad",
+"born": "1979-03-03",
+"ref": "F00257-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "M. Weiß",
+"born": "1950-01-06",
+"ref": "F00257-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00258",
+"country": "CY",
+"regno": "HE 216078",
+"company": "Quarry Hill Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "JAMES WALKER",
+"nationality": "GB",
+"ref": "F00258-o0"
+},
+{
+"kind": "person",
+"name": "QIANG ZHANG",
+"nationality": "CN",
+"ref": "F00258-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00259",
+"country": "CY",
+"regno": "HE 385426",
+"company": "Marlin Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "JAMES HARRISON",
+"nationality": "GB",
+"ref": "F00259-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00260",
+"country": "NL",
+"regno": "42297169",
+"company": "Corvus Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-17",
+"officers": [
+{
+"kind": "person",
+"name": "J. Sun",
+"born": "1952-10-21",
+"ref": "F00260-o0"
+},
+{
+"kind": "person",
+"name": "K. Groß",
+"born": "1968-02-13",
+"ref": "F00260-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "D. Kuznetsov",
+"born": "1970-06-19",
+"ref": "F00260-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00261",
+"country": "CY",
+"regno": "HE 420272",
+"company": "Northgate Investments Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "OEZLEM DOĞAN",
+"nationality": "TR",
+"ref": "F00261-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00262",
+"country": "CY",
+"regno": "HE 269659",
+"company": "Nimbus Shipping Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-25",
+"officers": [
+{
+"kind": "person",
+"name": "KATRIN KOEHLER",
+"nationality": "DE",
+"ref": "F00262-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00263",
+"country": "CY",
+"regno": "HE 126046",
+"company": "Crescent Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "LEI LI",
+"nationality": "CN",
+"ref": "F00263-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00264",
+"country": "CY",
+"regno": "HE 333396",
+"company": "Sapphire Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-04",
+"officers": [
+{
+"kind": "person",
+"name": "JOERG BECKER",
+"nationality": "CY",
+"ref": "F00264-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00265",
+"country": "CY",
+"regno": "HE 333396",
+"company": "Sapphire Holdings Ltd",
+"city": "Limassol",
+"effective": "2025-07-22",
+"filed": "2025-07-25",
+"officers": [
+{
+"kind": "person",
+"name": "SARAH TAYLOR",
+"nationality": "GB",
+"ref": "F00265-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00266",
+"country": "CY",
+"regno": "HE 485041",
+"company": "Aurora Shipping Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "JING WU",
+"nationality": "CN",
+"ref": "F00266-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00267",
+"country": "CY",
+"regno": "HE 485041",
+"company": "Aurora Shipping Ltd",
+"city": "Nicosia",
+"effective": "2025-03-07",
+"filed": "2025-03-13",
+"officers": [
+{
+"kind": "person",
+"name": "KLAUS WAGNER",
+"nationality": "DE",
+"ref": "F00267-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00268",
+"country": "CY",
+"regno": "HE 197390",
+"company": "Helios Investments Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-18",
+"officers": [
+{
+"kind": "person",
+"name": "EDWARD SMITH",
+"nationality": "GB",
+"ref": "F00268-o0"
+},
+{
+"kind": "person",
+"name": "ANDREY SHCHERBAKOV",
+"nationality": "RU",
+"ref": "F00268-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00269",
+"country": "CY",
+"regno": "HE 487508",
+"company": "Lindenhof Shipping Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "NATALYA SEMYONOV",
+"nationality": "RU",
+"ref": "F00269-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00270",
+"country": "CY",
+"regno": "HE 295975",
+"company": "Silverline Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-25",
+"officers": [
+{
+"kind": "person",
+"name": "LENA SCHAEFER",
+"nationality": "DE",
+"ref": "F00270-o0"
+},
+{
+"kind": "person",
+"name": "YAN ZHANG",
+"nationality": "DE",
+"ref": "F00270-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00271",
+"country": "NL",
+"regno": "82501192",
+"company": "Tamarind Logistics B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "S. Müller",
+"born": "1979-02-08",
+"ref": "F00271-o0"
+},
+{
+"kind": "person",
+"name": "F. Zhou",
+"born": "1959-11-12",
+"ref": "F00271-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "R. Walker",
+"born": "1978-07-25",
+"ref": "F00271-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00272",
+"country": "NL",
+"regno": "78770879",
+"company": "Trident Shipping B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-11",
+"officers": [
+{
+"kind": "person",
+"name": "A. Al-Mansouri",
+"born": "1959-03-15",
+"ref": "F00272-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "S. Wagner",
+"born": "1951-01-26",
+"ref": "F00272-s0",
+"pct": 60.0
+},
+{
+"kind": "person",
+"name": "T. Price",
+"born": "1961-03-30",
+"ref": "F00272-s1",
+"pct": 40.0
+}
+]
+},
+{
+"id": "F00273",
+"country": "CY",
+"regno": "HE 443680",
+"company": "Valiant Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "MARIAM SALEH",
+"nationality": "AE",
+"ref": "F00273-o0"
+},
+{
+"kind": "person",
+"name": "SERGEY LEBEDEV",
+"nationality": "RU",
+"ref": "F00273-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00274",
+"country": "CY",
+"regno": "HE 118434",
+"company": "Oakridge Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "OLIVIA FLETCHER",
+"nationality": "GB",
+"ref": "F00274-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00275",
+"country": "CY",
+"regno": "HE 118434",
+"company": "Oakridge Holdings Ltd",
+"city": "Limassol",
+"effective": "2025-10-02",
+"filed": "2025-10-24",
+"officers": [
+{
+"kind": "person",
+"name": "ABDULLAH SALEH",
+"nationality": "AE",
+"ref": "F00275-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00276",
+"country": "NL",
+"regno": "85603309",
+"company": "Goldcrest Trading B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "Y. Lebedev",
+"born": "1987-08-29",
+"ref": "F00276-o0"
+},
+{
+"kind": "person",
+"name": "Ş. Demir",
+"born": "1978-05-18",
+"ref": "F00276-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "H. Wright",
+"born": "1978-07-17",
+"ref": "F00276-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00277",
+"country": "CY",
+"regno": "HE 107906",
+"company": "Nordwind Shipping Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-19",
+"officers": [
+{
+"kind": "person",
+"name": "KLAUS WEISS",
+"nationality": "DE",
+"ref": "F00277-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00278",
+"country": "NL",
+"regno": "70909506",
+"company": "Northgate Logistics B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-10",
+"officers": [
+{
+"kind": "person",
+"name": "Y. Zhang",
+"born": "1970-10-22",
+"ref": "F00278-o0"
+},
+{
+"kind": "person",
+"name": "K. Köhler",
+"born": "1981-06-17",
+"ref": "F00278-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "U. Fuchs",
+"born": "1963-10-10",
+"ref": "F00278-s0",
+"pct": 75.0
+},
+{
+"kind": "person",
+"name": "T. Belyayev",
+"born": "1975-08-23",
+"ref": "F00278-s1",
+"pct": 25.0
+}
+]
+},
+{
+"id": "F00279",
+"country": "CY",
+"regno": "HE 310789",
+"company": "Kestrel Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "EMILY TURNER",
+"nationality": "DE",
+"ref": "F00279-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00280",
+"country": "NL",
+"regno": "44430235",
+"company": "Pinnacle Components B.V.",
+"city": "Rotterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-13",
+"officers": [
+{
+"kind": "person",
+"name": "B. Kılıç",
+"born": "1979-06-09",
+"ref": "F00280-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "H. Al-Mansouri",
+"born": "1984-02-03",
+"ref": "F00280-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "J. Wang",
+"born": "1988-11-24",
+"ref": "F00280-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00281",
+"country": "CY",
+"regno": "HE 464016",
+"company": "Foxglove Shipping Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "XIU YING ZHANG",
+"nationality": "CN",
+"ref": "F00281-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00282",
+"country": "NL",
+"regno": "48657418",
+"company": "Baltic Star Components B.V.",
+"city": "Amsterdam",
+"effective": "2023-01-01",
+"filed": "2023-01-12",
+"officers": [
+{
+"kind": "person",
+"name": "M. Volkov",
+"born": "1973-04-14",
+"ref": "F00282-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "B. Böhm",
+"born": "1974-05-31",
+"ref": "F00282-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "M. Groß",
+"born": "1966-09-06",
+"ref": "F00282-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00283",
+"country": "CH",
+"regno": "CHE-684.286.909",
+"company": "Pinnacle Commodities AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-18",
+"officers": [
+{
+"kind": "person",
+"name": "Haddad, Mohammed",
+"nationality": "AE",
+"ref": "F00283-o0"
+},
+{
+"kind": "person",
+"name": "Price, Edward",
+"nationality": "GB",
+"ref": "F00283-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Wagner, Klaus",
+"nationality": "DE",
+"ref": "F00283-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00284",
+"country": "CH",
+"regno": "CHE-259.558.131",
+"company": "Emberly Trading AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "Hoffmann, Jörg",
+"nationality": "DE",
+"ref": "F00284-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Zhukov, Yelena",
+"nationality": "RU",
+"ref": "F00284-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00285",
+"country": "CH",
+"regno": "CHE-259.558.131",
+"company": "Emberly Trading AG",
+"city": "Lugano",
+"effective": "2025-08-04",
+"filed": "2025-08-18",
+"officers": [
+{
+"kind": "person",
+"name": "Wagner, Klaus",
+"nationality": "DE",
+"ref": "F00285-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Zhukov, Yelena",
+"nationality": "RU",
+"ref": "F00285-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00286",
+"country": "CY",
+"regno": "HE 158555",
+"company": "Elbe Holdings Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "KLAUS GROSS",
+"nationality": "DE",
+"ref": "F00286-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00287",
+"country": "CY",
+"regno": "HE 158555",
+"company": "Elbe Holdings Ltd",
+"city": "Nicosia",
+"effective": "2024-07-07",
+"filed": "2024-08-01",
+"officers": [
+{
+"kind": "person",
+"name": "RICHARD SMITH",
+"nationality": "GB",
+"ref": "F00287-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00288",
+"country": "CY",
+"regno": "HE 123780",
+"company": "Ironbridge Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-04",
+"officers": [
+{
+"kind": "person",
+"name": "LI XU",
+"nationality": "CN",
+"ref": "F00288-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00289",
+"country": "CY",
+"regno": "HE 123780",
+"company": "Ironbridge Investments Ltd",
+"city": "Limassol",
+"effective": "2023-08-07",
+"filed": "2023-08-21",
+"officers": [
+{
+"kind": "person",
+"name": "WILLIAM TAYLOR",
+"nationality": "GB",
+"ref": "F00289-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00290",
+"country": "CH",
+"regno": "CHE-471.283.155",
+"company": "Bluewater Engineering AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Kovalyov, Sergey",
+"nationality": "RU",
+"ref": "F00290-o0"
+},
+{
+"kind": "person",
+"name": "Yılmaz, Murat",
+"nationality": "TR",
+"ref": "F00290-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Belyayev, Dmitriy",
+"nationality": "RU",
+"ref": "F00290-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00291",
+"country": "CH",
+"regno": "CHE-471.283.155",
+"company": "Bluewater Engineering AG",
+"city": "Geneva",
+"effective": "2025-09-07",
+"filed": "2025-10-02",
+"officers": [
+{
+"kind": "person",
+"name": "Yılmaz, Murat",
+"nationality": "TR",
+"ref": "F00291-o0"
+},
+{
+"kind": "person",
+"name": "Turner, Emily",
+"nationality": "GB",
+"ref": "F00291-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Belyayev, Dmitriy",
+"nationality": "RU",
+"ref": "F00291-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00292",
+"country": "CY",
+"regno": "HE 165224",
+"company": "Westbrook Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-18",
+"officers": [
+{
+"kind": "person",
+"name": "JAMES HUGHES",
+"nationality": "GB",
+"ref": "F00292-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00293",
+"country": "CH",
+"regno": "CHE-577.955.993",
+"company": "Quarry Hill Engineering AG",
+"city": "Zug",
+"effective": "2023-01-01",
+"filed": "2023-01-24",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Farsi, Mariam",
+"nationality": "AE",
+"ref": "F00293-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00293-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00294",
+"country": "CH",
+"regno": "CHE-577.955.993",
+"company": "Quarry Hill Engineering AG",
+"city": "Zug",
+"effective": "2026-05-13",
+"filed": "2026-06-04",
+"officers": [
+{
+"kind": "person",
+"name": "Krüger, Julia",
+"nationality": "DE",
+"ref": "F00294-o0"
+}
+],
+"shareholders": [
+{
+"kind": "company",
+"name": "Quarry Hill General Trading LLC",
+"regno": null,
+"country": "AE",
+"ref": "F00294-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00295",
+"country": "CH",
+"regno": "CHE-599.838.914",
+"company": "Aurora Commodities AG",
+"city": "Geneva",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Farsi, Youssef",
+"nationality": "CY",
+"ref": "F00295-o0"
+},
+{
+"kind": "person",
+"name": "Grigoryev, Natalya",
+"nationality": "RU",
+"ref": "F00295-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Liu, Xiu Ying",
+"nationality": "CN",
+"ref": "F00295-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Groß, Klaus",
+"nationality": "DE",
+"ref": "F00295-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00296",
+"country": "CH",
+"regno": "CHE-599.838.914",
+"company": "Aurora Commodities AG",
+"city": "Geneva",
+"effective": "2024-12-20",
+"filed": "2025-01-08",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Farsi, Youssef",
+"nationality": "CY",
+"ref": "F00296-o0"
+},
+{
+"kind": "person",
+"name": "Semyonov, Aleksandr",
+"nationality": "GB",
+"ref": "F00296-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Liu, Xiu Ying",
+"nationality": "CN",
+"ref": "F00296-s0",
+"pct": 51.0
+},
+{
+"kind": "person",
+"name": "Groß, Klaus",
+"nationality": "DE",
+"ref": "F00296-s1",
+"pct": 49.0
+}
+]
+},
+{
+"id": "F00297",
+"country": "CY",
+"regno": "HE 458667",
+"company": "Highmoor Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-23",
+"officers": [
+{
+"kind": "person",
+"name": "YAN CHEN",
+"nationality": "CN",
+"ref": "F00297-o0"
+},
+{
+"kind": "person",
+"name": "ANDREY VOLKOV",
+"nationality": "RU",
+"ref": "F00297-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00298",
+"country": "CY",
+"regno": "HE 458667",
+"company": "Highmoor Investments Ltd",
+"city": "Limassol",
+"effective": "2023-02-01",
+"filed": "2023-02-20",
+"officers": [
+{
+"kind": "person",
+"name": "ANDREY VOLKOV",
+"nationality": "RU",
+"ref": "F00298-o0"
+},
+{
+"kind": "person",
+"name": "WEI XU",
+"nationality": "CN",
+"ref": "F00298-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00299",
+"country": "CY",
+"regno": "HE 307175",
+"company": "Trident Investments Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-16",
+"officers": [
+{
+"kind": "person",
+"name": "KLAUS SCHAEFER",
+"nationality": "DE",
+"ref": "F00299-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00300",
+"country": "CH",
+"regno": "CHE-513.725.307",
+"company": "Cobalt Engineering AG",
+"city": "Zug",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "Orlov, Dmitriy",
+"nationality": "CY",
+"ref": "F00300-o0"
+},
+{
+"kind": "person",
+"name": "Chen, Fang",
+"nationality": "CN",
+"ref": "F00300-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Chen, Li",
+"nationality": "CN",
+"ref": "F00300-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00301",
+"country": "CH",
+"regno": "CHE-513.725.307",
+"company": "Cobalt Engineering AG",
+"city": "Zug",
+"effective": "2023-04-18",
+"filed": "2023-04-30",
+"officers": [
+{
+"kind": "person",
+"name": "Chen, Fang",
+"nationality": "CN",
+"ref": "F00301-o0"
+},
+{
+"kind": "person",
+"name": "Schäfer, Lena",
+"nationality": "DE",
+"ref": "F00301-o1"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Chen, Li",
+"nationality": "CN",
+"ref": "F00301-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00302",
+"country": "CH",
+"regno": "CHE-314.255.272",
+"company": "Brightwater Engineering AG",
+"city": "Lugano",
+"effective": "2023-01-01",
+"filed": "2023-01-07",
+"officers": [
+{
+"kind": "person",
+"name": "Al-Hashimi, Khalid",
+"nationality": "AE",
+"ref": "F00302-o0"
+}
+],
+"shareholders": [
+{
+"kind": "person",
+"name": "Walker, Richard",
+"nationality": "GB",
+"ref": "F00302-s0",
+"pct": 100.0
+}
+]
+},
+{
+"id": "F00303",
+"country": "CY",
+"regno": "HE 233490",
+"company": "Kestrel Shipping Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-22",
+"officers": [
+{
+"kind": "person",
+"name": "MATTHIAS BECKER",
+"nationality": "DE",
+"ref": "F00303-o0"
+},
+{
+"kind": "person",
+"name": "KLAUS GROSS",
+"nationality": "DE",
+"ref": "F00303-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00304",
+"country": "CY",
+"regno": "HE 233490",
+"company": "Kestrel Shipping Ltd",
+"city": "Nicosia",
+"effective": "2023-12-24",
+"filed": "2024-01-17",
+"officers": [
+{
+"kind": "person",
+"name": "MATTHIAS BECKER",
+"nationality": "DE",
+"ref": "F00304-o0"
+},
+{
+"kind": "person",
+"name": "SARAH WRIGHT",
+"nationality": "GB",
+"ref": "F00304-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00305",
+"country": "CY",
+"regno": "HE 132188",
+"company": "Kestrel Holdings Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-26",
+"officers": [
+{
+"kind": "person",
+"name": "JUERGEN MUELLER",
+"nationality": "DE",
+"ref": "F00305-o0"
+},
+{
+"kind": "person",
+"name": "MING LIU",
+"nationality": "CH",
+"ref": "F00305-o1"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00306",
+"country": "CY",
+"regno": "HE 313130",
+"company": "Zephyr Shipping Ltd",
+"city": "Nicosia",
+"effective": "2023-01-01",
+"filed": "2023-01-15",
+"officers": [
+{
+"kind": "person",
+"name": "KLAUS WAGNER",
+"nationality": "DE",
+"ref": "F00306-o0"
+}
+],
+"shareholders": null
+},
+{
+"id": "F00307",
+"country": "CY",
+"regno": "HE 345590",
+"company": "Ashford Shipping Ltd",
+"city": "Limassol",
+"effective": "2023-01-01",
+"filed": "2023-01-20",
+"officers": [
+{
+"kind": "person",
+"name": "YELENA ZHUKOV",
+"nationality": "RU",
+"ref": "F00307-o0"
+}
+],
+"shareholders": null
+}
+]

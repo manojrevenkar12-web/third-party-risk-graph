@@ -1,0 +1,1122 @@
+[
+{
+"ref": "SUP-0001",
+"name": "Pinnacle Maschinenbau GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 28720",
+"batch": "dev"
+},
+{
+"ref": "SUP-0002",
+"name": "HELIOS CHEMIE GMBH",
+"country": "DE",
+"city": "Stuttgart",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0003",
+"name": "Granite Logistik",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 78885",
+"batch": "dev"
+},
+{
+"ref": "SUP-0004",
+"name": "Valiant Manufacturing",
+"country": "CN",
+"city": "Shenzhen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0005",
+"name": "BALTIC STAR LOGISTICS LTD",
+"country": "GB",
+"city": "London",
+"regno": "12191328",
+"batch": "dev"
+},
+{
+"ref": "SUP-0006",
+"name": "Sterling Verpackung",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 16500",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0007",
+"name": "Elbe Verpackung GmbH",
+"country": "DE",
+"city": "Stuttgart",
+"regno": "HRB 74865",
+"batch": "dev"
+},
+{
+"ref": "SUP-0008",
+"name": "RHEINTAL LOGISTIK GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0009",
+"name": "Eastwind Chemie",
+"country": "DE",
+"city": "Stuttgart",
+"regno": "HRB 20276",
+"batch": "dev"
+},
+{
+"ref": "SUP-0010",
+"name": "Rheintal Packaging",
+"country": "GB",
+"city": "Leeds",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0011",
+"name": "Wrenfield Maschinenbau GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0012",
+"name": "Harbourview Manufacturing Co., Ltd.",
+"country": "CN",
+"city": "Ningbo",
+"regno": "917574608648512028",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0013",
+"name": "Redstone Verpackung GmbH",
+"country": "DE",
+"city": "Stuttgart",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0014",
+"name": "Atlas Components Ltd",
+"country": "GB",
+"city": "Leeds",
+"regno": "12053823",
+"batch": "dev"
+},
+{
+"ref": "SUP-0015",
+"name": "Highmoor Trading Co., Ltd.",
+"country": "CN",
+"city": "Shenzhen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0016",
+"name": "Driftwood Engineering",
+"country": "GB",
+"city": "Manchester",
+"regno": "07125999",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0017",
+"name": "Westbrook Lojistik A.Ş.",
+"country": "TR",
+"city": "Izmir",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0018",
+"name": "Rheintal Elektronik GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0019",
+"name": "Aurora Chemie",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 38866",
+"batch": "dev"
+},
+{
+"ref": "SUP-0020",
+"name": "Kingfisher Trading AG",
+"country": "CH",
+"city": "Lugano",
+"regno": "CHE-683.781.202",
+"batch": "dev"
+},
+{
+"ref": "SUP-0021",
+"name": "Brightwater Verpackung GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0022",
+"name": "Trident Trading Co., Ltd.",
+"country": "CN",
+"city": "Ningbo",
+"regno": "914585256998110833",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0023",
+"name": "Redstone Trading Co., Ltd.",
+"country": "CN",
+"city": "Shenzhen",
+"regno": "914573843974999489",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0024",
+"name": "EASTWIND VERPACKUNG GMBH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 55978",
+"batch": "dev"
+},
+{
+"ref": "SUP-0025",
+"name": "Baltic Star Packaging Ltd",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0026",
+"name": "LINDENHOF TRADING CO., LTD.",
+"country": "CN",
+"city": "Shenzhen",
+"regno": "912523070407819165",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0027",
+"name": "Meridian Commodities AG",
+"country": "CH",
+"city": "Lugano",
+"regno": "CHE-221.568.458",
+"batch": "dev"
+},
+{
+"ref": "SUP-0028",
+"name": "Driftwood Verpackung GmbH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0029",
+"name": "Marlin Packaging",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0030",
+"name": "Wrenfield Elektronik",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 69192",
+"batch": "dev"
+},
+{
+"ref": "SUP-0031",
+"name": "Redstone Packaging",
+"country": "GB",
+"city": "Leeds",
+"regno": "01621858",
+"batch": "dev"
+},
+{
+"ref": "SUP-0032",
+"name": "Eastwind Trading Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": "12095512",
+"batch": "dev"
+},
+{
+"ref": "SUP-0033",
+"name": "Corvus Maschinenbau GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 94131",
+"batch": "dev"
+},
+{
+"ref": "SUP-0034",
+"name": "Seefeld Trading Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": "11657927",
+"batch": "dev"
+},
+{
+"ref": "SUP-0035",
+"name": "FALCON CREST VERPACKUNG GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 44695",
+"batch": "dev"
+},
+{
+"ref": "SUP-0036",
+"name": "ALDER CHEMIE GMBH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 48486",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0037",
+"name": "Polaris Packaging Ltd",
+"country": "GB",
+"city": "London",
+"regno": "13809151",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0038",
+"name": "Redstone Logistik",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 19980",
+"batch": "dev"
+},
+{
+"ref": "SUP-0039",
+"name": "UMBER CHEMIE GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 26267",
+"batch": "dev"
+},
+{
+"ref": "SUP-0040",
+"name": "Pinnacle Chemie",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 40745",
+"batch": "dev"
+},
+{
+"ref": "SUP-0041",
+"name": "COBALT HANDEL GMBH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 45393",
+"batch": "dev"
+},
+{
+"ref": "SUP-0042",
+"name": "MERIDIAN MASCHINENBAU GMBH",
+"country": "DE",
+"city": "Hamburg",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0043",
+"name": "Trident Manufacturing Co., Ltd.",
+"country": "CN",
+"city": "Ningbo",
+"regno": "914736234247396642",
+"batch": "dev"
+},
+{
+"ref": "SUP-0044",
+"name": "Pinnacle Logistics Ltd",
+"country": "GB",
+"city": "Leeds",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0045",
+"name": "Eastwind Handel GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 63597",
+"batch": "dev"
+},
+{
+"ref": "SUP-0046",
+"name": "DRIFTWOOD ENGINEERING AG",
+"country": "CH",
+"city": "Lugano",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0047",
+"name": "Sapphire Trading AG",
+"country": "CH",
+"city": "Geneva",
+"regno": "CHE-977.286.991",
+"batch": "dev"
+},
+{
+"ref": "SUP-0048",
+"name": "Lindenhof Logistics B.V.",
+"country": "NL",
+"city": "Rotterdam",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0049",
+"name": "MARLIN LOGISTICS LTD",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0050",
+"name": "Umber Trading",
+"country": "CH",
+"city": "Zug",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0051",
+"name": "Kingfisher Verpackung GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 73477",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0052",
+"name": "AURORA TRADING CO., LTD.",
+"country": "CN",
+"city": "Shenzhen",
+"regno": "912040659501344104",
+"batch": "dev"
+},
+{
+"ref": "SUP-0053",
+"name": "Atlas Ticaret A.Ş.",
+"country": "TR",
+"city": "Istanbul",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0054",
+"name": "BLUEWATER MASCHINENBAU GMBH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 72002",
+"batch": "dev"
+},
+{
+"ref": "SUP-0055",
+"name": "STERLING COMPONENTS LTD",
+"country": "GB",
+"city": "Manchester",
+"regno": "02260602",
+"batch": "dev"
+},
+{
+"ref": "SUP-0056",
+"name": "FOXGLOVE COMPONENTS B.V.",
+"country": "NL",
+"city": "Amsterdam",
+"regno": "82273142",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0057",
+"name": "NORTHGATE COMMODITIES AG",
+"country": "CH",
+"city": "Geneva",
+"regno": "CHE-984.417.303",
+"batch": "dev"
+},
+{
+"ref": "SUP-0058",
+"name": "Granite Trading",
+"country": "GB",
+"city": "Manchester",
+"regno": "09422289",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0059",
+"name": "Corvus Trading Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": "03971613",
+"batch": "dev"
+},
+{
+"ref": "SUP-0060",
+"name": "Ironbridge Trading",
+"country": "CH",
+"city": "Geneva",
+"regno": "CHE-601.783.589",
+"batch": "dev"
+},
+{
+"ref": "SUP-0061",
+"name": "Falcon Crest Chemie GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0062",
+"name": "Trident Maschinenbau GmbH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0063",
+"name": "Bluewater Logistik GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 75599",
+"batch": "dev"
+},
+{
+"ref": "SUP-0064",
+"name": "Kingfisher Engineering AG",
+"country": "CH",
+"city": "Geneva",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0065",
+"name": "Redstone Elektronik GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0066",
+"name": "LINDENHOF CHEMIE GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 61840",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0067",
+"name": "Umber Trading B.V.",
+"country": "NL",
+"city": "Amsterdam",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0068",
+"name": "Umber Trading",
+"country": "GB",
+"city": "Leeds",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0069",
+"name": "TAMARIND COMPONENTS LTD",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0070",
+"name": "Lindenhof Ticaret A.Ş.",
+"country": "TR",
+"city": "Istanbul",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0071",
+"name": "Atlas Elektronik GmbH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0072",
+"name": "Goldcrest Logistics Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": "08127639",
+"batch": "dev"
+},
+{
+"ref": "SUP-0073",
+"name": "Helios Trading",
+"country": "NL",
+"city": "Rotterdam",
+"regno": "10558515",
+"batch": "dev"
+},
+{
+"ref": "SUP-0074",
+"name": "Driftwood Elektronik GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 13489",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0075",
+"name": "Aurora Engineering Ltd",
+"country": "GB",
+"city": "Leeds",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0076",
+"name": "Granite Shipping",
+"country": "NL",
+"city": "Rotterdam",
+"regno": "57961965",
+"batch": "dev"
+},
+{
+"ref": "SUP-0077",
+"name": "Vega Chemie GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 54830",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0078",
+"name": "GOLDCREST HANDEL GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 19872",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0079",
+"name": "Quarry Hill Verpackung GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 27592",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0080",
+"name": "ORION HANDEL GMBH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0081",
+"name": "Meridian Manufacturing Co., Ltd.",
+"country": "CN",
+"city": "Shenzhen",
+"regno": "916918214750494447",
+"batch": "dev"
+},
+{
+"ref": "SUP-0082",
+"name": "Eastwind Elektronik GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 60862",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0083",
+"name": "Elbe Chemie GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 83088",
+"batch": "dev"
+},
+{
+"ref": "SUP-0084",
+"name": "Highmoor Elektronik GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 29349",
+"batch": "dev"
+},
+{
+"ref": "SUP-0085",
+"name": "POLARIS COMPONENTS LTD",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0086",
+"name": "Baltic Star Commodities AG",
+"country": "CH",
+"city": "Geneva",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0087",
+"name": "Sterling Maschinenbau GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0088",
+"name": "EASTWIND LOGISTIK GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0089",
+"name": "LARCH TRADING B.V.",
+"country": "NL",
+"city": "Rotterdam",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0090",
+"name": "Driftwood Logistics",
+"country": "NL",
+"city": "Amsterdam",
+"regno": "16234220",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0091",
+"name": "Foxglove Logistics BV",
+"country": "NL",
+"city": "Amsterdam",
+"regno": "84217395",
+"batch": "dev"
+},
+{
+"ref": "SUP-0092",
+"name": "Larch Components BV",
+"country": "NL",
+"city": "Amsterdam",
+"regno": "82239158",
+"batch": "dev"
+},
+{
+"ref": "SUP-0093",
+"name": "Redstone Trading",
+"country": "CH",
+"city": "Lugano",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0094",
+"name": "Sterling Chemicals Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": "04698024",
+"batch": "dev"
+},
+{
+"ref": "SUP-0095",
+"name": "Zephyr Maschinenbau GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0096",
+"name": "Elbe Handel GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 55663",
+"batch": "dev"
+},
+{
+"ref": "SUP-0097",
+"name": "Alder Elektronik",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0098",
+"name": "Kingfisher Trading Ltd",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0099",
+"name": "CRESCENT LOGISTIK GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0100",
+"name": "Orion Chemie",
+"country": "DE",
+"city": "Hamburg",
+"regno": "HRB 21725",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0101",
+"name": "Corvus Chemie",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0102",
+"name": "Cobalt Trading AG",
+"country": "CH",
+"city": "Zug",
+"regno": "CHE-233.609.941",
+"batch": "dev"
+},
+{
+"ref": "SUP-0103",
+"name": "Ironbridge Trading",
+"country": "NL",
+"city": "Amsterdam",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0104",
+"name": "ATLAS MASCHINENBAU GMBH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 50001",
+"batch": "dev"
+},
+{
+"ref": "SUP-0105",
+"name": "Zephyr Chemie GmbH",
+"country": "DE",
+"city": "Hamburg",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0106",
+"name": "Lindenhof Trading",
+"country": "NL",
+"city": "Amsterdam",
+"regno": "66155750",
+"batch": "dev"
+},
+{
+"ref": "SUP-0107",
+"name": "Emberly Handel GmbH",
+"country": "DE",
+"city": "Stuttgart",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0108",
+"name": "Cobalt Trading Co., Ltd.",
+"country": "CN",
+"city": "Ningbo",
+"regno": "917611675542931575",
+"batch": "dev"
+},
+{
+"ref": "SUP-0109",
+"name": "Kestrel Elektronik",
+"country": "DE",
+"city": "Bremen",
+"regno": "HRB 16627",
+"batch": "dev"
+},
+{
+"ref": "SUP-0110",
+"name": "Oakridge Manufacturing Co., Ltd.",
+"country": "CN",
+"city": "Ningbo",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0111",
+"name": "Silverline Logistics Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": "13422090",
+"batch": "dev"
+},
+{
+"ref": "SUP-0112",
+"name": "NORDWIND HANDEL GMBH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0113",
+"name": "SEEFELD TRADING B.V.",
+"country": "NL",
+"city": "Amsterdam",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0114",
+"name": "Quarry Hill Logistik GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 97652",
+"batch": "dev"
+},
+{
+"ref": "SUP-0115",
+"name": "Kestrel Logistics Ltd",
+"country": "GB",
+"city": "Manchester",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0116",
+"name": "Ironbridge Handel GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0117",
+"name": "Ironbridge Chemie GmbH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0118",
+"name": "Corvus Verpackung GmbH",
+"country": "DE",
+"city": "Bremen",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0119",
+"name": "Goldcrest Engineering Ltd",
+"country": "GB",
+"city": "London",
+"regno": "09801549",
+"batch": "dev"
+},
+{
+"ref": "SUP-0120",
+"name": "ATLAS LOGISTIK GMBH",
+"country": "DE",
+"city": "Stuttgart",
+"regno": "HRB 78920",
+"batch": "dev"
+},
+{
+"ref": "SUP-0121",
+"name": "Northgate Chemie GmbH",
+"country": "DE",
+"city": "Leipzig",
+"regno": "HRB 21489",
+"batch": "dev"
+},
+{
+"ref": "SUP-0122",
+"name": "Cobalt Logistik GmbH",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": "HRB 28533",
+"batch": "dev"
+},
+{
+"ref": "SUP-0123",
+"name": "Foxglove Engineering",
+"country": "GB",
+"city": "London",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0124",
+"name": "Rheintal Shipping BV",
+"country": "NL",
+"city": "Rotterdam",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0125",
+"name": "Tamarind Engineering Ltd",
+"country": "GB",
+"city": "London",
+"regno": "13378825",
+"batch": "dev"
+},
+{
+"ref": "SUP-0126",
+"name": "Harbourview Verpackung",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0127",
+"name": "Umber Handel GmbH",
+"country": "DE",
+"city": "Stuttgart",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0128",
+"name": "Elbe Engineering",
+"country": "GB",
+"city": "Manchester",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0129",
+"name": "ORION LOGISTICS B.V.",
+"country": "NL",
+"city": "Rotterdam",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0130",
+"name": "Eastwind Logistics Ltd",
+"country": "GB",
+"city": "Leeds",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0131",
+"name": "Valiant Elektronik",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0132",
+"name": "Silverline Components",
+"country": "GB",
+"city": "Leeds",
+"regno": null,
+"batch": "dev"
+},
+{
+"ref": "SUP-0133",
+"name": "Zephyr Trading",
+"country": "CH",
+"city": "Geneva",
+"regno": "CHE-842.994.771",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0134",
+"name": "Westbrook Engineering Ltd",
+"country": "GB",
+"city": "Leeds",
+"regno": "01859354",
+"batch": "heldout"
+},
+{
+"ref": "SUP-0135",
+"name": "Marlin Chemie",
+"country": "DE",
+"city": "Frankfurt am Main",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0136",
+"name": "Eastwind Commodities AG",
+"country": "CH",
+"city": "Zug",
+"regno": "CHE-797.110.226",
+"batch": "dev"
+},
+{
+"ref": "SUP-0137",
+"name": "Umber Engineering",
+"country": "CH",
+"city": "Geneva",
+"regno": "CHE-465.615.175",
+"batch": "dev"
+},
+{
+"ref": "SUP-0138",
+"name": "Emberly Shipping",
+"country": "NL",
+"city": "Rotterdam",
+"regno": "79615374",
+"batch": "dev"
+},
+{
+"ref": "SUP-0139",
+"name": "Larch Engineering AG",
+"country": "CH",
+"city": "Geneva",
+"regno": null,
+"batch": "heldout"
+},
+{
+"ref": "SUP-0140",
+"name": "Silverline Handel",
+"country": "DE",
+"city": "Stuttgart",
+"regno": "HRB 71640",
+"batch": "dev"
+}
+]

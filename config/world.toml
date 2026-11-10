@@ -1,0 +1,44 @@
+# The simulated world. Only src/trg/world and src/trg/evals read this file and data/truth.
+
+seed = 20261110
+start = "2023-01-01"
+end = "2026-06-30"
+dev_cutoff = "2025-12-31"     # documents and filings after this date, and the held-out supplier batch, are held out
+
+[people]
+count = 420
+namesakes = 45                # extra people who share a full name with someone else (different birth date or country)
+cultures = { de = 0.25, ru = 0.2, en = 0.15, tr = 0.1, ar = 0.15, cn = 0.15 }
+
+[companies]
+suppliers = 140               # the client's third parties
+holdings = 90                 # holding companies above them (Cyprus, UAE, Netherlands, Switzerland, BVI)
+heldout_suppliers = 40        # of the suppliers, a batch onboarded later and held out
+opaque = ["AE", "VG"]         # registries that publish nothing
+partial = ["CY"]              # registries that publish officers but not shareholders
+ownership_change = 0.3        # suppliers whose ownership changes during the period
+director_change = 0.4
+company_namesakes = 25        # unrelated companies whose names collide with a supplier or holding
+
+[risk]
+sanctioned_people = 30
+sanctioned_companies = 12
+delisted = 5
+peps = 35
+adverse_events = 120
+topics = ["bribery", "fraud", "sanctions_evasion", "money_laundering", "labour_violations", "environmental", "tax_evasion"]
+
+[documents]
+per_event = [1, 3]            # articles per adverse event
+namesake_articles = 40        # articles about a namesake of a supplier, director or owner
+ownership_articles = 50       # articles that mention an ownership change
+german_share = 0.35
+
+[web]
+pages_per_opaque_holding = [1, 3]
+namesake_pages = 30
+stale_pages = 25              # pages that state an owner who has since sold
+
+[questions]
+dev = 400
+heldout = 260

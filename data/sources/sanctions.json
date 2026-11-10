@@ -1,0 +1,541 @@
+[
+{
+"id": "S0001",
+"type": "individual",
+"name": "GROSS, Matthias",
+"aliases": [
+"Matthias Gross"
+],
+"dob": "1966-09-06",
+"nationality": "DE",
+"listed": "2024-04-30",
+"delisted": null,
+"programme": "EU 269/2014"
+},
+{
+"id": "S0002",
+"type": "individual",
+"name": "BECKER, Jorg",
+"aliases": [
+"Joerg Becker",
+"Jorg Becker"
+],
+"dob": "1955-03-02",
+"nationality": "CY",
+"listed": "2025-09-23",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0003",
+"type": "individual",
+"name": "HOFFMANN, Anna",
+"aliases": [],
+"dob": "1974-05-20",
+"nationality": "DE",
+"listed": "2025-02-03",
+"delisted": null,
+"programme": "SDGT"
+},
+{
+"id": "S0004",
+"type": "individual",
+"name": "KOVALYOV, Sergey Sergeyevich",
+"aliases": [
+"Sergey Sergeyevich Kovalyov",
+"Sergej Kowaljow",
+"Sergey Kovalev"
+],
+"dob": "1953-04-29",
+"nationality": "RU",
+"listed": "2025-08-29",
+"delisted": null,
+"programme": "EU 269/2014"
+},
+{
+"id": "S0005",
+"type": "individual",
+"name": "AYDIN, Gulsen",
+"aliases": [
+"Gulsen Aydin"
+],
+"dob": "1989-01-06",
+"nationality": "TR",
+"listed": "2025-03-14",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0006",
+"type": "individual",
+"name": "SCHAFER, Klaus",
+"aliases": [
+"Klaus Schaefer",
+"Klaus Schafer"
+],
+"dob": "1962-07-02",
+"nationality": "DE",
+"listed": "2025-03-04",
+"delisted": null,
+"programme": "EU 269/2014"
+},
+{
+"id": "S0007",
+"type": "individual",
+"name": "CHEN, Fang",
+"aliases": [
+"Chen Fang"
+],
+"dob": "1963-10-02",
+"nationality": "CN",
+"listed": "2022-11-24",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0008",
+"type": "individual",
+"name": "KILIC, Baris",
+"aliases": [
+"Baris Kilic"
+],
+"dob": "1979-06-09",
+"nationality": "TR",
+"listed": "2021-02-02",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0009",
+"type": "individual",
+"name": "TAYLOR, William",
+"aliases": [],
+"dob": "1971-10-24",
+"nationality": "GB",
+"listed": "2025-09-05",
+"delisted": null,
+"programme": "SDGT"
+},
+{
+"id": "S0010",
+"type": "individual",
+"name": "SCHMIDT, Julia",
+"aliases": [],
+"dob": "1952-03-03",
+"nationality": "DE",
+"listed": "2022-02-02",
+"delisted": "2023-09-19",
+"programme": "GLOMAG"
+},
+{
+"id": "S0011",
+"type": "individual",
+"name": "BELYAYEV, Tatyana",
+"aliases": [
+"Tatjana Beljajew",
+"Tatyana Belyaev"
+],
+"dob": "1975-08-23",
+"nationality": "RU",
+"listed": "2020-11-15",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0012",
+"type": "individual",
+"name": "SMITH, Hannah",
+"aliases": [],
+"dob": "1974-04-05",
+"nationality": "GB",
+"listed": "2023-04-30",
+"delisted": null,
+"programme": "SDGT"
+},
+{
+"id": "S0013",
+"type": "individual",
+"name": "TURNER, Emily",
+"aliases": [],
+"dob": "1957-06-06",
+"nationality": "GB",
+"listed": "2021-05-18",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0014",
+"type": "individual",
+"name": "WAGNER, Klaus",
+"aliases": [],
+"dob": "1955-11-07",
+"nationality": "DE",
+"listed": "2024-05-02",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0015",
+"type": "individual",
+"name": "KAYA, Ayse",
+"aliases": [
+"Ayse Kaya"
+],
+"dob": "1954-07-13",
+"nationality": "TR",
+"listed": "2023-11-05",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0016",
+"type": "individual",
+"name": "BOHM, Julia",
+"aliases": [
+"Julia Boehm",
+"Julia Bohm"
+],
+"dob": "1981-10-27",
+"nationality": "DE",
+"listed": "2024-04-25",
+"delisted": null,
+"programme": "EU 269/2014"
+},
+{
+"id": "S0017",
+"type": "individual",
+"name": "SALEH, Omar",
+"aliases": [],
+"dob": "1973-10-18",
+"nationality": "AE",
+"listed": "2023-02-12",
+"delisted": null,
+"programme": "SDGT"
+},
+{
+"id": "S0018",
+"type": "individual",
+"name": "SCHAFER, Uwe",
+"aliases": [
+"Uwe Schaefer",
+"Uwe Schafer"
+],
+"dob": "1967-09-18",
+"nationality": "DE",
+"listed": "2022-11-14",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0019",
+"type": "individual",
+"name": "BENNETT, William",
+"aliases": [],
+"dob": "1984-02-18",
+"nationality": "GB",
+"listed": "2025-02-16",
+"delisted": "2026-03-15",
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0020",
+"type": "individual",
+"name": "AYDIN, Cagri",
+"aliases": [
+"Cagri Aydin"
+],
+"dob": "1984-07-19",
+"nationality": "TR",
+"listed": "2024-09-22",
+"delisted": "2025-11-01",
+"programme": "GLOMAG"
+},
+{
+"id": "S0021",
+"type": "individual",
+"name": "COOPER, Lucy",
+"aliases": [],
+"dob": "1982-03-23",
+"nationality": "GB",
+"listed": "2024-11-14",
+"delisted": null,
+"programme": "EU 269/2014"
+},
+{
+"id": "S0022",
+"type": "individual",
+"name": "KUZNETSOV, Yuriy Yuryevich",
+"aliases": [
+"Yuriy Yuryevich Kuznetsov",
+"Juri Kusnezow",
+"Yury Kuznetsov"
+],
+"dob": "1962-02-01",
+"nationality": "RU",
+"listed": "2021-08-23",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0023",
+"type": "individual",
+"name": "ZHANG, Mei",
+"aliases": [
+"Zhang Mei"
+],
+"dob": "1966-12-30",
+"nationality": "CN",
+"listed": "2020-10-09",
+"delisted": "2023-07-06",
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0024",
+"type": "individual",
+"name": "AL-QASIMI, Mariam",
+"aliases": [
+"Mariam Al Qassimi"
+],
+"dob": "1958-07-24",
+"nationality": "AE",
+"listed": "2026-03-13",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0025",
+"type": "individual",
+"name": "CHEN, Li",
+"aliases": [
+"Chen Li"
+],
+"dob": "1980-03-26",
+"nationality": "CN",
+"listed": "2021-09-02",
+"delisted": null,
+"programme": "EU 269/2014"
+},
+{
+"id": "S0026",
+"type": "individual",
+"name": "CHEN, Li",
+"aliases": [
+"Chen Li"
+],
+"dob": "1958-09-02",
+"nationality": "GB",
+"listed": "2020-08-18",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0027",
+"type": "individual",
+"name": "SEMYONOV, Dmitriy Dmitriyevich",
+"aliases": [
+"Dmitriy Dmitriyevich Semyonov",
+"Dmitri Semjonow",
+"Dmitry Semenov"
+],
+"dob": "1974-02-11",
+"nationality": "RU",
+"listed": "2022-07-11",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0028",
+"type": "individual",
+"name": "WAGNER, Stefan",
+"aliases": [],
+"dob": "1951-01-30",
+"nationality": "DE",
+"listed": "2021-05-17",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0029",
+"type": "individual",
+"name": "BELYAYEV, Yuriy Yuryevich",
+"aliases": [
+"Yuriy Yuryevich Belyayev",
+"Juri Beljajew",
+"Yury Belyaev"
+],
+"dob": "1959-04-11",
+"nationality": "RU",
+"listed": "2025-06-23",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0030",
+"type": "individual",
+"name": "CELIK, Sukru",
+"aliases": [
+"Sukru Celik"
+],
+"dob": "1952-02-01",
+"nationality": "TR",
+"listed": "2021-11-16",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0031",
+"type": "entity",
+"name": "BLUEWATER ENGINEERING AG",
+"aliases": [
+"Bluewater Engineering"
+],
+"country": "CH",
+"regno": "CHE-471.283.155",
+"listed": "2022-04-27",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0032",
+"type": "entity",
+"name": "PINNACLE COMMODITIES AG",
+"aliases": [
+"Pinnacle Commodities"
+],
+"country": "CH",
+"regno": "CHE-684.286.909",
+"listed": "2021-12-08",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0033",
+"type": "entity",
+"name": "LINDENHOF SHIPPING LTD",
+"aliases": [
+"Lindenhof Shipping"
+],
+"country": "CY",
+"regno": "HE 487508",
+"listed": "2022-08-06",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0034",
+"type": "entity",
+"name": "QUARRY HILL ENGINEERING AG",
+"aliases": [
+"Quarry Hill Engineering"
+],
+"country": "CH",
+"regno": "CHE-577.955.993",
+"listed": "2020-09-05",
+"delisted": "2024-03-21",
+"programme": "UK-RUS"
+},
+{
+"id": "S0035",
+"type": "entity",
+"name": "ATLAS SHIPPING B.V.",
+"aliases": [
+"Atlas Shipping"
+],
+"country": "NL",
+"regno": "52241867",
+"listed": "2020-11-04",
+"delisted": null,
+"programme": "SDGT"
+},
+{
+"id": "S0036",
+"type": "entity",
+"name": "TRIDENT SHIPPING B.V.",
+"aliases": [
+"Trident Shipping"
+],
+"country": "NL",
+"regno": "78770879",
+"listed": "2026-03-01",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0037",
+"type": "entity",
+"name": "GRANITE HOLDINGS LTD",
+"aliases": [
+"Granite Holdings"
+],
+"country": "VG",
+"regno": null,
+"listed": "2022-01-30",
+"delisted": null,
+"programme": "GLOMAG"
+},
+{
+"id": "S0038",
+"type": "entity",
+"name": "BLUEWATER INVESTMENTS LLC",
+"aliases": [
+"Bluewater Investments"
+],
+"country": "AE",
+"regno": null,
+"listed": "2021-02-22",
+"delisted": null,
+"programme": "RUSSIA-EO14024"
+},
+{
+"id": "S0039",
+"type": "entity",
+"name": "CRESCENT HOLDINGS LTD",
+"aliases": [
+"Crescent Holdings"
+],
+"country": "CY",
+"regno": "HE 126046",
+"listed": "2025-01-31",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0040",
+"type": "entity",
+"name": "ZEPHYR INVESTMENTS LLC",
+"aliases": [
+"Zephyr Investments"
+],
+"country": "AE",
+"regno": null,
+"listed": "2022-02-17",
+"delisted": null,
+"programme": "SDGT"
+},
+{
+"id": "S0041",
+"type": "entity",
+"name": "VALIANT INVESTMENTS LLC",
+"aliases": [
+"Valiant Investments"
+],
+"country": "AE",
+"regno": null,
+"listed": "2022-06-27",
+"delisted": null,
+"programme": "UK-RUS"
+},
+{
+"id": "S0042",
+"type": "entity",
+"name": "POLARIS CAPITAL LTD",
+"aliases": [
+"Polaris Capital"
+],
+"country": "VG",
+"regno": null,
+"listed": "2021-11-23",
+"delisted": null,
+"programme": "UK-RUS"
+}
+]
