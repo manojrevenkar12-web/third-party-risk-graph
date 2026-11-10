@@ -1,0 +1,2571 @@
+{
+ "dev": {
+  "commit": null,
+  "designs": {
+   "graph-pipeline": {
+    "label": "Graph pipeline",
+    "questions": 400,
+    "right": 0.865,
+    "right_ci": [
+     0.8280182729276188,
+     0.8950374994346143
+    ],
+    "wrong": 0.0,
+    "wrong_ci": [
+     0.0,
+     0.009512640599680667
+    ],
+    "abstained": 0.135,
+    "right_when_answered": 1.0,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 60,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 4
+     },
+     "pep_exposure": {
+      "right": 52,
+      "wrong": 0,
+      "abstained": 5
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 22,
+      "wrong": 0,
+      "abstained": 19
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9938144329896907,
+    "er_recall": 0.9347123464770524,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 141
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.7872340425531915,
+    "web": {
+     "right": 40,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8333333333333334,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 777,
+    "model_eur": 0.14282160000000085,
+    "search_eur": 1.058,
+    "searches": 132,
+    "schema_errors": 0,
+    "build_seconds": 4.917545056999643,
+    "ask_ms_per_question": 92.52540792250102,
+    "writes": 1703,
+    "topic_model_ms": 1.7546454464130485,
+    "gate_failures": []
+   },
+   "naive-prototype": {
+    "label": "Naive prototype",
+    "questions": 400,
+    "right": 0.495,
+    "right_ci": [
+     0.44628359498707637,
+     0.5438115314189205
+    ],
+    "wrong": 0.47,
+    "wrong_ci": [
+     0.42160601793747937,
+     0.5189647404985014
+    ],
+    "abstained": 0.035,
+    "right_when_answered": 0.5129533678756477,
+    "by_intent": {
+     "adverse_media": {
+      "right": 47,
+      "wrong": 7,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 33,
+      "wrong": 27,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 43,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 19,
+      "wrong": 22,
+      "abstained": 2
+     },
+     "owners": {
+      "right": 24,
+      "wrong": 16,
+      "abstained": 1
+     },
+     "pep_exposure": {
+      "right": 30,
+      "wrong": 26,
+      "abstained": 1
+     },
+     "sanctions_exposure": {
+      "right": 37,
+      "wrong": 16,
+      "abstained": 4
+     },
+     "ubo": {
+      "right": 8,
+      "wrong": 31,
+      "abstained": 2
+     }
+    },
+    "model_cypher_used": 336,
+    "er_precision": 0.7807083647324793,
+    "er_recall": 0.8720538720538721,
+    "false_sanctions_links": 4,
+    "review_queue": 0,
+    "articles": {
+     "attached_right": 108,
+     "wrong_entity": 11,
+     "wrong_topic": 5,
+     "namesake_attached": 9,
+     "articles_about_graph_entities": 133
+    },
+    "article_precision": 0.8120300751879699,
+    "article_recall": 0.8120300751879699,
+    "web": {
+     "right": 20,
+     "wrong_owner": 15,
+     "stale_kept": 2
+    },
+    "web_precision": 0.5405405405405406,
+    "topic_by": {
+     "model": 133
+    },
+    "model_calls": 656,
+    "model_eur": 0.8021730000000002,
+    "search_eur": 0.34600000000000003,
+    "searches": 43,
+    "schema_errors": 0,
+    "build_seconds": 4.0682051359999605,
+    "ask_ms_per_question": 86.41252779999944,
+    "writes": 1563,
+    "topic_model_ms": 0.0,
+    "gate_failures": [
+     "right 0.495 < 0.85",
+     "wrong 0.470 > 0.02",
+     "resolution precision 0.7807 < 0.99",
+     "4 sanctions listings attached to the wrong party",
+     "article precision 0.812 < 0.95"
+    ]
+   },
+   "no-transliteration": {
+    "label": "Without transliteration",
+    "questions": 400,
+    "right": 0.6725,
+    "right_ci": [
+     0.6250574069613036,
+     0.7166607320318065
+    ],
+    "wrong": 0.1425,
+    "wrong_ci": [
+     0.11163780858819913,
+     0.18016372944057255
+    ],
+    "abstained": 0.185,
+    "right_when_answered": 0.8251533742331288,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 51,
+      "wrong": 9,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 43,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 36,
+      "wrong": 0,
+      "abstained": 7
+     },
+     "owners": {
+      "right": 31,
+      "wrong": 0,
+      "abstained": 10
+     },
+     "pep_exposure": {
+      "right": 42,
+      "wrong": 3,
+      "abstained": 12
+     },
+     "sanctions_exposure": {
+      "right": 35,
+      "wrong": 2,
+      "abstained": 20
+     },
+     "ubo": {
+      "right": 20,
+      "wrong": 0,
+      "abstained": 21
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9917127071823204,
+    "er_recall": 0.8664521319388576,
+    "false_sanctions_links": 0,
+    "review_queue": 16,
+    "articles": {
+     "attached_right": 88,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 136
+    },
+    "article_precision": 0.9887640449438202,
+    "article_recall": 0.6470588235294118,
+    "web": {
+     "right": 37,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8222222222222222,
+    "topic_by": {
+     "small model": 89
+    },
+    "model_calls": 735,
+    "model_eur": 0.1350464000000006,
+    "search_eur": 0.962,
+    "searches": 120,
+    "schema_errors": 0,
+    "build_seconds": 4.580258483999842,
+    "ask_ms_per_question": 89.47813738250034,
+    "writes": 1546,
+    "topic_model_ms": 2.1418555730132938,
+    "gate_failures": [
+     "right 0.672 < 0.85",
+     "wrong 0.142 > 0.02"
+    ]
+   },
+   "names-only-resolution": {
+    "label": "Names-only resolution",
+    "questions": 400,
+    "right": 0.695,
+    "right_ci": [
+     0.6482019278700493,
+     0.7380881422960752
+    ],
+    "wrong": 0.2375,
+    "wrong_ci": [
+     0.19841684319432581,
+     0.2815772931205065
+    ],
+    "abstained": 0.0675,
+    "right_when_answered": 0.7453083109919572,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 2,
+      "abstained": 0
+     },
+     "directors": {
+      "right": 48,
+      "wrong": 14,
+      "abstained": 0
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 43,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 38,
+      "wrong": 1,
+      "abstained": 4
+     },
+     "owners": {
+      "right": 33,
+      "wrong": 6,
+      "abstained": 2
+     },
+     "pep_exposure": {
+      "right": 43,
+      "wrong": 12,
+      "abstained": 2
+     },
+     "sanctions_exposure": {
+      "right": 48,
+      "wrong": 8,
+      "abstained": 1
+     },
+     "ubo": {
+      "right": 14,
+      "wrong": 9,
+      "abstained": 18
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.7617107942973523,
+    "er_recall": 0.9946808510638298,
+    "false_sanctions_links": 7,
+    "review_queue": 0,
+    "articles": {
+     "attached_right": 94,
+     "wrong_entity": 2,
+     "wrong_topic": 0,
+     "namesake_attached": 2,
+     "articles_about_graph_entities": 108
+    },
+    "article_precision": 0.9591836734693877,
+    "article_recall": 0.8703703703703703,
+    "web": {
+     "right": 33,
+     "wrong_owner": 12,
+     "stale_kept": 1
+    },
+    "web_precision": 0.717391304347826,
+    "topic_by": {
+     "small model": 98
+    },
+    "model_calls": 751,
+    "model_eur": 0.13802960000000072,
+    "search_eur": 0.986,
+    "searches": 123,
+    "schema_errors": 0,
+    "build_seconds": 4.765475624999908,
+    "ask_ms_per_question": 87.10795488750024,
+    "writes": 1607,
+    "topic_model_ms": 2.1153440816491713,
+    "gate_failures": [
+     "right 0.695 < 0.85",
+     "wrong 0.237 > 0.02",
+     "resolution precision 0.7617 < 0.99",
+     "7 sanctions listings attached to the wrong party"
+    ]
+   },
+   "latest-state-graph": {
+    "label": "Latest-state graph (no time)",
+    "questions": 400,
+    "right": 0.6775,
+    "right_ci": [
+     0.6301902006565719,
+     0.7214328119305414
+    ],
+    "wrong": 0.1775,
+    "wrong_ci": [
+     0.14317534561717957,
+     0.21796030756961446
+    ],
+    "abstained": 0.145,
+    "right_when_answered": 0.7923976608187134,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 54,
+      "wrong": 6,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 3,
+      "wrong": 40,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 19,
+      "wrong": 18,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 33,
+      "wrong": 4,
+      "abstained": 4
+     },
+     "pep_exposure": {
+      "right": 50,
+      "wrong": 0,
+      "abstained": 7
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 17,
+      "wrong": 3,
+      "abstained": 21
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9938144329896907,
+    "er_recall": 0.9347123464770524,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 141
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.7872340425531915,
+    "web": {
+     "right": 36,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8181818181818182,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 777,
+    "model_eur": 0.14282160000000085,
+    "search_eur": 1.058,
+    "searches": 132,
+    "schema_errors": 0,
+    "build_seconds": 4.851656153000022,
+    "ask_ms_per_question": 92.21315325500088,
+    "writes": 1699,
+    "topic_model_ms": 1.9599638214060633,
+    "gate_failures": [
+     "right 0.677 < 0.85",
+     "wrong 0.177 > 0.02"
+    ]
+   },
+   "no-context-check": {
+    "label": "Without context checks",
+    "questions": 400,
+    "right": 0.865,
+    "right_ci": [
+     0.8280182729276188,
+     0.8950374994346143
+    ],
+    "wrong": 0.0025,
+    "wrong_ci": [
+     0.00044143642943440895,
+     0.014023640967247855
+    ],
+    "abstained": 0.1325,
+    "right_when_answered": 0.9971181556195965,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 59,
+      "wrong": 1,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 38,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "pep_exposure": {
+      "right": 52,
+      "wrong": 0,
+      "abstained": 5
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 22,
+      "wrong": 0,
+      "abstained": 19
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9120458891013384,
+    "er_recall": 0.9108847867600255,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 116,
+     "wrong_entity": 14,
+     "wrong_topic": 0,
+     "namesake_attached": 16,
+     "articles_about_graph_entities": 143
+    },
+    "article_precision": 0.7945205479452054,
+    "article_recall": 0.8111888111888111,
+    "web": {
+     "right": 40,
+     "wrong_owner": 5,
+     "stale_kept": 1
+    },
+    "web_precision": 0.8695652173913043,
+    "topic_by": {
+     "small model": 146
+    },
+    "model_calls": 765,
+    "model_eur": 0.1406536000000008,
+    "search_eur": 1.01,
+    "searches": 126,
+    "schema_errors": 0,
+    "build_seconds": 4.82461608199992,
+    "ask_ms_per_question": 91.61804506999943,
+    "writes": 1769,
+    "topic_model_ms": 1.8428572260035414,
+    "gate_failures": [
+     "resolution precision 0.9120 < 0.99",
+     "article precision 0.795 < 0.95"
+    ]
+   },
+   "enrichment-first-result": {
+    "label": "Enrichment takes the first result",
+    "questions": 400,
+    "right": 0.8625,
+    "right_ci": [
+     0.825287326885749,
+     0.8928160086794825
+    ],
+    "wrong": 0.01,
+    "wrong_ci": [
+     0.0038954207932788126,
+     0.02542696699440824
+    ],
+    "abstained": 0.1275,
+    "right_when_answered": 0.9885386819484241,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 60,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 37,
+      "wrong": 2,
+      "abstained": 2
+     },
+     "pep_exposure": {
+      "right": 52,
+      "wrong": 0,
+      "abstained": 5
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 21,
+      "wrong": 2,
+      "abstained": 18
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9564564564564565,
+    "er_recall": 0.9061166429587483,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 138
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.8043478260869565,
+    "web": {
+     "right": 22,
+     "wrong_owner": 17,
+     "stale_kept": 3
+    },
+    "web_precision": 0.5238095238095238,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 325,
+    "model_eur": 0.060323999999999954,
+    "search_eur": 0.386,
+    "searches": 48,
+    "schema_errors": 0,
+    "build_seconds": 4.547764594,
+    "ask_ms_per_question": 92.42347058249946,
+    "writes": 1663,
+    "topic_model_ms": 1.915214946442185,
+    "gate_failures": [
+     "resolution precision 0.9565 < 0.99"
+    ]
+   },
+   "no-enrichment": {
+    "label": "Without web enrichment",
+    "questions": 400,
+    "right": 0.8575,
+    "right_ci": [
+     0.8198362705594275,
+     0.888362191411801
+    ],
+    "wrong": 0.0,
+    "wrong_ci": [
+     0.0,
+     0.009512640599680667
+    ],
+    "abstained": 0.1425,
+    "right_when_answered": 1.0,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 60,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 4
+     },
+     "pep_exposure": {
+      "right": 52,
+      "wrong": 0,
+      "abstained": 5
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 19,
+      "wrong": 0,
+      "abstained": 22
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9964912280701754,
+    "er_recall": 0.9228269699431356,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 136
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.8161764705882353,
+    "web": {
+     "right": 0,
+     "wrong_owner": 0,
+     "stale_kept": 0
+    },
+    "web_precision": 0.0,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 283,
+    "model_eur": 0.0526296,
+    "search_eur": 0.002,
+    "searches": 0,
+    "schema_errors": 0,
+    "build_seconds": 4.860633251999843,
+    "ask_ms_per_question": 94.49479120249977,
+    "writes": 1607,
+    "topic_model_ms": 2.1851061428606045,
+    "gate_failures": []
+   },
+   "llm-cypher-validated": {
+    "label": "Model writes Cypher, checked",
+    "questions": 400,
+    "right": 0.81,
+    "right_ci": [
+     0.7686754184345865,
+     0.8454267443936117
+    ],
+    "wrong": 0.0875,
+    "wrong_ci": [
+     0.06358653632567662,
+     0.11926139216905993
+    ],
+    "abstained": 0.1025,
+    "right_when_answered": 0.9025069637883009,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 55,
+      "wrong": 5,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 36,
+      "wrong": 2,
+      "abstained": 3
+     },
+     "pep_exposure": {
+      "right": 39,
+      "wrong": 15,
+      "abstained": 3
+     },
+     "sanctions_exposure": {
+      "right": 37,
+      "wrong": 7,
+      "abstained": 13
+     },
+     "ubo": {
+      "right": 23,
+      "wrong": 6,
+      "abstained": 12
+     }
+    },
+    "model_cypher_used": 197,
+    "er_precision": 0.9938144329896907,
+    "er_recall": 0.9347123464770524,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 141
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.7872340425531915,
+    "web": {
+     "right": 40,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8333333333333334,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 1113,
+    "model_eur": 0.2930224000000008,
+    "search_eur": 1.058,
+    "searches": 132,
+    "schema_errors": 0,
+    "build_seconds": 5.629799787999673,
+    "ask_ms_per_question": 97.12026543999967,
+    "writes": 1703,
+    "topic_model_ms": 2.3096892589202462,
+    "gate_failures": [
+     "right 0.810 < 0.85",
+     "wrong 0.087 > 0.02"
+    ]
+   },
+   "llm-cypher-raw": {
+    "label": "Model writes Cypher, unchecked",
+    "questions": 400,
+    "right": 0.7275,
+    "right_ci": [
+     0.6818559365326374,
+     0.768815811994508
+    ],
+    "wrong": 0.2375,
+    "wrong_ci": [
+     0.19841684319432581,
+     0.2815772931205065
+    ],
+    "abstained": 0.035,
+    "right_when_answered": 0.7538860103626943,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 54,
+      "wrong": 6,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 34,
+      "wrong": 7,
+      "abstained": 2
+     },
+     "owners": {
+      "right": 20,
+      "wrong": 20,
+      "abstained": 1
+     },
+     "pep_exposure": {
+      "right": 37,
+      "wrong": 19,
+      "abstained": 1
+     },
+     "sanctions_exposure": {
+      "right": 36,
+      "wrong": 17,
+      "abstained": 4
+     },
+     "ubo": {
+      "right": 13,
+      "wrong": 26,
+      "abstained": 2
+     }
+    },
+    "model_cypher_used": 336,
+    "er_precision": 0.9938144329896907,
+    "er_recall": 0.9347123464770524,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 141
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.7872340425531915,
+    "web": {
+     "right": 40,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8333333333333334,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 1113,
+    "model_eur": 0.29184640000000084,
+    "search_eur": 1.058,
+    "searches": 132,
+    "schema_errors": 0,
+    "build_seconds": 5.413625210000191,
+    "ask_ms_per_question": 93.66722670500054,
+    "writes": 1703,
+    "topic_model_ms": 1.897563973208045,
+    "gate_failures": [
+     "right 0.728 < 0.85",
+     "wrong 0.237 > 0.02"
+    ]
+   },
+   "topics-small-model": {
+    "label": "Topics: small model only",
+    "questions": 400,
+    "right": 0.865,
+    "right_ci": [
+     0.8280182729276188,
+     0.8950374994346143
+    ],
+    "wrong": 0.0,
+    "wrong_ci": [
+     0.0,
+     0.009512640599680667
+    ],
+    "abstained": 0.135,
+    "right_when_answered": 1.0,
+    "by_intent": {
+     "adverse_media": {
+      "right": 54,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 60,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 4
+     },
+     "pep_exposure": {
+      "right": 52,
+      "wrong": 0,
+      "abstained": 5
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 22,
+      "wrong": 0,
+      "abstained": 19
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9938144329896907,
+    "er_recall": 0.9347123464770524,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 111,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 141
+    },
+    "article_precision": 0.9910714285714286,
+    "article_recall": 0.7872340425531915,
+    "web": {
+     "right": 40,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8333333333333334,
+    "topic_by": {
+     "small model": 112
+    },
+    "model_calls": 777,
+    "model_eur": 0.14282160000000085,
+    "search_eur": 1.058,
+    "searches": 132,
+    "schema_errors": 0,
+    "build_seconds": 4.945635484000377,
+    "ask_ms_per_question": 92.63860431500007,
+    "writes": 1703,
+    "topic_model_ms": 1.7010537053140848,
+    "gate_failures": []
+   },
+   "topics-llm": {
+    "label": "Topics: model only",
+    "questions": 400,
+    "right": 0.8525,
+    "right_ci": [
+     0.8143991454822668,
+     0.8838944428949584
+    ],
+    "wrong": 0.0125,
+    "wrong_ci": [
+     0.005350671853550634,
+     0.02892415273113802
+    ],
+    "abstained": 0.135,
+    "right_when_answered": 0.9855491329479769,
+    "by_intent": {
+     "adverse_media": {
+      "right": 49,
+      "wrong": 5,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 60,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "exposed_suppliers": {
+      "right": 43,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 37,
+      "wrong": 0,
+      "abstained": 4
+     },
+     "pep_exposure": {
+      "right": 52,
+      "wrong": 0,
+      "abstained": 5
+     },
+     "sanctions_exposure": {
+      "right": 41,
+      "wrong": 0,
+      "abstained": 16
+     },
+     "ubo": {
+      "right": 22,
+      "wrong": 0,
+      "abstained": 19
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9938144329896907,
+    "er_recall": 0.9347123464770524,
+    "false_sanctions_links": 0,
+    "review_queue": 20,
+    "articles": {
+     "attached_right": 97,
+     "wrong_entity": 0,
+     "wrong_topic": 14,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 141
+    },
+    "article_precision": 0.8660714285714286,
+    "article_recall": 0.6879432624113475,
+    "web": {
+     "right": 40,
+     "wrong_owner": 5,
+     "stale_kept": 3
+    },
+    "web_precision": 0.8333333333333334,
+    "topic_by": {
+     "model": 112
+    },
+    "model_calls": 777,
+    "model_eur": 0.14282160000000085,
+    "search_eur": 1.058,
+    "searches": 132,
+    "schema_errors": 0,
+    "build_seconds": 4.719282478000423,
+    "ask_ms_per_question": 94.71683851500075,
+    "writes": 1703,
+    "topic_model_ms": 0.0,
+    "gate_failures": [
+     "article precision 0.866 < 0.95"
+    ]
+   }
+  }
+ },
+ "heldout": {
+  "commit": "5943bd9a99884a9af201fb8b7805659828c7c7b7",
+  "designs": {
+   "graph-pipeline": {
+    "label": "Graph pipeline",
+    "questions": 260,
+    "right": 0.7961538461538461,
+    "right_ci": [
+     0.7430399337950294,
+     0.8406436096643793
+    ],
+    "wrong": 0.1,
+    "wrong_ci": [
+     0.06915882043083266,
+     0.14248938061100455
+    ],
+    "abstained": 0.10384615384615385,
+    "right_when_answered": 0.8884120171673819,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 13,
+      "wrong": 25,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 29,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "pep_exposure": {
+      "right": 27,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "sanctions_exposure": {
+      "right": 32,
+      "wrong": 0,
+      "abstained": 9
+     },
+     "ubo": {
+      "right": 26,
+      "wrong": 0,
+      "abstained": 2
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9960222752585521,
+    "er_recall": 0.9277510188958874,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 239
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8493723849372385,
+    "web": {
+     "right": 51,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.85,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 969,
+    "model_eur": 0.178095200000002,
+    "search_eur": 1.346,
+    "searches": 168,
+    "schema_errors": 0,
+    "build_seconds": 7.556374828000116,
+    "ask_ms_per_question": 184.55023411923042,
+    "writes": 2418,
+    "topic_model_ms": 1.8382898382380481,
+    "gate_failures": [
+     "right 0.796 < 0.85",
+     "wrong 0.100 > 0.02"
+    ]
+   },
+   "naive-prototype": {
+    "label": "Naive prototype",
+    "questions": 260,
+    "right": 0.4,
+    "right_ci": [
+     0.3423241359186458,
+     0.4605879143418135
+    ],
+    "wrong": 0.5384615384615384,
+    "wrong_ci": [
+     0.47774475359067287,
+     0.598058304001458
+    ],
+    "abstained": 0.06153846153846154,
+    "right_when_answered": 0.4262295081967213,
+    "by_intent": {
+     "adverse_media": {
+      "right": 27,
+      "wrong": 1,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 15,
+      "wrong": 13,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 38,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 13,
+      "wrong": 14,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 10,
+      "wrong": 20,
+      "abstained": 1
+     },
+     "pep_exposure": {
+      "right": 14,
+      "wrong": 16,
+      "abstained": 0
+     },
+     "sanctions_exposure": {
+      "right": 14,
+      "wrong": 21,
+      "abstained": 6
+     },
+     "ubo": {
+      "right": 11,
+      "wrong": 17,
+      "abstained": 0
+     }
+    },
+    "model_cypher_used": 199,
+    "er_precision": 0.7942604856512141,
+    "er_recall": 0.8649038461538462,
+    "false_sanctions_links": 5,
+    "review_queue": 0,
+    "articles": {
+     "attached_right": 182,
+     "wrong_entity": 22,
+     "wrong_topic": 6,
+     "namesake_attached": 16,
+     "articles_about_graph_entities": 217
+    },
+    "article_precision": 0.8053097345132744,
+    "article_recall": 0.8387096774193549,
+    "web": {
+     "right": 24,
+     "wrong_owner": 23,
+     "stale_kept": 2
+    },
+    "web_precision": 0.4897959183673469,
+    "topic_by": {
+     "model": 226
+    },
+    "model_calls": 573,
+    "model_eur": 0.608562,
+    "search_eur": 0.442,
+    "searches": 55,
+    "schema_errors": 0,
+    "build_seconds": 5.646634789000018,
+    "ask_ms_per_question": 171.3814153230767,
+    "writes": 2131,
+    "topic_model_ms": 0.0,
+    "gate_failures": [
+     "right 0.400 < 0.85",
+     "wrong 0.538 > 0.02",
+     "resolution precision 0.7943 < 0.99",
+     "5 sanctions listings attached to the wrong party",
+     "article precision 0.805 < 0.95"
+    ]
+   },
+   "no-transliteration": {
+    "label": "Without transliteration",
+    "questions": 260,
+    "right": 0.5269230769230769,
+    "right_ci": [
+     0.4662843900282317,
+     0.5867777502862601
+    ],
+    "wrong": 0.22692307692307692,
+    "wrong_ci": [
+     0.18020299814732044,
+     0.28159529294854924
+    ],
+    "abstained": 0.24615384615384617,
+    "right_when_answered": 0.6989795918367347,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 18,
+      "wrong": 10,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 38,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 22,
+      "wrong": 1,
+      "abstained": 10
+     },
+     "owners": {
+      "right": 17,
+      "wrong": 0,
+      "abstained": 14
+     },
+     "pep_exposure": {
+      "right": 14,
+      "wrong": 10,
+      "abstained": 6
+     },
+     "sanctions_exposure": {
+      "right": 20,
+      "wrong": 0,
+      "abstained": 21
+     },
+     "ubo": {
+      "right": 18,
+      "wrong": 0,
+      "abstained": 10
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.995100707675558,
+    "er_recall": 0.8618576143328619,
+    "false_sanctions_links": 0,
+    "review_queue": 16,
+    "articles": {
+     "attached_right": 170,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 227
+    },
+    "article_precision": 0.9941520467836257,
+    "article_recall": 0.748898678414097,
+    "web": {
+     "right": 48,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.8421052631578947,
+    "topic_by": {
+     "small model": 171
+    },
+    "model_calls": 919,
+    "model_eur": 0.16891840000000166,
+    "search_eur": 1.25,
+    "searches": 156,
+    "schema_errors": 0,
+    "build_seconds": 6.014740295000138,
+    "ask_ms_per_question": 152.69107658461613,
+    "writes": 2162,
+    "topic_model_ms": 1.7894597894666189,
+    "gate_failures": [
+     "right 0.527 < 0.85",
+     "wrong 0.227 > 0.02"
+    ]
+   },
+   "names-only-resolution": {
+    "label": "Names-only resolution",
+    "questions": 260,
+    "right": 0.6884615384615385,
+    "right_ci": [
+     0.6297671092051381,
+     0.7416678729963039
+    ],
+    "wrong": 0.28076923076923077,
+    "wrong_ci": [
+     0.22964319175204906,
+     0.338279379972804
+    ],
+    "abstained": 0.03076923076923077,
+    "right_when_answered": 0.7103174603174603,
+    "by_intent": {
+     "adverse_media": {
+      "right": 30,
+      "wrong": 0,
+      "abstained": 0
+     },
+     "directors": {
+      "right": 21,
+      "wrong": 8,
+      "abstained": 0
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 38,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 29,
+      "wrong": 2,
+      "abstained": 2
+     },
+     "owners": {
+      "right": 28,
+      "wrong": 3,
+      "abstained": 0
+     },
+     "pep_exposure": {
+      "right": 23,
+      "wrong": 7,
+      "abstained": 0
+     },
+     "sanctions_exposure": {
+      "right": 28,
+      "wrong": 11,
+      "abstained": 2
+     },
+     "ubo": {
+      "right": 20,
+      "wrong": 4,
+      "abstained": 4
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.77957811066952,
+    "er_recall": 0.9692132269099202,
+    "false_sanctions_links": 5,
+    "review_queue": 0,
+    "articles": {
+     "attached_right": 188,
+     "wrong_entity": 4,
+     "wrong_topic": 0,
+     "namesake_attached": 5,
+     "articles_about_graph_entities": 208
+    },
+    "article_precision": 0.9543147208121827,
+    "article_recall": 0.9038461538461539,
+    "web": {
+     "right": 41,
+     "wrong_owner": 14,
+     "stale_kept": 1
+    },
+    "web_precision": 0.7321428571428571,
+    "topic_by": {
+     "small model": 197
+    },
+    "model_calls": 902,
+    "model_eur": 0.16580240000000165,
+    "search_eur": 1.178,
+    "searches": 147,
+    "schema_errors": 0,
+    "build_seconds": 12.924144426000112,
+    "ask_ms_per_question": 156.9473239153852,
+    "writes": 2268,
+    "topic_model_ms": 2.1360513908475327,
+    "gate_failures": [
+     "right 0.688 < 0.85",
+     "wrong 0.281 > 0.02",
+     "resolution precision 0.7796 < 0.99",
+     "5 sanctions listings attached to the wrong party"
+    ]
+   },
+   "latest-state-graph": {
+    "label": "Latest-state graph (no time)",
+    "questions": 260,
+    "right": 0.6576923076923077,
+    "right_ci": [
+     0.5980964701934751,
+     0.7126960659342622
+    ],
+    "wrong": 0.22692307692307692,
+    "wrong_ci": [
+     0.18020299814732044,
+     0.28159529294854924
+    ],
+    "abstained": 0.11538461538461539,
+    "right_when_answered": 0.7434782608695653,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 24,
+      "wrong": 4,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 0,
+      "wrong": 38,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 13,
+      "wrong": 12,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 26,
+      "wrong": 3,
+      "abstained": 2
+     },
+     "pep_exposure": {
+      "right": 22,
+      "wrong": 1,
+      "abstained": 7
+     },
+     "sanctions_exposure": {
+      "right": 33,
+      "wrong": 1,
+      "abstained": 7
+     },
+     "ubo": {
+      "right": 25,
+      "wrong": 0,
+      "abstained": 3
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9960222752585521,
+    "er_recall": 0.9277510188958874,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 239
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8493723849372385,
+    "web": {
+     "right": 45,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.8333333333333334,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 969,
+    "model_eur": 0.178095200000002,
+    "search_eur": 1.346,
+    "searches": 168,
+    "schema_errors": 0,
+    "build_seconds": 9.006720969000071,
+    "ask_ms_per_question": 177.73208684230806,
+    "writes": 2412,
+    "topic_model_ms": 1.882710117641574,
+    "gate_failures": [
+     "right 0.658 < 0.85",
+     "wrong 0.227 > 0.02"
+    ]
+   },
+   "no-context-check": {
+    "label": "Without context checks",
+    "questions": 260,
+    "right": 0.8192307692307692,
+    "right_ci": [
+     0.7679151708585595,
+     0.861250207156128
+    ],
+    "wrong": 0.07307692307692308,
+    "wrong_ci": [
+     0.04727892150474328,
+     0.11130713922260221
+    ],
+    "abstained": 0.1076923076923077,
+    "right_when_answered": 0.9181034482758621,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 21,
+      "wrong": 17,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 27,
+      "wrong": 1,
+      "abstained": 3
+     },
+     "pep_exposure": {
+      "right": 27,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "sanctions_exposure": {
+      "right": 32,
+      "wrong": 0,
+      "abstained": 9
+     },
+     "ubo": {
+      "right": 26,
+      "wrong": 0,
+      "abstained": 2
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9257294429708223,
+    "er_recall": 0.8909555069292487,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 209,
+     "wrong_entity": 19,
+     "wrong_topic": 0,
+     "namesake_attached": 16,
+     "articles_about_graph_entities": 242
+    },
+    "article_precision": 0.8565573770491803,
+    "article_recall": 0.8636363636363636,
+    "web": {
+     "right": 51,
+     "wrong_owner": 5,
+     "stale_kept": 1
+    },
+    "web_precision": 0.8947368421052632,
+    "topic_by": {
+     "small model": 244
+    },
+    "model_calls": 942,
+    "model_eur": 0.17304240000000184,
+    "search_eur": 1.274,
+    "searches": 159,
+    "schema_errors": 0,
+    "build_seconds": 7.61205741699996,
+    "ask_ms_per_question": 177.28032659230777,
+    "writes": 2497,
+    "topic_model_ms": 1.84006161066277,
+    "gate_failures": [
+     "right 0.819 < 0.85",
+     "wrong 0.073 > 0.02",
+     "resolution precision 0.9257 < 0.99",
+     "article precision 0.857 < 0.95"
+    ]
+   },
+   "enrichment-first-result": {
+    "label": "Enrichment takes the first result",
+    "questions": 260,
+    "right": 0.7269230769230769,
+    "right_ci": [
+     0.6697561121431943,
+     0.7774819276503788
+    ],
+    "wrong": 0.1423076923076923,
+    "wrong_ci": [
+     0.10503880802427062,
+     0.18999275636891072
+    ],
+    "abstained": 0.13076923076923078,
+    "right_when_answered": 0.8362831858407079,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 2,
+      "wrong": 36,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "pep_exposure": {
+      "right": 23,
+      "wrong": 0,
+      "abstained": 7
+     },
+     "sanctions_exposure": {
+      "right": 32,
+      "wrong": 0,
+      "abstained": 9
+     },
+     "ubo": {
+      "right": 24,
+      "wrong": 0,
+      "abstained": 4
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.961356805495921,
+    "er_recall": 0.8934557063048684,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 238
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8529411764705882,
+    "web": {
+     "right": 29,
+     "wrong_owner": 22,
+     "stale_kept": 3
+    },
+    "web_precision": 0.5370370370370371,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 379,
+    "model_eur": 0.07033680000000006,
+    "search_eur": 0.482,
+    "searches": 60,
+    "schema_errors": 0,
+    "build_seconds": 6.317825465000169,
+    "ask_ms_per_question": 183.33104336538432,
+    "writes": 2367,
+    "topic_model_ms": 1.7317572745116872,
+    "gate_failures": [
+     "right 0.727 < 0.85",
+     "wrong 0.142 > 0.02",
+     "resolution precision 0.9614 < 0.99"
+    ]
+   },
+   "no-enrichment": {
+    "label": "Without web enrichment",
+    "questions": 260,
+    "right": 0.7769230769230769,
+    "right_ci": [
+     0.7224951018120348,
+     0.8232869128513086
+    ],
+    "wrong": 0.06923076923076923,
+    "wrong_ci": [
+     0.04423674692812547,
+     0.10676900804000693
+    ],
+    "abstained": 0.15384615384615385,
+    "right_when_answered": 0.9181818181818182,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 21,
+      "wrong": 17,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "pep_exposure": {
+      "right": 23,
+      "wrong": 0,
+      "abstained": 7
+     },
+     "sanctions_exposure": {
+      "right": 32,
+      "wrong": 0,
+      "abstained": 9
+     },
+     "ubo": {
+      "right": 18,
+      "wrong": 0,
+      "abstained": 10
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9980276134122288,
+    "er_recall": 0.9187471629596006,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 237
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8565400843881856,
+    "web": {
+     "right": 0,
+     "wrong_owner": 0,
+     "stale_kept": 0
+    },
+    "web_precision": 0.0,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 325,
+    "model_eur": 0.06044639999999998,
+    "search_eur": 0.002,
+    "searches": 0,
+    "schema_errors": 0,
+    "build_seconds": 5.565343117999873,
+    "ask_ms_per_question": 164.33030665384476,
+    "writes": 2294,
+    "topic_model_ms": 1.729185710788068,
+    "gate_failures": [
+     "right 0.777 < 0.85",
+     "wrong 0.069 > 0.02"
+    ]
+   },
+   "llm-cypher-validated": {
+    "label": "Model writes Cypher, checked",
+    "questions": 260,
+    "right": 0.7461538461538462,
+    "right_ci": [
+     0.6899325568456964,
+     0.7952070117439423
+    ],
+    "wrong": 0.16923076923076924,
+    "wrong_ci": [
+     0.12854690320787845,
+     0.2195468014997947
+    ],
+    "abstained": 0.08461538461538462,
+    "right_when_answered": 0.8151260504201681,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 26,
+      "wrong": 2,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 13,
+      "wrong": 25,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 29,
+      "wrong": 1,
+      "abstained": 1
+     },
+     "pep_exposure": {
+      "right": 22,
+      "wrong": 6,
+      "abstained": 2
+     },
+     "sanctions_exposure": {
+      "right": 26,
+      "wrong": 7,
+      "abstained": 8
+     },
+     "ubo": {
+      "right": 26,
+      "wrong": 2,
+      "abstained": 0
+     }
+    },
+    "model_cypher_used": 118,
+    "er_precision": 0.9960222752585521,
+    "er_recall": 0.9277510188958874,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 239
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8493723849372385,
+    "web": {
+     "right": 51,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.85,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 1168,
+    "model_eur": 0.2687568000000019,
+    "search_eur": 1.346,
+    "searches": 168,
+    "schema_errors": 0,
+    "build_seconds": 6.938316857000245,
+    "ask_ms_per_question": 173.94812248846148,
+    "writes": 2418,
+    "topic_model_ms": 1.8073651715373191,
+    "gate_failures": [
+     "right 0.746 < 0.85",
+     "wrong 0.169 > 0.02"
+    ]
+   },
+   "llm-cypher-raw": {
+    "label": "Model writes Cypher, unchecked",
+    "questions": 260,
+    "right": 0.65,
+    "right_ci": [
+     0.5902205875604355,
+     0.7054113370488756
+    ],
+    "wrong": 0.28846153846153844,
+    "wrong_ci": [
+     0.23678759773901314,
+     0.3462955855042661
+    ],
+    "abstained": 0.06153846153846154,
+    "right_when_answered": 0.6926229508196722,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 22,
+      "wrong": 6,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 13,
+      "wrong": 25,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 23,
+      "wrong": 4,
+      "abstained": 6
+     },
+     "owners": {
+      "right": 23,
+      "wrong": 7,
+      "abstained": 1
+     },
+     "pep_exposure": {
+      "right": 20,
+      "wrong": 10,
+      "abstained": 0
+     },
+     "sanctions_exposure": {
+      "right": 26,
+      "wrong": 9,
+      "abstained": 6
+     },
+     "ubo": {
+      "right": 14,
+      "wrong": 14,
+      "abstained": 0
+     }
+    },
+    "model_cypher_used": 199,
+    "er_precision": 0.9960222752585521,
+    "er_recall": 0.9277510188958874,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 239
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8493723849372385,
+    "web": {
+     "right": 51,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.85,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 1168,
+    "model_eur": 0.265448800000002,
+    "search_eur": 1.346,
+    "searches": 168,
+    "schema_errors": 0,
+    "build_seconds": 6.513518344000204,
+    "ask_ms_per_question": 170.48212508461629,
+    "writes": 2418,
+    "topic_model_ms": 1.7331215147230656,
+    "gate_failures": [
+     "right 0.650 < 0.85",
+     "wrong 0.288 > 0.02"
+    ]
+   },
+   "topics-small-model": {
+    "label": "Topics: small model only",
+    "questions": 260,
+    "right": 0.7961538461538461,
+    "right_ci": [
+     0.7430399337950294,
+     0.8406436096643793
+    ],
+    "wrong": 0.1,
+    "wrong_ci": [
+     0.06915882043083266,
+     0.14248938061100455
+    ],
+    "abstained": 0.10384615384615385,
+    "right_when_answered": 0.8884120171673819,
+    "by_intent": {
+     "adverse_media": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 13,
+      "wrong": 25,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 29,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "pep_exposure": {
+      "right": 27,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "sanctions_exposure": {
+      "right": 32,
+      "wrong": 0,
+      "abstained": 9
+     },
+     "ubo": {
+      "right": 26,
+      "wrong": 0,
+      "abstained": 2
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9960222752585521,
+    "er_recall": 0.9277510188958874,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 203,
+     "wrong_entity": 0,
+     "wrong_topic": 0,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 239
+    },
+    "article_precision": 0.9950980392156863,
+    "article_recall": 0.8493723849372385,
+    "web": {
+     "right": 51,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.85,
+    "topic_by": {
+     "small model": 204
+    },
+    "model_calls": 969,
+    "model_eur": 0.178095200000002,
+    "search_eur": 1.346,
+    "searches": 168,
+    "schema_errors": 0,
+    "build_seconds": 6.4072124640001675,
+    "ask_ms_per_question": 176.67821774230805,
+    "writes": 2418,
+    "topic_model_ms": 1.6824110882413044,
+    "gate_failures": [
+     "right 0.796 < 0.85",
+     "wrong 0.100 > 0.02"
+    ]
+   },
+   "topics-llm": {
+    "label": "Topics: model only",
+    "questions": 260,
+    "right": 0.7884615384615384,
+    "right_ci": [
+     0.7348029574801744,
+     0.8337199744608084
+    ],
+    "wrong": 0.1076923076923077,
+    "wrong_ci": [
+     0.07556539624250147,
+     0.15124341631776195
+    ],
+    "abstained": 0.10384615384615385,
+    "right_when_answered": 0.8798283261802575,
+    "by_intent": {
+     "adverse_media": {
+      "right": 26,
+      "wrong": 2,
+      "abstained": 2
+     },
+     "directors": {
+      "right": 28,
+      "wrong": 0,
+      "abstained": 1
+     },
+     "exposed_suppliers": {
+      "right": 13,
+      "wrong": 25,
+      "abstained": 0
+     },
+     "last_ownership_change": {
+      "right": 24,
+      "wrong": 1,
+      "abstained": 8
+     },
+     "owners": {
+      "right": 29,
+      "wrong": 0,
+      "abstained": 2
+     },
+     "pep_exposure": {
+      "right": 27,
+      "wrong": 0,
+      "abstained": 3
+     },
+     "sanctions_exposure": {
+      "right": 32,
+      "wrong": 0,
+      "abstained": 9
+     },
+     "ubo": {
+      "right": 26,
+      "wrong": 0,
+      "abstained": 2
+     }
+    },
+    "model_cypher_used": 0,
+    "er_precision": 0.9960222752585521,
+    "er_recall": 0.9277510188958874,
+    "false_sanctions_links": 0,
+    "review_queue": 21,
+    "articles": {
+     "attached_right": 179,
+     "wrong_entity": 0,
+     "wrong_topic": 24,
+     "namesake_attached": 1,
+     "articles_about_graph_entities": 239
+    },
+    "article_precision": 0.8774509803921569,
+    "article_recall": 0.7489539748953975,
+    "web": {
+     "right": 51,
+     "wrong_owner": 5,
+     "stale_kept": 4
+    },
+    "web_precision": 0.85,
+    "topic_by": {
+     "model": 204
+    },
+    "model_calls": 969,
+    "model_eur": 0.178095200000002,
+    "search_eur": 1.346,
+    "searches": 168,
+    "schema_errors": 0,
+    "build_seconds": 7.331261952999739,
+    "ask_ms_per_question": 190.6112098346144,
+    "writes": 2418,
+    "topic_model_ms": 0.0,
+    "gate_failures": [
+     "right 0.788 < 0.85",
+     "wrong 0.108 > 0.02",
+     "article precision 0.877 < 0.95"
+    ]
+   }
+  }
+ },
+ "topics": {
+  "dev": {
+   "split": "dev",
+   "articles": 245,
+   "trained_on": 245,
+   "small model": {
+    "accuracy": 1.0,
+    "eur_per_1000": 0.0,
+    "ms": 1.5287162081630394
+   },
+   "model (small)": {
+    "accuracy": 0.889795918367347,
+    "eur_per_1000": 0.08576000000000004,
+    "ms": 900.0
+   },
+   "model (large)": {
+    "accuracy": 0.9387755102040817,
+    "eur_per_1000": 0.3213551020408162,
+    "ms": 2400.0
+   },
+   "cascade": {
+    "accuracy": 0.9959183673469387,
+    "eur_per_1000": 0.00256,
+    "ms": 27.243001922448755,
+    "model_share": 0.02857142857142857
+   }
+  },
+  "heldout": {
+   "split": "heldout",
+   "articles": 37,
+   "trained_on": 245,
+   "small model": {
+    "accuracy": 1.0,
+    "eur_per_1000": 0.0,
+    "ms": 2.1540375405370344
+   },
+   "model (small)": {
+    "accuracy": 0.918918918918919,
+    "eur_per_1000": 0.08583783783783787,
+    "ms": 900.0
+   },
+   "model (large)": {
+    "accuracy": 0.9459459459459459,
+    "eur_per_1000": 0.3198648648648649,
+    "ms": 2400.0
+   },
+   "cascade": {
+    "accuracy": 1.0,
+    "eur_per_1000": 0.0,
+    "ms": 2.1540375405370344,
+    "model_share": 0.0
+   }
+  }
+ },
+ "story": {
+  "supplier": "ent-4bc747db27a7",
+  "name": "Pinnacle Maschinenbau GmbH",
+  "start": "2023-01-01",
+  "end": "2025-12-31",
+  "question": "Is Pinnacle Maschinenbau GmbH linked to any sanctioned party as of {date}?",
+  "cypher": [
+   "MATCH (o:Entity)-[r:RELATES_TO]->(c:Entity {uuid: $c}) WHERE r.name = 'OWNS' AND r.expired_at IS NULL AND r.valid_at <= $d AND (r.invalid_at IS NULL OR r.invalid_at > $d) RETURN o.uuid AS uuid, r.pct AS pct, r.source AS source, r.valid_at AS since",
+   "MATCH (o:Entity)-[r:RELATES_TO]->(c:Entity {uuid: $c}) WHERE r.name = 'OWNS' AND r.expired_at IS NULL AND r.valid_at <= $d AND (r.invalid_at IS NULL OR r.invalid_at > $d) RETURN o.uuid AS uuid, r.pct AS pct, r.source AS source, r.valid_at AS since",
+   "MATCH (o:Entity)-[r:RELATES_TO]->(c:Entity {uuid: $c}) WHERE r.name = 'DIRECTOR_OF' AND r.expired_at IS NULL AND r.valid_at <= $d AND (r.invalid_at IS NULL OR r.invalid_at > $d) RETURN o.uuid AS uuid"
+  ],
+  "entities": [
+   {
+    "uuid": "ent-4bc747db27a7",
+    "name": "Pinnacle Maschinenbau GmbH",
+    "kind": "Company",
+    "country": "DE"
+   },
+   {
+    "uuid": "ent-82de20129d2f",
+    "name": "Krüger, Jörg",
+    "kind": "Person",
+    "country": null
+   },
+   {
+    "uuid": "ent-61a718b7d0e3",
+    "name": "Fletcher, Olivia",
+    "kind": "Person",
+    "country": null
+   },
+   {
+    "uuid": "ent-ac58692e521c",
+    "name": "Corvus Logistics B.V.",
+    "kind": "Company",
+    "country": "NL"
+   },
+   {
+    "uuid": "ent-74f780b4e19d",
+    "name": "Al-Farsi, Mariam",
+    "kind": "Person",
+    "country": null
+   },
+   {
+    "uuid": "ent-51303b6ec6e4",
+    "name": "Polaris Capital Ltd",
+    "kind": "Company",
+    "country": "VG"
+   },
+   {
+    "uuid": "ent-c9428c282e46",
+    "name": "Sun, Jun",
+    "kind": "Person",
+    "country": null
+   },
+   {
+    "uuid": "ent-636dc0007d16",
+    "name": "K. Groß",
+    "kind": "Person",
+    "country": null
+   },
+   {
+    "uuid": "ent-92281406421e",
+    "name": "D. Kuznetsov",
+    "kind": "Person",
+    "country": null
+   },
+   {
+    "uuid": "ent-ddd01cd3b8a8",
+    "name": "Muhammad Al-Mansouri",
+    "kind": "Person",
+    "country": null
+   }
+  ],
+  "facts": [
+   {
+    "a": "ent-51303b6ec6e4",
+    "b": "ent-4bc747db27a7",
+    "bname": "Pinnacle Maschinenbau GmbH",
+    "fact": "OWNS",
+    "pct": 100.0,
+    "v": "2025-12-02",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-74f780b4e19d",
+    "b": "ent-4bc747db27a7",
+    "bname": "Pinnacle Maschinenbau GmbH",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-09-23",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-ac58692e521c",
+    "b": "ent-4bc747db27a7",
+    "bname": "Pinnacle Maschinenbau GmbH",
+    "fact": "OWNS",
+    "pct": 100.0,
+    "v": "2023-01-01",
+    "i": "2025-12-02",
+    "source": "registry"
+   },
+   {
+    "a": "ent-61a718b7d0e3",
+    "b": "ent-4bc747db27a7",
+    "bname": "Pinnacle Maschinenbau GmbH",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": "2023-09-23",
+    "source": "registry"
+   },
+   {
+    "a": "ent-82de20129d2f",
+    "b": "ent-4bc747db27a7",
+    "bname": "Pinnacle Maschinenbau GmbH",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-c9428c282e46",
+    "b": "ent-4e231f02c281",
+    "bname": "Elbe Verpackung GmbH",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-51303b6ec6e4",
+    "b": "ent-a5f459b91a81",
+    "bname": "Rheintal Logistik GmbH",
+    "fact": "OWNS",
+    "pct": 100.0,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-ac58692e521c",
+    "b": "ent-47a30bd438c2",
+    "bname": "Driftwood Verpackung GmbH",
+    "fact": "OWNS",
+    "pct": 100.0,
+    "v": "2023-03-26",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-51303b6ec6e4",
+    "b": "ent-d1e97fe63b54",
+    "bname": "Sterling Components Ltd",
+    "fact": "OWNS",
+    "pct": 75.0,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-82de20129d2f",
+    "b": "ent-08ffcea846a5",
+    "bname": "Foxglove Logistics B.V.",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-74f780b4e19d",
+    "b": "ent-f5ec96756fc8",
+    "bname": "Goldcrest Engineering Ltd",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-92281406421e",
+    "b": "ent-ac58692e521c",
+    "bname": "Corvus Logistics B.V.",
+    "fact": "OWNS",
+    "pct": 100.0,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-636dc0007d16",
+    "b": "ent-ac58692e521c",
+    "bname": "Corvus Logistics B.V.",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-c9428c282e46",
+    "b": "ent-ac58692e521c",
+    "bname": "Corvus Logistics B.V.",
+    "fact": "DIRECTOR_OF",
+    "pct": null,
+    "v": "2023-01-01",
+    "i": null,
+    "source": "registry"
+   },
+   {
+    "a": "ent-ddd01cd3b8a8",
+    "b": "ent-51303b6ec6e4",
+    "bname": "Polaris Capital Ltd",
+    "fact": "OWNS",
+    "pct": 49.0,
+    "v": "2025-03-11",
+    "i": null,
+    "source": "web"
+   },
+   {
+    "a": "ent-74f780b4e19d",
+    "b": "ent-118826f037bd",
+    "bname": "GLOMAG",
+    "fact": "LISTED_ON",
+    "pct": null,
+    "v": "2022-11-14",
+    "i": null,
+    "source": "sanctions"
+   },
+   {
+    "a": "ent-51303b6ec6e4",
+    "b": "ent-a2f194e9ef95",
+    "bname": "UK-RUS",
+    "fact": "LISTED_ON",
+    "pct": null,
+    "v": "2021-11-23",
+    "i": null,
+    "source": "sanctions"
+   }
+  ]
+ }
+}

@@ -202,6 +202,15 @@ class PersonIndex:
                 c = self.people[i]
                 if any(split_person(n)[0] and split_person(n)[0][0].startswith(initial) for n in c.names):
                     ids.add(i)
+        elif len(toks) >= 2:
+            # someone we only know by an initial ("W. Zhou"), now named in full
+            for fam in (toks[-1], toks[0]):
+                for i in self.by_family.get(_phon(fam), set()):
+                    c = self.people[i]
+                    for n in c.names:
+                        rest, ini = split_person(n)
+                        if ini and rest and _phon(rest[-1]) == _phon(fam) and any(t.startswith(ini) for t in toks if t != fam):
+                            ids.add(i)
         return [self.people[i] for i in ids]
 
     @staticmethod

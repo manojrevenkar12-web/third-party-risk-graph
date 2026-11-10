@@ -28,3 +28,10 @@ def test_initials_and_legal_forms():
     assert c.resolve("Trident Investments Ltd", None, None, "Limassol") is None  # an LLC is not a Ltd
     c.add("cy", "Trident Investments Ltd", "CY", "HE 1", "Limassol")
     assert c.resolve("TRIDENT INVESTMENTS LTD", "CY", "HE 1") == "cy"
+
+
+def test_someone_known_by_an_initial_is_found_by_full_name():
+    idx = PersonIndex()
+    idx.add("w", PersonRef("W. Zhou", **parse_born("1962-07-01")))
+    assert idx.resolve(PersonRef("ZHOU, Wei", **parse_born("1962-07-01")))[0] == "w"
+    assert idx.resolve(PersonRef("ZHOU, Wei", **parse_born("1970-01-01")))[0] is None

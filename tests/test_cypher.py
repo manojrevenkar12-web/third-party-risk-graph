@@ -91,3 +91,18 @@ def test_api_answers_with_cypher(graph):
     assert r["intent"] == "sanctions_exposure" and [e["name"] for e in r["entities"]] == ["Oleg Orlov"] and r["cypher"]
     assert c.get(f"/entities/{ids['sup']}/facts", params={"as_of": "1970-12-31"}).json()[0]["other"] == "Anna Schmidt"
     assert c.get("/entities/nope/facts", params={"as_of": "1970-12-31"}).status_code == 404
+
+
+def test_an_old_web_page_is_not_evidence_of_exposure(graph):
+    from trg.graph.ask import Answer, Asker
+    from trg.graph.design import Design
+
+    g, ids = graph
+    sup2 = g.add_entity("Company", "Trident Trading Co., Ltd.", country="CN")
+    g.add_fact(Fact("OWNS", ids["oleg"], sup2, 100, "page", "web", 0.7, pct=100.0), 100)  # a page from day 100
+    g.kinds.update({sup2: "Company", ids["oleg"]: "Person"})
+    asker = Asker(g, None, Design(), {"max_web_age_days": 365}, {sup2: ["Trident Trading"]}, set(), 0)
+    hits, complete = asker._exposure(Answer("x"), {"c": sup2, "d": 200}, "LISTED_ON")
+    assert hits == {ids["oleg"]} and complete  # a recent page: the listed owner counts
+    hits, complete = asker._exposure(Answer("x"), {"c": sup2, "d": 900}, "LISTED_ON")
+    assert hits == set() and not complete  # two years later the page proves nothing: abstain

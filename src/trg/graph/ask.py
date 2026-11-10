@@ -331,6 +331,8 @@ class Asker:
                 complete = False
             if self._stale(rows, d):
                 complete = False
+                # an old page is not evidence of who owns the company today: do not follow it
+                rows = [r for r in rows if not (r["source"] in ("web", "news") and d - r["since"] > self.s["max_web_age_days"])]
             if rows and any(r["source"] in ("web", "news") for r in rows) and sum(r["pct"] or 0 for r in rows) < 99:
                 complete = False  # a page named some owners; the rest of the shares are unaccounted for
             for r in rows:

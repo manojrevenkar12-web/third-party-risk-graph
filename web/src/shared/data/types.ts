@@ -1,0 +1,36 @@
+export type DesignSummary = {
+  label: string;
+  questions: number;
+  right: number;
+  wrong: number;
+  abstained: number;
+  right_ci: [number, number];
+  right_when_answered: number;
+  er_precision: number;
+  er_recall: number;
+  false_sanctions_links: number;
+  review_queue: number;
+  article_precision: number;
+  article_recall: number;
+  web_precision: number;
+  model_eur: number;
+  search_eur: number;
+  gate_failures: string[];
+  by_intent: Record<string, { right: number; wrong: number; abstained: number }>;
+};
+export type Run = { commit: string | null; designs: Record<string, DesignSummary> };
+export type TopicRow = { accuracy: number; eur_per_1000: number; ms: number; model_share?: number };
+export type Topics = { split: string; articles: number; trained_on: number } & Record<string, TopicRow | number | string>;
+export type Fact = { a: string; b: string; bname: string; fact: string; pct: number | null; v: string; i: string | null; source: string };
+export type Entity = { uuid: string; name: string; kind: string; country: string | null };
+export type Story = {
+  supplier: string;
+  name: string;
+  start: string;
+  end: string;
+  question: string;
+  cypher: string[];
+  entities: Entity[];
+  facts: Fact[];
+};
+export type Summary = { dev: Run | null; heldout: Run | null; topics: { dev: Topics; heldout?: Topics }; story: Story };

@@ -115,6 +115,7 @@ class Pipeline:
         self.r = Report()
         self.now = services.now
         self.attached: list[tuple[str, str, str]] = []
+        self.filed_as: dict[str, dict[tuple, str]] = {}
         self.web_writes: list[dict] = []
 
     # ---- entities ----------------------------------------------------------------------------------------------
@@ -213,9 +214,16 @@ class Pipeline:
         cid = self.company(f"filing:{f['id']}", f["company"], f["country"], f["regno"], f["city"], registry=True)
         eff = day(f["effective"])
         nxt, officers, holders = [], {}, {}
+        # the same registry writes the same person the same way in the company's next filing
+        seen = self.filed_as.setdefault(cid, {})
         for m in f["officers"]:
             born = parse_born(m.get("born"))
-            pid = self.person(f"filing:{m['ref']}", PersonRef(m["name"], nationality=m.get("nationality"), **born))
+            key = (m["name"], m.get("born"), m.get("nationality"))
+            if key in seen:
+                pid = seen[key]
+                self._seen(pid, f"filing:{m['ref']}", m["name"])
+            else:
+                pid = seen[key] = self.person(f"filing:{m['ref']}", PersonRef(m["name"], nationality=m.get("nationality"), **born))
             officers[pid] = None
         if f["shareholders"] is not None:
             self.registry_owners.add(cid)
@@ -228,10 +236,13 @@ class Pipeline:
                     else:
                         self.unknown_owners.add(oid)
                 else:
-                    oid = self.person(
-                        f"filing:{m['ref']}",
-                        PersonRef(m["name"], nationality=m.get("nationality"), **parse_born(m.get("born"))),
-                    )
+                    key = (m["name"], m.get("born"), m.get("nationality"))
+                    if key in seen:
+                        oid = seen[key]
+                        self._seen(oid, f"filing:{m['ref']}", m["name"])
+                    else:
+                        ref = PersonRef(m["name"], nationality=m.get("nationality"), **parse_born(m.get("born")))
+                        oid = seen[key] = self.person(f"filing:{m['ref']}", ref)
                 holders[oid] = pct
         else:
             self.unknown_owners.add(cid)
